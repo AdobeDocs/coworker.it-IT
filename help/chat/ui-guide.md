@@ -8,7 +8,7 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 12ee914ed944c82694b9373f611e19cf040e2229
 workflow-type: tm+mt
 source-wordcount: '1719'
 ht-degree: 4%
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 Diventa orientato con l’interfaccia di Chat con i collaboratori. Questa guida tratta tutte le operazioni, dall’accesso all’app, alla navigazione nell’area di lavoro, fino al massimo dalle conversazioni, alla gestione della cronologia e alla personalizzazione della configurazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3498573?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Accedere a Chat con i collaboratori
 
@@ -36,7 +36,7 @@ La tabella seguente indica quando queste esperienze saranno disponibili per cias
 | CJA | Disponibile ora | In arrivo |
 | Workfront | Disponibile ora | In arrivo:<br><br>* All’inizio di settembre 2026 nell’istanza di anteprima per alcuni amministratori di sistema di Workfront idonei<br><br>* A metà settembre 2026 nell’istanza di produzione per clienti Workfront idonei a rilascio rapido<br><br>* A metà ottobre 2026 nell’istanza di produzione per clienti Workfront idonei a rilascio trimestrale |
 | Target | Disponibile ora | Disponibile ora |
-| AEM | Disponibile ora | In arrivo |
+| AEM | Disponibile ora | Disponibile ora |
 | Marketo Engage | Disponibile ora | In arrivo |
 
 ### Esperienza coinvolgente {#immersive}
