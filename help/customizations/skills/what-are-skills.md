@@ -45,6 +45,7 @@ Molte organizzazioni eseguono ripetutamente gli stessi tipi di attività, tra cu
 
 Le abilità consentono ai team di acquisire e riutilizzare queste best practice senza dover ripetere ogni volta manualmente il processo.
  
+
 ## Competenze e governance dei dati
 
 Le abilità non memorizzano i dati dei clienti.
