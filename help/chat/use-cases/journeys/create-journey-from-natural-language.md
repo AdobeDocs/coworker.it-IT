@@ -30,5 +30,5 @@ Automatizzando il processo di configurazione iniziale, i team possono dedicare m
 
 ## Vedi anche
 
-- [Journey Agent](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), la funzionalità di intelligenza artificiale sottostante che attiva la creazione del percorso in Coworker Chat.
+- [Journey Agent](https://experienceleague.adobe.com/it/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), la funzionalità di intelligenza artificiale sottostante che attiva la creazione del percorso in Coworker Chat.
 - [Altri casi di utilizzo di Chat con collaboratori](../overview.md#journeys)

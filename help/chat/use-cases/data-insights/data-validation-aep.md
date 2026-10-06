@@ -156,5 +156,5 @@ Se le tue esigenze di convalida sono più esaustive o richiedono una logica di b
 
 * [Convalidare i dati da Adobe Analytics a Customer Journey Analytics durante l&#39;aggiornamento](./data-validation-aa-cja.md)
 * [Convalidare i dati Customer Journey Analytics con l’abilità di Convalida dati in Collaboratore](./validate-dataset-quality-for-cja.md)
-* [Convalidare i dati (Assistente AI)](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-validation)
+* [Convalidare i dati (Assistente AI)](https://experienceleague.adobe.com/it/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-validation)
 * [Considera attendibile il tuo reporting Customer Journey Analytics: abilità di convalida dei dati in Adobe CX Coworker](https://www.youtube.com/watch?v=gCSm_QYSYhk) (video)

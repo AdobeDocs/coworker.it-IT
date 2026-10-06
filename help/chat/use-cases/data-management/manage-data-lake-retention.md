@@ -12,7 +12,7 @@ Utilizza CX Coworker per comprendere il valore dei dati Experience Event nella s
 
 ## Prima di iniziare {#before-you-begin}
 
-Assicurati di lavorare nella sandbox che contiene i set di dati da rivedere. È inoltre necessario accedere a Data Management Agent e alle autorizzazioni Adobe Experience Platform richieste. Consulta [Prerequisiti per Data Management Agent](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-management#prerequisites).
+Assicurati di lavorare nella sandbox che contiene i set di dati da rivedere. È inoltre necessario accedere a Data Management Agent e alle autorizzazioni Adobe Experience Platform richieste. Consulta [Prerequisiti per Data Management Agent](https://experienceleague.adobe.com/it/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-management#prerequisites).
 
 ## Ottimizzare i dati nella sandbox {#optimize-data-in-your-sandbox}
 
@@ -26,7 +26,7 @@ Per decidere da dove iniziare, chiedi a Collaboratore di identificare i set di d
 
 Dopo aver ristretto l’elenco, utilizza l’abilità di utilizzo Analisi set di dati per scoprire in che modo viene utilizzato attivamente un set di dati specifico.
 
-Non tutti i set di dati inutilizzati o abbandonati emersi da questa abilità sono un buon candidato per i criteri di conservazione dei data lake. Se devi rimuovere un intero set di dati o gestire dati in un altro archivio Experience Platform, consulta [Scegliere la funzionalità di gestione del ciclo di vita dei dati corretta](https://experienceleague.adobe.com/en/docs/experience-platform/data-lifecycle/choose-a-capability). Prima di impostare i criteri di conservazione di un data lake, verifica che il set di dati sia un set di dati Experience Event.
+Non tutti i set di dati inutilizzati o abbandonati emersi da questa abilità sono un buon candidato per i criteri di conservazione dei data lake. Se devi rimuovere un intero set di dati o gestire dati in un altro archivio Experience Platform, consulta [Scegliere la funzionalità di gestione del ciclo di vita dei dati corretta](https://experienceleague.adobe.com/it/docs/experience-platform/data-lifecycle/choose-a-capability). Prima di impostare i criteri di conservazione di un data lake, verifica che il set di dati sia un set di dati Experience Event.
 
 Esempio di prompt:
 
@@ -78,7 +78,7 @@ Dopo aver deciso un periodo di conservazione, utilizza l’abilità Gestisci con
 
 ![Collaboratore che mostra il criterio di conservazione del data lake proposto, il relativo impatto e la conferma necessaria prima dell&#39;applicazione della modifica.](../../assets/data-management/retention-impact-preview.png)
 
-Dopo aver confermato un criterio di conservazione, la visualizzazione della modifica nell’interfaccia utente di Adobe Experience Platform potrebbe richiedere alcuni minuti. I criteri di conservazione non eliminano immediatamente i dati scaduti. Il processo di conservazione iniziale inizia entro 24 ore dall&#39;applicazione del criterio. Dopo l’esecuzione iniziale, un processo pianificato valuta ed elimina i record scaduti ogni 30 giorni. Per ulteriori informazioni su conservazione ed eliminazione, consulta la [guida alla conservazione dei set di dati di Experience Event (TTL)](https://experienceleague.adobe.com/en/docs/experience-platform/catalog/datasets/experience-event-dataset-retention-ttl-guide).
+Dopo aver confermato un criterio di conservazione, la visualizzazione della modifica nell’interfaccia utente di Adobe Experience Platform potrebbe richiedere alcuni minuti. I criteri di conservazione non eliminano immediatamente i dati scaduti. Il processo di conservazione iniziale inizia entro 24 ore dall&#39;applicazione del criterio. Dopo l’esecuzione iniziale, un processo pianificato valuta ed elimina i record scaduti ogni 30 giorni. Per ulteriori informazioni su conservazione ed eliminazione, consulta la [guida alla conservazione dei set di dati di Experience Event (TTL)](https://experienceleague.adobe.com/it/docs/experience-platform/catalog/datasets/experience-event-dataset-retention-ttl-guide).
 
 Ogni modifica ai criteri di conservazione viene registrata in un audit trail, anche quando un criterio viene impostato, modificato o rimosso. L’audit trail registra chi ha apportato ogni modifica, quando si è verificata e cosa è stato modificato. Puoi seguire il collegamento fornito da Collaboratore per esaminare questi eventi nella scheda Registro di controllo del set di dati in Adobe Experience Platform. Per ulteriori informazioni, vedere [Panoramica dei registri di controllo](https://experienceleague.adobe.com/it/docs/experience-platform/landing/governance-privacy-security/audit-logs/overview).
 
@@ -99,4 +99,4 @@ Quando si utilizza l’agente di gestione dati, è necessario tenere presenti le
 
 ## Passaggi successivi {#next-steps}
 
-Per ulteriori informazioni sulle competenze, l&#39;ambito, il comportamento e le limitazioni dell&#39;agente di gestione dati, vedere la [panoramica dell&#39;agente di gestione dati](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-management). Per ulteriori informazioni sul funzionamento dei criteri di conservazione del data lake in Adobe Experience Platform, consulta la [guida alla conservazione dei set di dati di Experience Event (TTL)](https://experienceleague.adobe.com/en/docs/experience-platform/catalog/datasets/experience-event-dataset-retention-ttl-guide).
+Per ulteriori informazioni sulle competenze, l&#39;ambito, il comportamento e le limitazioni dell&#39;agente di gestione dati, vedere la [panoramica dell&#39;agente di gestione dati](https://experienceleague.adobe.com/it/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-management). Per ulteriori informazioni sul funzionamento dei criteri di conservazione del data lake in Adobe Experience Platform, consulta la [guida alla conservazione dei set di dati di Experience Event (TTL)](https://experienceleague.adobe.com/it/docs/experience-platform/catalog/datasets/experience-event-dataset-retention-ttl-guide).
