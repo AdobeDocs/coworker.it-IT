@@ -45,7 +45,7 @@ Per convalidare i dati come parte dell’aggiornamento, è necessario:
 
 Non è necessario conoscere l’architettura della tua implementazione. L’abilità rileva automaticamente se l’implementazione di Customer Journey Analytics utilizza il connettore Source di Analytics o una nuova implementazione di Experience Platform Web SDK.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496846/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496863/?captions=ita&learn=on&enablevpops)
 
 ## Avviare una sessione di convalida
 

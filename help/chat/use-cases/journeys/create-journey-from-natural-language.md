@@ -26,7 +26,7 @@ La creazione di percorsi di clienti in genere richiede un’ampia configurazione
  
 Automatizzando il processo di configurazione iniziale, i team possono dedicare meno tempo alla creazione di percorsi da zero e più tempo al perfezionamento delle esperienze dei clienti e dei risultati di business.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496867/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496882/?captions=ita&learn=on&enablevpops)
 
 ## Vedi anche
 

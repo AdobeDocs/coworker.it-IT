@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Il controllo delle modalità di connessione di tipi di pubblico, percorsi, set di dati e destinazioni è in genere un esercizio manuale e lungo. In questo video, scopri come Coworker può generare una visualizzazione operativa completa dell’ambiente Adobe Experience Platform (AEP), confrontarlo con le best practice di settore e utilizzare questi risultati per creare un nuovo pubblico, il tutto all’interno di una singola conversazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496848/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496873/?captions=ita&learn=on&enablevpops)

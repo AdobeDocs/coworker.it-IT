@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Le abilità di intelligenza artificiale riutilizzabili consentono ai team di eseguire attività coerenti e ripetibili. Con l&#39;evolversi dei requisiti aziendali, tuttavia, anche queste competenze devono evolvere. Questo video illustra un approccio pratico per gestire l’intero ciclo di vita delle competenze di intelligenza artificiale incentrate sulla governance, dalla valutazione e il miglioramento alla convalida e al pensionamento.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503566/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503572/?captions=ita&learn=on)
 
 ## Perché una linea di base è importante
 

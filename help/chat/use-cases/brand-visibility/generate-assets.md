@@ -27,4 +27,4 @@ Ad esempio, per creare un post Instagram sul caffè, puoi fornirti una breve ide
 
 Collaboratore offre anche flessibilità per ulteriori personalizzazioni. Puoi modificare le risorse, creare varianti o adattare il contenuto per diversi formati, ad esempio le storie di Instagram. Questo approccio ti consente di concentrarsi sugli obiettivi, mentre Collaborator gestisce i dettagli tecnici.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502692/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502717/?captions=ita&learn=on&enablevpops)

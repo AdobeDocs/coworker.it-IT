@@ -31,7 +31,7 @@ Invece di creare manualmente rapporti e interpretare metriche, l’analista coll
 
 Il risultato è un flusso di lavoro ripetibile che può essere eseguito su richiesta con un semplice prompt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502323/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502338/?captions=ita&learn=on&enablevpops)
 
 ## Trasforma l’analisi in un’abilità riutilizzabile
 

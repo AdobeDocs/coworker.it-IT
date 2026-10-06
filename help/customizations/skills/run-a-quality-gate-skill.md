@@ -21,7 +21,7 @@ La sfida è che questi controlli spesso dipendono dalla conoscenza tribale e dal
 
 Questo video illustra come un’abilità personalizzata del Collaboratore funga da gate di attivazione, convalidando automaticamente i tipi di pubblico in base agli standard di attivazione della tua organizzazione prima che si spostino a valle.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503162/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503171/?captions=ita&learn=on&enablevpops)
 
 ## Esempio di abilità gate di qualità dell’attivazione
  

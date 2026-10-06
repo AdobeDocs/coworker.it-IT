@@ -46,7 +46,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/skills/what-are-skills" title="Che cosa sono le abilità?" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502322/?format=jpeg&nocache=1790273741021" alt="Che cosa sono le abilità?"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502329/?captions=ita&format=jpeg&nocache=1790273741021" alt="Che cosa sono le abilità?"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -69,7 +69,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/integrations/understanding-integrations-in-coworker" title="Cosa sono le integrazioni?" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503744/?format=jpeg&nocache=1790273741207" alt="Cosa sono le integrazioni?"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503751/?captions=ita&format=jpeg&nocache=1790273741207" alt="Cosa sono le integrazioni?"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -92,7 +92,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/plugins/what-are-plugins" title="Cosa sono i plug-in?" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503656/?format=jpeg&nocache=1790273741022" alt="Cosa sono i plug-in?"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503663/?captions=ita&format=jpeg&nocache=1790273741022" alt="Cosa sono i plug-in?"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -115,7 +115,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/memory/what-is-memory" title="Che cos&apos;è la memoria?" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503657/?format=jpeg&nocache=1790273741019" alt="Che cos&apos;è la memoria?"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503672/?captions=ita&format=jpeg&nocache=1790273741019" alt="Che cos&apos;è la memoria?"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

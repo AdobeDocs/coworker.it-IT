@@ -23,7 +23,7 @@ ht-degree: 1%
 
 Utilizza le abilità agente sandbox per spostare i metadati dell’oggetto, inclusi schemi e tipi di pubblico, tra gli ambienti Adobe Experience Platform descrivendo cosa desideri eseguire in linguaggio naturale. Utilizzando CX Coworker, puoi scoprire i metadati richiesti, identificare automaticamente le dipendenze, creare pacchetti di migrazione ed eseguire la migrazione degli oggetti tramite un’esperienza di conversazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496706?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496714?captions=ita&learn=on)
 
 ## Prerequisiti {#prerequisites}
 

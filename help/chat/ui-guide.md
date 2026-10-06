@@ -17,7 +17,7 @@ ht-degree: 4%
 
 Diventa orientato con l’interfaccia di Chat con i collaboratori. Questa guida tratta tutte le operazioni, dall’accesso all’app, alla navigazione nell’area di lavoro, fino al massimo dalle conversazioni, alla gestione della cronologia e alla personalizzazione della configurazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498573?captions=ita&learn=on)
 
 ## Accedere a Chat con i collaboratori
 

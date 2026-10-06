@@ -25,7 +25,7 @@ In questa dimostrazione vedrai come la fidelizzazione di Adobe Journey Optimizer
  
 Il video illustra il plug-in Fedeltà e la sua abilità di gestione delle sfide, una funzionalità basata sull’intelligenza artificiale che consente agli esperti di marketing di creare, modificare e gestire le sfide di fidelizzazione utilizzando il linguaggio naturale anziché configurare manualmente ogni impostazione nell’interfaccia utente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496528/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496544/?captions=ita&learn=on&enablevpops)
 
 ## Vedi anche
 

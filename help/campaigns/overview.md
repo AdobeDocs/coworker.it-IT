@@ -114,7 +114,7 @@ Campagne collaboratore è un prodotto in fase di sviluppo attivo. Ecco cosa biso
 
 ## Panoramica video
 
->[!VIDEO](https://video.tv.adobe.com/v/3492807?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3492813?captions=ita&learn=on){transcript=true}
 
 
 Durante la prova verranno fornite nuove funzionalità. Il tuo feedback aiuta a definire i prossimi sviluppi. Invia un feedback facendo clic sull’icona del feedback nel prodotto nell’intestazione.

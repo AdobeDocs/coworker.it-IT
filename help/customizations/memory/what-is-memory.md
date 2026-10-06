@@ -19,7 +19,7 @@ ht-degree: 1%
 
 Invece di ripetere le stesse istruzioni ogni volta che si avvia una nuova conversazione, la memoria consente al collaboratore di portare avanti informazioni selezionate attraverso le sessioni, contribuendo a fornire risposte più veloci e rilevanti.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503657/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503672/?captions=ita&learn=on&enablevpops)
 
 ## Informazioni sulla memoria
 

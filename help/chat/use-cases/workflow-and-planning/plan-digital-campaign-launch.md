@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Pianificare un lancio digitale per una nuova proprietà di solito significa attrarre il lavoro di analisi, pubblico, creativi e team web che può richiedere settimane. In questo video, scopri come Adobe Enterprise Collaborator pianifica il lancio digitale di una nuova proprietà a Miami da un’unica conversazione. Coworker comprende l’obiettivo e la cronologia dal primo messaggio, fonde i dati di prime parti di Experience Platform con le informazioni live di mercato di Semrush, quindi crea il pubblico, il percorso dei clienti, l’esperimento sui contenuti e la pagina di destinazione, mantenendo al contempo la governance, il consenso e le regole aziendali in vigore con la revisione umana laddove necessario.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503873?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503879?captions=ita&learn=on)
 
 ## Dai priorità alla tua giornata e articola un obiettivo
 
