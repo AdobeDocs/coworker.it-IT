@@ -83,11 +83,11 @@ Le autorizzazioni per i prodotti sono ancora valide. L’account deve essere in 
 
 **Panoramica**
 
->[!VIDEO](https://video.tv.adobe.com/v/3486313/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486322/?captions=ita&learn=on&enablevpops)
 
 **In azione**
 
->[!VIDEO](https://video.tv.adobe.com/v/3486314/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486333/?captions=ita&learn=on&enablevpops)
 
 ## Ulteriori informazioni {#mcp-more}
 
