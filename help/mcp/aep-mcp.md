@@ -255,7 +255,7 @@ Recuperare i risultati più recenti della valutazione del controllo di integrit�
 
 >[!NOTE]
 >
->Questo strumento recupera solo i risultati della valutazione. Per risolvere un problema segnalato, utilizzare il pannello dei dettagli del controllo di integrità nell&#39;interfaccia utente [!DNL Experience Platform]. Consulta [Verifiche stato](https://experienceleague.adobe.com/en/docs/experience-platform/run-and-operate/health-checks). Le indicazioni di correzione automatica per i controlli di integrità supportati sono disponibili come abilità in [CX Coworker Chat](../chat/overview.md).
+>Questo strumento recupera solo i risultati della valutazione. Per risolvere un problema segnalato, utilizzare il pannello dei dettagli del controllo di integrità nell&#39;interfaccia utente [!DNL Experience Platform]. Consulta [Verifiche stato](https://experienceleague.adobe.com/it/docs/experience-platform/run-and-operate/health-checks). Le indicazioni di correzione automatica per i controlli di integrità supportati sono disponibili come abilità in [CX Coworker Chat](../chat/overview.md).
 
 **Funzionalità:** elenca tutti i risultati del controllo di integrità per la sandbox corrente, ottiene i risultati per un controllo denominato
 

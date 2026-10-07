@@ -43,7 +43,7 @@ I seguenti strumenti di prodotto sono documentati in questa guida:
 | **Journey Optimizer** | Configurazioni di campagne, percorsi e canali (sola lettura); modelli di contenuto, frammenti, pagine di destinazione e contenuto dei messaggi in linea (lettura e scrittura) | Beta | [Strumenti di Journey Optimizer](ajo-mcp.md) |
 | **Customer Journey Analytics** | Visualizzazioni dati, dimensioni, metriche, rapporti, segmenti, intervalli di date, progetti e tipi di pubblico (lettura e scrittura) | Disponibile | [Strumenti di Customer Journey Analytics](cja-mcp.md) |
 | **Adobe Analytics** | Suite di rapporti, dimensioni, metriche, rapporti, segmenti, intervalli di date e progetti Workspace (lettura e scrittura per i componenti supportati) | Disponibile | [Strumenti di Adobe Analytics](analytics-mcp.md) |
-| **Workfront** | Strumenti di gestione del lavoro per progetti, attività e flussi di lavoro di approvazione | Anteprima | [Server MCP Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/basics/workfront-mcp-server/workfront-mcp-server-overview) |
+| **Workfront** | Strumenti di gestione del lavoro per progetti, attività e flussi di lavoro di approvazione | Anteprima | [Server MCP Workfront](https://experienceleague.adobe.com/it/docs/workfront/using/basics/workfront-mcp-server/workfront-mcp-server-overview) |
 
 
 >[!NOTE]

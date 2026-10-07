@@ -11,9 +11,9 @@ ht-degree: 2%
 
 Utilizza gli strumenti del prodotto Adobe Journey Optimizer per controllare campagne, percorsi e configurazioni di canale da un client compatibile con MCP. Questi strumenti sono disponibili tramite [CX Coworker Gateway](overview.md) quando l&#39;organizzazione è abilitata e l&#39;account utente dispone delle autorizzazioni Journey Optimizer richieste.
 
-Per ulteriori informazioni, vedere [Utilizzare i client MCP](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/ajo-mcp){target="_blank"} nella documentazione di Adobe Journey Optimizer.
+Per ulteriori informazioni, vedere [Utilizzare i client MCP](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/content-management/combine/ajo-mcp){target="_blank"} nella documentazione di Adobe Journey Optimizer.
 
-Per informazioni sulla creazione, l&#39;analisi e la simulazione di percorsi tramite un&#39;esperienza di tipo conversazionale e attivo, vedere [Journey Agent](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent).
+Per informazioni sulla creazione, l&#39;analisi e la simulazione di percorsi tramite un&#39;esperienza di tipo conversazionale e attivo, vedere [Journey Agent](https://experienceleague.adobe.com/it/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent).
 
 >[!AVAILABILITY]
 >
