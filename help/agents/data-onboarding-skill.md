@@ -28,7 +28,7 @@ Prima di iniziare, assicurati di avere:
 - Accedi ad Adobe CX Enterprise Coworker con l’abilità di onboarding dei dati abilitata per la tua organizzazione.
 - Autorizzazione a creare schemi in Adobe Experience Platform.
 
-Per istruzioni sull&#39;installazione dei plug-in, consulta la [Guida dell&#39;interfaccia utente di Coworker](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide).
+Per istruzioni sull&#39;installazione dei plug-in, consulta la [Guida dell&#39;interfaccia utente di Coworker](https://experienceleague.adobe.com/it/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide).
 
 ## Utilizzare l’abilità di onboarding dei dati {#use-the-data-onboarding-skill}
 
@@ -48,7 +48,7 @@ Per utilizzare l’abilità di onboarding dei dati:
 
 1. Continua la conversazione con Collaborator attraverso la revisione della qualità dei dati, l’arricchimento semantico, la mappatura dello schema e la creazione di schemi, confermando ogni passaggio mentre procedi.
 
-Per ulteriori informazioni sull&#39;utilizzo di CX Coworker, vedere la [Guida dell&#39;interfaccia utente di Coworker](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide).
+Per ulteriori informazioni sull&#39;utilizzo di CX Coworker, vedere la [Guida dell&#39;interfaccia utente di Coworker](https://experienceleague.adobe.com/it/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide).
 
 ## Casi d’uso supportati {#supported-use-cases}
 
@@ -78,4 +78,4 @@ Cooker completa l’onboarding creando il flusso di dati necessario per inserire
 
 Dopo aver letto questa guida, scopri come avviare l’abilità di onboarding dei dati dalla creazione dello schema e cosa ti aiuta a ottenere in CX Coworker.
 
-Per la procedura dell&#39;interfaccia utente di Experience Platform e gli scenari di accesso/idoneità, vedi [Dati onboard con IA](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/ui/resources/schemas#data-onboarding-skill) nella guida dell&#39;interfaccia utente degli schemi.
+Per la procedura dell&#39;interfaccia utente di Experience Platform e gli scenari di accesso/idoneità, vedi [Dati onboard con IA](https://experienceleague.adobe.com/it/docs/experience-platform/xdm/ui/resources/schemas#data-onboarding-skill) nella guida dell&#39;interfaccia utente degli schemi.
