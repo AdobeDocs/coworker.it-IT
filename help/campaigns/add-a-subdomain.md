@@ -42,9 +42,9 @@ COME
 
    SCHERMATA
 
-   >>
+   &#x200B;>>
    >
-   Se il campo VUOTO ti consente di caricare i campi in blocco, puoi fare clic su Esporta CSV per esportare tutti i campi.
+   >Se il campo VUOTO ti consente di caricare i campi in blocco, puoi fare clic su Esporta CSV per esportare tutti i campi.
 
 1. Al termine, fai clic su **Ho aggiunto questi record** in Campagne Coworker per continuare.
 
