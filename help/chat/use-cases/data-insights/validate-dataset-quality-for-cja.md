@@ -8,16 +8,16 @@ doc-type: Feature Video
 duration: 330
 last-substantial-update: 2026-09-16
 jira: KT-22622
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
 workflow-type: tm+mt
-source-wordcount: '625'
+source-wordcount: '628'
 ht-degree: 0%
 ---
 # Convalidare i dati Customer Journey Analytics con l&#39;abilità di convalida dei dati in [!DNL Coworker]
 
 La qualità dei dati è alla base di un reporting accurato in Adobe Customer Journey Analytics (CJA). Prima di creare metriche, dashboard, segmenti o percorsi di clienti, è fondamentale capire se i dati Adobe Experience Platform (AEP) sottostanti possono essere attendibili.
 
-Questo video illustra come utilizzare l&#39;abilità di convalida dei dati **in Coworker** per valutare rapidamente la qualità dei set di dati che supportano l&#39;implementazione di Customer Journey Analytics, senza scrivere query o esaminare manualmente i dati.
+Questo video illustra come utilizzare l&#39;abilità di convalida dei dati **in Adobe CX Enterprise Coworker** per valutare rapidamente la qualità dei set di dati che supportano l&#39;implementazione di Customer Journey Analytics, senza scrivere query o esaminare manualmente i dati.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3503519/?learn=on&enablevpops)
 

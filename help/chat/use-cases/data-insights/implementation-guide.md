@@ -2,15 +2,15 @@
 title: Pianificare l’implementazione di Customer Journey Analytics o Streaming Media con Collaboratore
 description: Scopri in che modo le competenze della guida all’implementazione di Coworker trasformano una conversazione di individuazione in un piano di implementazione personalizzato e ordinato con elenchi di controllo esportabili.
 hold: true
-source-git-commit: 94cf399a48d13ee83c702804b50fdccd4baa9d71
+source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
 workflow-type: tm+mt
-source-wordcount: '1236'
+source-wordcount: '1239'
 ht-degree: 1%
 ---
 
 # Pianificare l’implementazione con Collaboratore
 
-Coworker include cinque competenze per la guida all’implementazione, una per ogni superficie di prodotto: Customer Journey Analytics, un aggiornamento da Adobe Analytics a Customer Journey Analytics, Content Analytics (ACA), Marketing Campaign Analytics (MCA) e Streaming Media. Ogni abilità trasforma una breve conversazione di individuazione in un piano di implementazione personalizzato e in base alle dipendenze, completo di una checklist interattiva e di esportazioni pronte all’uso, il tutto all’interno di una singola conversazione con Chat di Collaboratore.
+Adobe CX Enterprise Coworker include cinque guide all’implementazione, una per ogni superficie di prodotto: Customer Journey Analytics, un aggiornamento da Adobe Analytics a Customer Journey Analytics, Content Analytics (ACA), Marketing Campaign Analytics (MCA) e Streaming Media. Ogni abilità trasforma una breve conversazione di individuazione in un piano di implementazione personalizzato e in base alle dipendenze, completo di una checklist interattiva e di esportazioni pronte all’uso, il tutto all’interno di una singola conversazione con Chat di Collaboratore.
 
 Se stai preparando o eseguendo la migrazione a uno di questi prodotti, puoi usare queste abilità per ottenere un piano ordinato e dettagliato, senza dover esaminare manualmente i requisiti di implementazione di Adobe o creare un piano di progetto da zero.
 

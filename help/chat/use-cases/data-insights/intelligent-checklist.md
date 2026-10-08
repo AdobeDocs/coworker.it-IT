@@ -2,15 +2,15 @@
 title: Generare un elenco di controllo dell’implementazione nei progetti di collaborazione
 description: Scopri in che modo Progetti coorker genera un elenco di controllo per l’implementazione precompilato dal piano Guide all’implementazione, con passaggi da assegnare e tracciare.
 hold: true
-source-git-commit: 94cf399a48d13ee83c702804b50fdccd4baa9d71
+source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
 workflow-type: tm+mt
-source-wordcount: '698'
-ht-degree: 1%
+source-wordcount: '703'
+ht-degree: 0%
 ---
 
 # Generare un elenco di controllo per l’implementazione con Progetti del collaboratore
 
-I progetti collaboratore possono generare un progetto Elenco di controllo dell’implementazione, precompilato con i passaggi ordinati del piano della guida all’implementazione per Customer Journey Analytics, un aggiornamento da Adobe Analytics a Customer Journey Analytics, Content Analytics (ACA), Marketing Campaign Analytics (MCA) o Streaming Media. Cooker automatizza o fornisce assistenza con il maggior numero di passaggi tecnicamente possibile, in modo che tu e il tuo team possiate trovare un’unica posizione tracciabile in cui lavorare attraverso l’implementazione.
+Adobe CX Enterprise Coworker può generare un progetto Elenco di controllo dell’implementazione in Progetti coworking, precompilato con i passaggi ordinati del piano della guida all’implementazione per Customer Journey Analytics, un aggiornamento da Adobe Analytics a Customer Journey Analytics, Content Analytics (ACA), Marketing Campaign Analytics (MCA) o Streaming Media. Cooker automatizza o fornisce assistenza con il maggior numero di passaggi tecnicamente possibile, in modo che tu e il tuo team possiate trovare un’unica posizione tracciabile in cui lavorare attraverso l’implementazione.
 
 Se stai conducendo un’implementazione, eseguendo passaggi tecnici o semplicemente hai bisogno di visibilità sull’avanzamento, puoi utilizzare questo elenco di controllo per assegnare lavoro, tenere traccia dello stato e collaborare con il team, senza uscire da Collaboratore.
 
