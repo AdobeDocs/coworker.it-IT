@@ -26,4 +26,4 @@ Per capire perché le metriche cambiano spesso è necessario consultare più rap
  
 Utilizzando il linguaggio naturale, gli analisti e gli esperti di marketing possono porre domande sui propri dati, ricevere risultati visualizzati, identificare tendenze significative e individuare i fattori che determinano le prestazioni, il tutto in un’unica conversazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496847/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496858/?captions=ita&learn=on&enablevpops)

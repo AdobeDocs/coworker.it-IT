@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Scopri come utilizzare Coworker per configurare in modo efficiente la gestione delle risorse digitali (DAM) in Adobe Experience Manager Assets. Questo video illustra i passaggi per integrare il tuo marchio, garantendo un processo di configurazione semplificato e un utilizzo ottimale di AEM Assets per la tua organizzazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504157/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504164/?captions=ita&learn=on&enablevpops)

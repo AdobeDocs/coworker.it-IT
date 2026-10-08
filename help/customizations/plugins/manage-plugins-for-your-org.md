@@ -54,7 +54,7 @@ ht-degree: 0%
 
 Scopri come gli amministratori possono estendere Adobe Customer Chat con plug-in approvati, gestire i marketplace e gestire l’accesso alle competenze e agli strumenti connessi, mantenendo al contempo l’allineamento con le autorizzazioni Adobe esistenti.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504182/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504188/?captions=ita&learn=on&enablevpops)
 
 ## Cosa imparerai
  
