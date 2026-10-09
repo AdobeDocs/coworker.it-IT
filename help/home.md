@@ -8,9 +8,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: ee990126b1447f2eb2634761d27358f9d2e4586d
+source-git-commit: 0bdba61cab438bc8e3ad4f7ca04f1df2cd3711b7
 workflow-type: tm+mt
-source-wordcount: '802'
+source-wordcount: '800'
 ht-degree: 15%
 ---
 # Panoramica di CX Enterprise Coworker {#overview}
@@ -89,7 +89,7 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-## Experience League LIVE: serie sbloccata dal collega
+## Experience League LIVE: serie sbloccata dal collaboratore
 
 Unisciti alla serie CX Enterprise Coworker Unlocked per scoprire come le organizzazioni utilizzano l’assistenza basata sull’intelligenza artificiale per semplificare il lavoro nell’esperienza del cliente. Ogni sessione esplora casi d’uso pratici, dimostrazioni in tempo reale e consigli degli esperti che consentono ai team di accelerare i flussi di lavoro, scoprire informazioni approfondite e automatizzare le attività tra le applicazioni Adobe Experience Cloud. Sfoglia gli episodi precedenti o registrati per i prossimi eventi per scoprire nuovi modi per aumentare la produttività e promuovere i risultati dell’esperienza del cliente.
 
@@ -155,9 +155,9 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-## Team di collaboratori (precedentemente Campaigns)
+## Campagne collaboratrici
 
-Coworker Teams è una funzione modellata che consente ai piccoli team agili di alzarsi in piedi ed eseguire campagne.
+Campagne con collaboratori è una funzione modellata che consente ai piccoli team agili di alzarsi in piedi ed eseguire campagne.
 
 * [Panoramica](./campaigns/overview.md)
 * [Creare una campagna e-mail](./campaigns/create-an-email-campaign.md)

@@ -5,11 +5,10 @@ user-guide-description: Scopri Adobe CX Enterprise Coworker, un compagno di squa
 description: Scopri gli strumenti di intelligenza artificiale in CX Enterprise. Migliora la tua conoscenza del prodotto e acquisisci informazioni operative utilizzando l’intelligenza artificiale in CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-hide: true
-source-git-commit: e35e97f90153da41a9236a9fa761be65d3bd73c1
+source-git-commit: 8a3d0d693aebf0a40fcece3fde80558f6d02696c
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 19%
+source-wordcount: '228'
+ht-degree: 18%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -29,6 +28,8 @@ ht-degree: 19%
       - [Convalidare i dati da AA a CJA durante l’aggiornamento](./chat/use-cases/data-insights/data-validation-aa-cja.md)
       - [Convalidare la qualità del set di dati per il reporting di CJA](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
       - [Convalidare i dati di Experience Platform](./chat/use-cases/data-insights/data-validation-aep.md)
+    - Onboarding dei dati {#data-onboarding}
+      - {hide-from-toc}[Dati onboarding con Collaboratore](./agents/data-onboarding-skill.md)
     - Gestione dati {#data-management}
       - [Gestire la conservazione del data lake](./chat/use-cases/data-management/manage-data-lake-retention.md)
     - Tipi di pubblico {#audiences}
@@ -39,6 +40,7 @@ ht-degree: 19%
       - [Creare una sfida di fedeltà e approfondimenti di superficie](./chat/use-cases/journeys/create-loyalty-challenge.md)
     - Ottimizzazione {#optimization}
       - [Avviare le attività Target](./chat/use-cases/optimization/target.md)
+      - [Accelerare la sperimentazione](./chat/use-cases/optimization/accelerate-experimentation.md)
     - Strumenti sandbox {#sandbox-tooling}
       - [Competenze degli agenti di gestione degli strumenti sandbox](./chat/use-cases/sandbox-tooling/sandbox-tooling.md)
     - Avvisi {#alerts}
