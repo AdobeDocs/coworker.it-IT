@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Scopri come CX Enterprise Coworker aiuta a semplificare la sperimentazione sui siti Adobe Experience Manager (AEM) utilizzando Adobe Target. Partendo da un obiettivo di business, scopri come Collaboratore aiuta a sviluppare una strategia di sperimentazione, a creare un test A/B in Adobe Target, a risolvere problemi di consegna ed eseguire con successo più esperienze su un sito web AEM as a Cloud Service.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504249/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504255/?captions=ita&learn=on&enablevpops)
