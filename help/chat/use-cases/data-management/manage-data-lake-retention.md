@@ -1,7 +1,13 @@
 ---
 title: Gestire la conservazione del data lake
 description: Scopri come utilizzare CX Coworker per identificare i dati di Experience Event che meritano di essere ottimizzati, analizzare l’impatto sull’utilizzo e la conservazione dei set di dati e gestire i criteri di conservazione dei data lake.
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+role: Developer
+level: Beginner, Intermediate
+doc-type: Feature Video
+duration: 160
+last-substantial-update: 2026-10-09
+jira: KT-22762
+source-git-commit: 7ae11e6865d847c6a3c316ffa26b2e4303f7e40d
 workflow-type: tm+mt
 source-wordcount: '1316'
 ht-degree: 1%
@@ -9,6 +15,8 @@ ht-degree: 1%
 # Gestire la conservazione del data lake
 
 Utilizza CX Coworker per comprendere il valore dei dati Experience Event nella sandbox e identificare i dati che possono beneficiare dell’ottimizzazione. Puoi iniziare con un’ampia richiesta, ad esempio chiedere a Collaboratore di ottimizzare i dati sandbox o di pulire i set di dati. Co-worker utilizza Data Management Agent per creare set di dati che meritano di essere esaminati, analizzare il modo in cui viene utilizzato un set di dati, modellare l’impatto di un periodo di conservazione e, quando appropriato, aiutare a gestire i criteri di conservazione del data lake.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3504102?captions=ita&learn=on)
 
 ## Prima di iniziare {#before-you-begin}
 
