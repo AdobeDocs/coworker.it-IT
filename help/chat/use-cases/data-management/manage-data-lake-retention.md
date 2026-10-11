@@ -16,7 +16,7 @@ ht-degree: 1%
 
 Utilizza CX Coworker per comprendere il valore dei dati Experience Event nella sandbox e identificare i dati che possono beneficiare dell’ottimizzazione. Puoi iniziare con un’ampia richiesta, ad esempio chiedere a Collaboratore di ottimizzare i dati sandbox o di pulire i set di dati. Co-worker utilizza Data Management Agent per creare set di dati che meritano di essere esaminati, analizzare il modo in cui viene utilizzato un set di dati, modellare l’impatto di un periodo di conservazione e, quando appropriato, aiutare a gestire i criteri di conservazione del data lake.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504095?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504102?captions=ita&learn=on)
 
 ## Prima di iniziare {#before-you-begin}
 
