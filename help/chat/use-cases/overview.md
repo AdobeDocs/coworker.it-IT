@@ -7,24 +7,14 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 1071cb1d9d08d89592f14f05ec9e32087ad937f3
+source-git-commit: fca51b8777f14bbfa1469c66f04e297867a96de6
 workflow-type: tm+mt
-source-wordcount: '7196'
+source-wordcount: '7646'
 ht-degree: 6%
 ---
 # Casi d’uso di Chat con i collaboratori {#use-cases}
 
 Chat con collaboratori consente di eseguire query, analizzare e agire sui dati di [!DNL Experience Platform] utilizzando il linguaggio naturale anziché navigare in più interfacce utente o scrivere query manualmente. Questa pagina cataloga i casi d’uso su cui i professionisti si basano maggiormente, organizzati per area di lavoro: approfondimenti sui dati, tipi di pubblico, percorsi, fedeltà, elementi fondamentali e strumenti sandbox. Ogni voce include l&#39;abilità richiamata, le applicazioni con cui lavora e i prompt di esempio che è possibile copiare, adattare ai propri dati e perfezionare attraverso la conversazione.
-
->[!NOTE]
->
->In arrivo:
->
->Nuove funzionalità per gli agenti di AEM tramite CX Enterprise Coworker, progettate per aiutarti a fare di più e più rapidamente.
->
->Tutti i clienti idonei avranno accesso alle funzionalità di agenti Adobe Experience Manager in Coworker, su base continua.
->
->Vedi anche [IA in AEM - Panoramica delle funzionalità agente in AEM](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/ai-in-aem/agentic-capabilities/overview).
 
 ## Esperienza del marchio
 
@@ -231,6 +221,27 @@ Utilizza Chat con collaboratori per pianificare, generare, valutare e perfeziona
 **Informazioni correlate**
 
 * [Collaboratore per la gestione dei contenuti](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/content-management/content-management-coworker-skills){target="_blank"} fornisce dettagli sugli strumenti di gestione dei contenuti e sulle competenze disponibili in Adobe Journey Optimizer.
+
+## Campaign v8
+
+Utilizza Chat con collaboratori per trovare e aggiornare le consegne, gestire le risorse, esplorare il modello di dati e verificare, convalidare e risolvere i problemi dei flussi di lavoro in Adobe Campaign v8.
+
+| Caso d&#39;uso | Descrizione | Competenza | Applicazione | Prompt di esempio |
+| --- | --- | --- | --- | --- |
+| Ricerca e ispezione delle consegne | Cerca le consegne per nome, cartella, canale o stato, recupera i dettagli completi di una consegna, inclusi il contenuto del canale e la configurazione SMTP, sfoglia i modelli di contenuto e-mail riutilizzabili e leggi i rapporti di consegna incorporati | `find_delivery`, `describe_delivery`, `find_content_template`, `read_delivery_indicator` | Adobe Campaign v8 | &quot;Trova modelli di contenuto e-mail con ‘newsletter’ nel nome.&quot; · &quot;Mostra le bozze delle consegne e-mail&quot;. · &quot;Quante consegne non sono riuscite questo mese?&quot; · &quot;Che argomento e mittente utilizza questa consegna?&quot; |
+| Creare e aggiornare le consegne | Crea una consegna o un modello da un modello di canale e da un contenuto denominato e modifica l’etichetta e il contenuto del messaggio per canale di una consegna esistente | `create_delivery`, `update_delivery` | Adobe Campaign v8 | &quot;Crea un messaggio e-mail utilizzando il modello di contenuto della newsletter.&quot; · &quot;Cambia l’oggetto dell’e-mail del lancio estivo.&quot; · &quot;Sostituisci il contenuto HTML di questa consegna.&quot; |
+| Preparare una consegna senza inviarla | Risolvere i target ed eseguire il rendering della personalizzazione senza trasmettere la consegna | `prepare_delivery` | Adobe Campaign v8 | &quot;Prepara la consegna del lancio estivo.&quot; · &quot;Esegui la preparazione per questa consegna, ma non inviarla.&quot; |
+| Configurare le impostazioni di e-mail SMTP e analisi web | Impostare le impostazioni di intestazione SMTP, l’account di analisi web e i tag di tracciamento di una consegna e-mail | `update_email_smtp_config`, `update_email_web_analytics` | Adobe Campaign v8 |  |
+| Gestire risorse e allegati | Caricare un file come risorsa, leggerne i metadati e l’URL pubblico, rendere pubblica una risorsa privata e collegare una risorsa a una consegna come allegato reale | `upload_asset`, `get_asset_url`, `publish_asset`, `attach_asset` | Adobe Campaign v8 | &quot;Carica questa immagine in modo che possa essere utilizzata nella mia e-mail.&quot; · &quot;Dammi l&#39;URL pubblico dell&#39;immagine che ho caricato.&quot; · &quot;Allega il PDF che ho caricato alla consegna del lancio estivo.&quot; |
+| Ispezionare campagne | Cerca campagne e modelli e ottieni i dettagli completi di una campagna, inclusi i flussi di lavoro e le consegne secondari | `find_campaign`, `describe_campaign` | Adobe Campaign v8 |  |
+| Comprendere e convalidare i flussi di lavoro | Cerca nei flussi di lavoro, riepiloga un flusso di lavoro o approfondisci le sue attività e i punti di contatto di consegna e convalida staticamente una definizione di flusso di lavoro | `find_workflow`, `describe_workflow`, `validate_workflow` | Adobe Campaign v8 | &quot;Spiega il flusso di lavoro di benvenuto&quot;. · &quot;Quali consegne vengono utilizzate da questo flusso di lavoro?&quot; · &quot;Convalidare il flusso di lavoro di benvenuto&quot;. |
+| Controllare i flussi di lavoro | Guidare un flusso di lavoro tramite un comando del ciclo di vita (avvio, pausa, arresto, ripresa o riattivazione) e riconfigurare un’attività di consegna all’interno di un flusso di lavoro | `control_workflow`, `update_workflow_delivery_activity` | Adobe Campaign v8 | &quot;Avvia il flusso di lavoro di benvenuto&quot; · &quot;Sospendi il flusso di lavoro&quot;. |
+| Risolvere i problemi dei flussi di lavoro | Leggere lo stato di molti flussi di lavoro contemporaneamente, quando un flusso di lavoro è in esecuzione, il giornale di registrazione di esecuzione, le attività correnti e i comandi del motore in sospeso | `read_workflow_health`, `read_workflow_history`, `read_workflow_logs`, `read_workflow_tasks`, `read_workflow_jobs` | Adobe Campaign v8 |  |
+| Esplorare ed estendere il modello dati | Sfogliare il catalogo degli schemi, esaminare la struttura di uno schema, leggere le righe da qualsiasi schema, creare un nuovo schema e creare o modificare la tabella SQL fisica | `find_schema`, `describe_schema`, `read_schema_entity`, `create_schema`, `update_database_structure` | Adobe Campaign v8 | &quot;Trova schemi relativi ai destinatari.&quot; · &quot;Descrive lo schema del destinatario&quot;. · &quot;Crea uno schema personalizzato per le preferenze di fidelizzazione&quot;. |
+
+**Informazioni correlate**
+
+* [Introduzione ad Adobe Campaign](https://experienceleague.adobe.com/it/docs/campaign/campaign-v8/new/get-started){target="_blank"} fornisce una panoramica di Adobe Campaign v8.
 
 ## Ottimizzazione
 
