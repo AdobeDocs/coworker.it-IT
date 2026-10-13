@@ -8,7 +8,7 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 662ac793f7838834f84cddc5d78859dae97930aa
+source-git-commit: c09bea49262950dcc3fc9a3bdf33b18e9c1d7c4d
 workflow-type: tm+mt
 source-wordcount: '834'
 ht-degree: 14%
@@ -23,7 +23,7 @@ Il collaboratore viene fornito attraverso tre esperienze:
 * **[Collaboratore [!UICONTROL Campagne]](./campaigns/overview.md):** Progettato per portare i team di marketing agili da un obiettivo di campagna verso un&#39;esecuzione coordinata della campagna.
 * **Progetti [!UICONTROL Collaboratore] (presto disponibile):** Progettato per flussi di lavoro aziendali interfunzionali e con esecuzione prolungata in cui i team definiscono processi, approvazioni e il livello di autonomia di Collaboratore.
 
-## Nozioni di base per [!DNL Coworker] [!UICONTROL chat]
+## Nozioni di base per [!DNL Coworker] [!UICONTROL Chat]
 
 Che tu stia iniziando o desideri approfondire le tue competenze, queste playlist forniscono un&#39;introduzione guidata all&#39;utilizzo della funzione [!UICONTROL Chat] in [!DNL Coworker]. Scopri come navigare tra le funzioni chiave, creare prompt efficaci e vedere esempi pratici di come Coworker aiuta i team a lavorare in modo più efficiente tra i prodotti Adobe Experience Cloud.
 
