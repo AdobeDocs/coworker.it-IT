@@ -5,10 +5,10 @@ user-guide-description: Scopri Adobe CX Enterprise Coworker, un compagno di squa
 description: Scopri gli strumenti di intelligenza artificiale in CX Enterprise. Migliora la tua conoscenza del prodotto e acquisisci informazioni operative utilizzando l’intelligenza artificiale in CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 0ccc8faed069b726a28a39042047d1e66200181e
+source-git-commit: 69cf9eca65b61d4eb86ea3365013d8553a81e6e3
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 18%
+source-wordcount: '229'
+ht-degree: 17%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -27,6 +27,7 @@ ht-degree: 18%
       - [Convalidare i dati da AA a CJA durante l’aggiornamento](./chat/use-cases/data-insights/data-validation-aa-cja.md)
       - [Convalidare la qualità del set di dati per il reporting di CJA](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
       - [Convalidare i dati di Experience Platform](./chat/use-cases/data-insights/data-validation-aep.md)
+      - [Accelerare le informazioni sui dati](./chat/use-cases/data-insights/accelerate-data-insights.md)
     - Onboarding dei dati {#data-onboarding}
       - {hide-from-toc}[Dati onboarding con Collaboratore](./agents/data-onboarding-skill.md)
     - Gestione dati {#data-management}
