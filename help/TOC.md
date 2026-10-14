@@ -5,9 +5,9 @@ user-guide-description: Scopri Adobe CX Enterprise Coworker, un compagno di squa
 description: Scopri gli strumenti di intelligenza artificiale in CX Enterprise. Migliora la tua conoscenza del prodotto e acquisisci informazioni operative utilizzando l’intelligenza artificiale in CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 8a3d0d693aebf0a40fcece3fde80558f6d02696c
+source-git-commit: 60669850e4005be01c31d9f7818d1c4ad3ed8f3a
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '227'
 ht-degree: 18%
 ---
 
@@ -21,7 +21,6 @@ ht-degree: 18%
   - Casi d’uso {#use-cases}
     - [Casi d’uso di Chat con i collaboratori](./chat/use-cases/overview.md)
     - Approfondimenti dati {#data-insights}
-      - {hide-from-toc}[Panoramica](./chat/use-cases/data-insights/analytics-overview-v2.md)
       - {hide-from-toc}[Panoramica](./chat/use-cases/data-insights/analytics-overview.md)
       - [Introduzione](./chat/use-cases/data-insights/analytics-chat.md)
       - [Esplorare tendenze e cause profonde](./chat/use-cases/data-insights/root-cause-analysis.md)
@@ -54,7 +53,7 @@ ht-degree: 18%
       - [Pianificare il lancio di una campagna digitale](./chat/use-cases/workflow-and-planning/plan-digital-campaign-launch.md)
 - Personalizzazioni {#customizations}
   - [Panoramica](./customizations/overview.md)
-  - Competenza {#skills}
+  - Competenze {#skills}
     - [Che cosa sono le abilità?](./customizations/skills/what-are-skills.md)
     - [Crea la tua prima abilità](./customizations/skills/create-your-first-skill.md)
     - [Creare ed eseguire un’abilità gate di qualità](./customizations/skills/run-a-quality-gate-skill.md)

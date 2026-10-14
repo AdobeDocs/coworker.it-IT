@@ -7,14 +7,14 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
+source-git-commit: 60669850e4005be01c31d9f7818d1c4ad3ed8f3a
 workflow-type: tm+mt
 source-wordcount: '2094'
 ht-degree: 4%
 ---
 # Introduzione all’analisi dei dati con Chat per collaboratori
 
-Configura Adobe CX Enterprise Coworker Chat per analizzare le visualizzazioni dati di Customer Journey Analytics o le suite di rapporti di Adobe Analytics, quindi segui un esempio funzionante. Per una panoramica delle operazioni che è possibile eseguire con Chat con Coworker, inclusi casi d&#39;uso, competenze e best practice, consulta [Analizzare i dati con Chat con Coworker](/help/chat/use-cases/data-insights/analytics-overview-v2.md).
+Configura Adobe CX Enterprise Coworker Chat per analizzare le visualizzazioni dati di Customer Journey Analytics o le suite di rapporti di Adobe Analytics, quindi segui un esempio funzionante. Per una panoramica delle operazioni che è possibile eseguire con Chat con Coworker, inclusi casi d&#39;uso, competenze e best practice, consulta [Analizzare i dati con Chat con Coworker](/help/chat/use-cases/data-insights/analytics-overview.md).
 
 Prima di iniziare, scopri l’interfaccia e le opzioni di configurazione di Chat per collaboratori, quindi assicurati che Cooker sia connesso a Customer Journey Analytics o Adobe Analytics e alle relative visualizzazioni dati o suite di rapporti.
 
@@ -34,7 +34,7 @@ Prima di utilizzare Chat con collaboratori con i dati di Customer Journey Analyt
 * Server MCP
 * Memoria
 * Plug-in
-* Competenza
+* Competenze
 * E altro ancora
 
 Per ulteriori informazioni, consulta la [Guida dell&#39;interfaccia utente di Chat per collaboratori](/help/chat/ui-guide.md).
@@ -249,11 +249,11 @@ Il funnel è identico tra i dispositivi fino al momento del check-out, quindi il
 | --- | --- | --- | --- | --- | --- |
 | Desktop | 70,172 | 44.9% | 54.8% | 23.2% | 5.70% |
 | Tablet | 13,855 | 44.7% | 55.6% | 14.3% | 3.56% |
-| Dispositivi mobili | 53,449 | 44.9% | 55.3% | 8.1% | 2.02% |
+| Mobile | 53,449 | 44.9% | 55.3% | 8.1% | 2.02% |
 
 **La pistola fumante**
 
-| Metrica | Desktop | Dispositivi mobili | Intervallo |
+| Metrica | Desktop | Mobile | Intervallo |
 | --- | --- | --- | --- |
 | Percentuale da carrello ad acquisto | 23.2% | 8.1% | 15 punti percentuali |
 | Mobile è | — | 2,8x peggiore | — |
@@ -331,4 +331,4 @@ Per aprire una visualizzazione in un nuovo progetto Analysis Workspace:
 
 ## Passaggi successivi
 
-Per altri casi d&#39;uso, le abilità utilizzate da Chat con collaboratori per analizzare i dati e le best practice per la scrittura di prompt, vedi [Analizzare i dati con Chat con collaboratori](/help/chat/use-cases/data-insights/analytics-overview-v2.md).
+Per altri casi d&#39;uso, le abilità utilizzate da Chat con collaboratori per analizzare i dati e le best practice per la scrittura di prompt, vedi [Analizzare i dati con Chat con collaboratori](/help/chat/use-cases/data-insights/analytics-overview.md).

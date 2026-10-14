@@ -1,16 +1,15 @@
 ---
 title: Guida di Adobe CX Enterprise Coworker
 description: Scopri Adobe CX Enterprise Coworker, un compagno di squadra basato sull’intelligenza artificiale che automatizza l’esperienza del cliente e i flussi di lavoro di marketing all’interno dell’organizzazione.
-dummy: true
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: c09bea49262950dcc3fc9a3bdf33b18e9c1d7c4d
+source-git-commit: f0ca8fc373cae1697ac28a4f555e8c096ff6fbca
 workflow-type: tm+mt
-source-wordcount: '834'
+source-wordcount: '843'
 ht-degree: 14%
 ---
 # Panoramica di CX Enterprise Coworker {#overview}
@@ -101,7 +100,7 @@ CARDS
   {title = Transforming CX Workflows with Adobe CX Enterprise Coworker}
   {description = Explore real-world use cases that demonstrate how organizations can put Coworker to work to uncover insights, create audiences, optimize journeys, and deliver customer experiences faster and more efficiently.}
   {cta = Watch}
-*  https://engage.adobe.com/ExpLeagueLive-261008.html?cid=cwkr-ovw-20261008
+*  https://experienceleague.adobe.com/en/on-demand-events/exl-live-episode-10-08-26
   {title = Audience and Journey B2C capabilities in Coworker}
   {description = See how Coworker can execute end-to-end workflows for customer experience orchestration, increasing productivity and simplifying otherwise technical or complex tasks.}
   {cta = Register}
@@ -113,7 +112,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/on-demand-events/exl-live-episode-09-24-26" title="Trasformazione dei flussi di lavoro CX con Adobe CX Enterprise Coworker" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="./assets/exl-live-20260924.png" alt="Trasformazione dei flussi di lavoro CX con Adobe CX Enterprise Coworker"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503884/?format=jpeg&nocache=1791907736815" alt="Trasformazione dei flussi di lavoro CX con Adobe CX Enterprise Coworker"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -135,8 +134,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://engage.adobe.com/ExpLeagueLive-261008.html?cid=cwkr-ovw-20261008" title="Funzionalità B2C di pubblico e Percorso in Coworker" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="./assets/exl-live-20261008.png" alt="Funzionalità B2C di pubblico e Percorso in Coworker"
+                    <a href="https://experienceleague.adobe.com/en/on-demand-events/exl-live-episode-10-08-26" title="Funzionalità B2C di pubblico e Percorso in Coworker" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504278/?format=jpeg&nocache=1791907736813" alt="Funzionalità B2C di pubblico e Percorso in Coworker"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -144,11 +143,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://engage.adobe.com/ExpLeagueLive-261008.html?cid=cwkr-ovw-20261008" target="_blank" rel="referrer" title="Funzionalità B2C di pubblico e Percorso in Coworker">Funzionalità B2C di pubblico e Percorso in Collaborator</a>
+                        <a href="https://experienceleague.adobe.com/en/on-demand-events/exl-live-episode-10-08-26" target="_blank" rel="referrer" title="Funzionalità B2C di pubblico e Percorso in Coworker">Funzionalità B2C di pubblico e Percorso in Collaborator</a>
                     </p>
                     <p class="is-size-6">Scopri come Coworker può eseguire flussi di lavoro end-to-end per l’orchestrazione dell’esperienza del cliente, aumentando la produttività e semplificando attività altrimenti tecniche o complesse.</p>
                 </div>
-                <a href="https://engage.adobe.com/ExpLeagueLive-261008.html?cid=cwkr-ovw-20261008" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/on-demand-events/exl-live-episode-10-08-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Registra</span>
                 </a>
             </div>
@@ -156,6 +155,7 @@ CARDS
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
 
 ## Campagne collaboratrici
 
