@@ -5,7 +5,7 @@ product_v2:
   internal-label: CX Enterprise Coworker
 feature_v2:
   internal-label: CX Enterprise Coworker
-source-git-commit: 1406a6258a8f7ad3a7e5268a01c8ab2b449505b6
+source-git-commit: b6a05e2fdc16830fd69ac1b5ea68ed1d4c5d5c5f
 workflow-type: tm+mt
 source-wordcount: '1915'
 ht-degree: 1%
@@ -67,7 +67,7 @@ I seguenti casi d’uso sono raggruppati per dominio di analisi. Ogni gruppo ele
 | Caso d’uso | Funzione |
 | --- | --- |
 | [Confronta prestazioni](#skills-and-limitations) | Confronta le metriche per canali, periodi di tempo o segmenti affiancati.<p>**Prompt di esempio:** &quot;Confronta i ricavi per canale, mese e mese&quot;</p><p>Per ulteriori informazioni, consulta [Abilità e limitazioni](#skills-and-limitations).</p> |
-| [Analizzare le tendenze e le cause operative](/help/chat/use-cases/overview.md#data-insights) | Esegui query sui dati storici delle serie temporali per tipi di pubblico, set di dati e percorsi e identifica la causa di un cambiamento.<p>**Prompt di esempio:** &quot;Mostra le tendenze delle dimensioni del pubblico negli ultimi 90 giorni&quot;</p><p>Per ulteriori informazioni, consulta [Informazioni sui dati](/help/chat/use-cases/overview.md#data-insights) nei casi di utilizzo di Chat con coorker.</p> |
+| [Analizzare le tendenze e le cause operative](/help/chat/use-cases/workflows.md#data-insights) | Esegui query sui dati storici delle serie temporali per tipi di pubblico, set di dati e percorsi e identifica la causa di un cambiamento.<p>**Prompt di esempio:** &quot;Mostra le tendenze delle dimensioni del pubblico negli ultimi 90 giorni&quot;</p><p>Per ulteriori informazioni, consulta [Informazioni sui dati](/help/chat/use-cases/workflows.md#data-insights) nei casi di utilizzo di Chat con coorker.</p> |
 
 ### Prestazioni aziendali
 
@@ -86,9 +86,9 @@ I seguenti casi d’uso sono raggruppati per dominio di analisi. Ogni gruppo ele
 
 | Caso d’uso | Funzione |
 | --- | --- |
-| [Misura le prestazioni della campagna](/help/chat/use-cases/overview.md#data-insights) | Scopri le prestazioni di campagne, canali e proprietà web in un dato periodo.<p>**Prompt di esempio:** &quot;Quali sono state le prestazioni delle campagne Web di Acrobat il mese scorso?&quot;</p><p>Per ulteriori informazioni, consulta [Informazioni sui dati](/help/chat/use-cases/overview.md#data-insights) nei casi di utilizzo di Chat con coorker.</p> |
+| [Misura le prestazioni della campagna](/help/chat/use-cases/workflows.md#data-insights) | Scopri le prestazioni di campagne, canali e proprietà web in un dato periodo.<p>**Prompt di esempio:** &quot;Quali sono state le prestazioni delle campagne Web di Acrobat il mese scorso?&quot;</p><p>Per ulteriori informazioni, consulta [Informazioni sui dati](/help/chat/use-cases/workflows.md#data-insights) nei casi di utilizzo di Chat con coorker.</p> |
 
-Per ulteriori informazioni su questi casi d&#39;uso, incluse le abilità utilizzate e ulteriori richieste di esempio, vedi [Casi d&#39;uso approfondimenti dati](/help/chat/use-cases/overview.md#data-insights).
+Per ulteriori informazioni su questi casi d&#39;uso, incluse le abilità utilizzate e ulteriori richieste di esempio, vedi [Casi d&#39;uso approfondimenti dati](/help/chat/use-cases/workflows.md#data-insights).
 
 ## Abilità e limitazioni
 

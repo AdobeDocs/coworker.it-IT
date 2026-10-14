@@ -5,9 +5,9 @@ user-guide-description: Scopri Adobe CX Enterprise Coworker, un compagno di squa
 description: Scopri gli strumenti di intelligenza artificiale in CX Enterprise. Migliora la tua conoscenza del prodotto e acquisisci informazioni operative utilizzando l’intelligenza artificiale in CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 60669850e4005be01c31d9f7818d1c4ad3ed8f3a
+source-git-commit: 0ccc8faed069b726a28a39042047d1e66200181e
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '226'
 ht-degree: 18%
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 18%
   - [Guida all’interfaccia utente](./chat/ui-guide.md)
   - {hide-from-toc}[Chat con i collaboratori in Playground](./playground-coworker-chat.md)
   - Casi d’uso {#use-cases}
-    - [Casi d’uso di Chat con i collaboratori](./chat/use-cases/overview.md)
+    - [Flussi di lavoro di Chat del collaboratore](./chat/use-cases/workflows.md)
     - Approfondimenti dati {#data-insights}
       - {hide-from-toc}[Panoramica](./chat/use-cases/data-insights/analytics-overview.md)
       - [Introduzione](./chat/use-cases/data-insights/analytics-chat.md)

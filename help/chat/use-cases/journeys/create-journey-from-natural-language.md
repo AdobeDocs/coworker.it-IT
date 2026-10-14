@@ -14,9 +14,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: bc2c2d0bb2f73ffb9018325f812c9701c90779e1
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '128'
 ht-degree: 1%
 ---
 
@@ -26,9 +26,9 @@ La creazione di percorsi di clienti in genere richiede un’ampia configurazione
  
 Automatizzando il processo di configurazione iniziale, i team possono dedicare meno tempo alla creazione di percorsi da zero e più tempo al perfezionamento delle esperienze dei clienti e dei risultati di business.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496882/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496867/?learn=on&enablevpops)
 
 ## Vedi anche
 
-- [Journey Agent](https://experienceleague.adobe.com/it/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), la funzionalità di intelligenza artificiale sottostante che attiva la creazione del percorso in Coworker Chat.
-- [Altri casi di utilizzo di Chat con collaboratori](../overview.md#journeys)
+- [Journey Agent](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), la funzionalità di intelligenza artificiale sottostante che attiva la creazione del percorso in Coworker Chat.
+- [Altri flussi di lavoro di chat per collaboratori](../workflows.md#journeys)

@@ -7,7 +7,7 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: ee66c1cc95ef1dd8c5e45c1fcb699547e63b9c8a
+source-git-commit: b6a05e2fdc16830fd69ac1b5ea68ed1d4c5d5c5f
 workflow-type: tm+mt
 source-wordcount: '781'
 ht-degree: 1%
@@ -18,7 +18,7 @@ Per ottenere il massimo dalle campagne di Coworker, inizia da come viene richies
 
 >[!NOTE]
 >
->Al momento, è possibile connettersi solo alle integrazioni supportate da Campagne Coworker. Se disponi di applicazioni Adobe Enterprise esistenti, in cui vengono archiviati i tipi di pubblico o vengono creati percorsi, ti invitiamo a utilizzare [CX Enterprise Coworker](/help/chat/use-cases/overview.md).
+>Al momento, è possibile connettersi solo alle integrazioni supportate da Campagne Coworker. Se disponi di applicazioni Adobe Enterprise esistenti, in cui vengono archiviati i tipi di pubblico o vengono creati percorsi, ti invitiamo a utilizzare [CX Enterprise Coworker](/help/chat/use-cases/workflows.md).
 
 ## Utilizzare il framework CO-STAR
 
