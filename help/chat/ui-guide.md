@@ -17,7 +17,7 @@ ht-degree: 2%
 
 Chat con collaboratori consente di lavorare con i dati e gli strumenti di Adobe CX Enterprise chiedendo cosa è necessario in linguaggio semplice. Utilizza questa pagina per aprire Chat con i collaboratori, inviare il primo messaggio e configurarlo nel modo in cui lavori.
 
->[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498573?captions=ita&learn=on)
 
 ## Disponibilità
 
