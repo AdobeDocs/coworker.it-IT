@@ -8,16 +8,16 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 9dbf1eb9bf7b975af633b67ea2af812392932ec3
+source-git-commit: e3d44db4695911c1b72f47fb66bd75e24acfc2e2
 workflow-type: tm+mt
-source-wordcount: '1799'
+source-wordcount: '1809'
 ht-degree: 2%
 ---
 # Introduzione alla chat con i collaboratori {#ui-guide}
 
 Chat con collaboratori consente di lavorare con i dati e gli strumenti di Adobe CX Enterprise chiedendo cosa è necessario in linguaggio semplice. Utilizza questa pagina per aprire Chat con i collaboratori, inviare il primo messaggio e configurarlo nel modo in cui lavori.
 
->[!VIDEO](https://video.tv.adobe.com/v/3498573?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Disponibilità
 
@@ -46,9 +46,9 @@ In alternativa, fare clic su **[!UICONTROL Collaboratore]** nel selettore delle 
 
 ![Collaboratore nel selettore delle applicazioni di CX Enterprise](./assets/ui-guide-1.png)
 
-## Imposta il contesto
+## Scegli la tua organizzazione
 
-L’organizzazione e la sandbox determinano quali dati, competenze e strumenti connessi può raggiungere una conversazione. Controllali prima di iniziare. Il contesto corrente viene visualizzato nella parte inferiore della barra di navigazione a sinistra, sotto il tuo nome.
+L&#39;[organizzazione](https://experienceleague.adobe.com/it/docs/core-services/interface/administration/organizations) e la sandbox determinano i dati, le abilità e gli strumenti connessi a cui può accedere una conversazione. Controllali prima di iniziare. Il contesto corrente viene visualizzato nella parte inferiore della barra di navigazione a sinistra, sotto il tuo nome.
 
 Per modificare il contesto:
 
@@ -89,7 +89,7 @@ Utilizza la barra di navigazione per spostarti tra le parti del prodotto e torna
 
 ## Invia il primo messaggio
 
-La schermata iniziale mostra un saluto, la casella di input e i prompt suggeriti in base a ciò che Cloud Chat può fare nella sandbox. Puoi iniziare con un suggerimento o scrivere un messaggio personalizzato.
+Nella schermata iniziale viene visualizzato un messaggio di saluto, la casella di input ([!UICONTROL Chat]) e i prompt suggeriti in base alle funzionalità di Chat collaboratore nella sandbox. Puoi iniziare con un suggerimento o scrivere un messaggio personalizzato.
 
 Per inviare un messaggio:
 
