@@ -8,7 +8,7 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 216699c5b1bd34ffea0884083599fb51609762d1
+source-git-commit: 9dbf1eb9bf7b975af633b67ea2af812392932ec3
 workflow-type: tm+mt
 source-wordcount: '1799'
 ht-degree: 2%
@@ -17,7 +17,7 @@ ht-degree: 2%
 
 Chat con collaboratori consente di lavorare con i dati e gli strumenti di Adobe CX Enterprise chiedendo cosa è necessario in linguaggio semplice. Utilizza questa pagina per aprire Chat con i collaboratori, inviare il primo messaggio e configurarlo nel modo in cui lavori.
 
->[!VIDEO](https://video.tv.adobe.com/v/3498573?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Disponibilità
 
@@ -132,7 +132,7 @@ Allegare un file o un oggetto quando è necessario disporre di ulteriori informa
 
 ![Menu di collegamento](./assets/ui-guide-5.png)
 
-### Rivedi un piano prima che il collega Chat agisca
+### Rivedi un piano prima che il collega Chat agisca {#plan-mode}
 
 Utilizzare la modalità Pianificazione per task complessi o task che modificano dati. Quando la modalità Piano è attiva, Chat collaboratore propone un piano e attende la tua approvazione prima che venga eseguito. Quando la modalità Pianificazione è disattivata, Chat con collaboratori avvia il lavoro immediatamente.
 

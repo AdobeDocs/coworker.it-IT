@@ -7,9 +7,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: d87a189293dcc367e5fdfd80e6b59615fdbe9a2d
 workflow-type: tm+mt
-source-wordcount: '741'
+source-wordcount: '747'
 ht-degree: 3%
 ---
 # Panoramica di Adobe CX Enterprise Coworker Chat {#overview}
@@ -17,6 +17,8 @@ ht-degree: 3%
 Chat con i collaboratori è un’interfaccia conversazionale per il lavoro svolto con la customer experience. Descrivi un obiettivo in un linguaggio semplice (ad esempio, &quot;crea un pubblico per la promozione di yoga di primavera&quot; o, &quot;dimmi perché questo pubblico si è ridotto la settimana scorsa&quot;) e Chat collaboratrice pianifica il lavoro, lo esegue sul tuo Adobe e sui sistemi connessi, convalida i risultati e ti riporta il lavoro finito per l’approvazione.
 
 Il valore: lavoro che prima si estendeva su più schermi, team e giorni ora si svolge in una conversazione in pochi minuti. Delega il risultato e resta in controllo tramite revisione e approvazione; Chat collaboratore esegue i passaggi, recupera dagli errori durante il percorso e diventa più intelligente mentre apprende come funziona il tuo team.
+
+Consulta [Introduzione a Chat con collaboratori](ui-guide.md).
 
 >[!AVAILABILITY]
 >
@@ -70,4 +72,4 @@ La chat di Coworker è alimentata dai blocchi predefiniti di Coworker. I seguent
 
 ## Panoramica video
 
->[!VIDEO](https://video.tv.adobe.com/v/3495973?captions=ita&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3495967?learn=on){transcript=true}
