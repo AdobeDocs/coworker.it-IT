@@ -7,14 +7,14 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: d87a189293dcc367e5fdfd80e6b59615fdbe9a2d
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '938'
+source-wordcount: '935'
 ht-degree: 18%
 ---
 # Guida di CX Enterprise Coworker {#overview}
 
-[!DNL Coworker] è il compagno di squadra di Adobe per l&#39;intelligenza artificiale per l&#39;esperienza del cliente e il lavoro di marketing. Non si limita a rispondere a domande o a consigliare azioni: esegue flussi di lavoro di marketing in più passaggi in Adobe e altri sistemi aziendali e le approvazioni e la governance ti mantengono sotto controllo. Ulteriori informazioni su [Adobe for Business](https://business.adobe.com/it/products/cx-enterprise-coworker.html).
+[!DNL Coworker] è il compagno di squadra di Adobe per l&#39;intelligenza artificiale per l&#39;esperienza del cliente e il lavoro di marketing. Non si limita a rispondere a domande o a consigliare azioni: esegue flussi di lavoro di marketing in più passaggi in Adobe e altri sistemi aziendali e le approvazioni e la governance ti mantengono sotto controllo. Ulteriori informazioni su [Adobe for Business](https://business.adobe.com/products/cx-enterprise-coworker.html).
 
 ## Come utilizzare [!DNL Coworker]
 
@@ -23,7 +23,7 @@ Collaboratore sposta l&#39;intelligenza artificiale da _assistente_ a _azione_. 
 [!DNL Coworker] viene distribuito tramite tre esperienze:
 
 * **[Collaboratore [!UICONTROL Chat]](./chat/overview.md):** Richiedi informazioni, contenuti e azioni nelle applicazioni Adobe in linguaggio naturale.
-* **[Collaboratore [!UICONTROL Campagne]](./campaigns/overview.md):** Consente ai team di marketing agili di passare da un obiettivo della campagna a un&#39;esecuzione coordinata.
+* **[Collaboratore [!UICONTROL Campagne]](./coworker-for-teams/overview.md):** Consente ai team di marketing agili di passare da un obiettivo della campagna a un&#39;esecuzione coordinata.
 * **Collaboratore [!UICONTROL Progetti] (presto disponibile):** Per flussi di lavoro aziendali interfunzionali e a esecuzione prolungata in cui i team impostano i processi, le approvazioni e il livello di autonomia di Collaboratore.
 
 ## Abilitare Collaboratore
@@ -44,16 +44,16 @@ Queste playlist video illustrano le principali funzionalità di [!UICONTROL Chat
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/it/playlists/coworker-get-started-with-chat
+* https://experienceleague.adobe.com/en/playlists/coworker-get-started-with-chat
    {title = Get started with CX Enterprise Coworker Chat}
    {description = Learn the value of CX Enterprise Coworker Chat and start executing use cases.}
    {cta = Watch}
-   {image = https://video.tv.adobe.com/v/3498573?captions=ita&format=jpeg}    
-*  https://experienceleague.adobe.com/it/playlists/coworker-customize-chat
+   {image = https://video.tv.adobe.com/v/3498558?format=jpeg}    
+*  https://experienceleague.adobe.com/en/playlists/coworker-customize-chat
     {title = Customize CX Enterprise Coworker Chat}
     {description = Learn how Coworker can be customized with reusable skills, enterprise integrations, plugins, and memory to deliver context-aware, personalized, and business-specific AI experiences that fits how your team works.}
     {cta = Watch}
-    {image = https://video.tv.adobe.com/v/3502338?captions=ita&format=jpeg}
+    {image = https://video.tv.adobe.com/v/3502323?format=jpeg}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -61,8 +61,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/it/playlists/coworker-get-started-with-chat" title="Introduzione a CX Enterprise Coworker Chat" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3498573?captions=ita&format=jpeg" alt="Introduzione a CX Enterprise Coworker Chat"
+                    <a href="https://experienceleague.adobe.com/en/playlists/coworker-get-started-with-chat" title="Introduzione a CX Enterprise Coworker Chat" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3498558?format=jpeg" alt="Introduzione a CX Enterprise Coworker Chat"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -70,11 +70,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/it/playlists/coworker-get-started-with-chat" target="_blank" rel="referrer" title="Introduzione a CX Enterprise Coworker Chat">Introduzione a CX Enterprise Coworker Chat</a>
+                        <a href="https://experienceleague.adobe.com/en/playlists/coworker-get-started-with-chat" target="_blank" rel="referrer" title="Introduzione a CX Enterprise Coworker Chat">Introduzione a CX Enterprise Coworker Chat</a>
                     </p>
                     <p class="is-size-6">Scopri il valore di CX Enterprise Coworker Chat e inizia a eseguire casi d’uso.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/it/playlists/coworker-get-started-with-chat" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/playlists/coworker-get-started-with-chat" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
@@ -84,8 +84,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/it/playlists/coworker-customize-chat" title="Personalizzare CX Enterprise Coworker Chat" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502338?captions=ita&format=jpeg" alt="Personalizzare CX Enterprise Coworker Chat"
+                    <a href="https://experienceleague.adobe.com/en/playlists/coworker-customize-chat" title="Personalizzare CX Enterprise Coworker Chat" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502323?format=jpeg" alt="Personalizzare CX Enterprise Coworker Chat"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -93,11 +93,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/it/playlists/coworker-customize-chat" target="_blank" rel="referrer" title="Personalizzare CX Enterprise Coworker Chat">Personalizza CX Enterprise Coworker Chat</a>
+                        <a href="https://experienceleague.adobe.com/en/playlists/coworker-customize-chat" target="_blank" rel="referrer" title="Personalizzare CX Enterprise Coworker Chat">Personalizza CX Enterprise Coworker Chat</a>
                     </p>
                     <p class="is-size-6">Scopri come personalizzare Coworker con competenze riutilizzabili, integrazioni Enterprise, plug-in e memoria per fornire esperienze di intelligenza artificiale personalizzate, in base al contesto e specifiche per l’azienda, in base al funzionamento del team.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/it/playlists/coworker-customize-chat" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/playlists/coworker-customize-chat" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
@@ -106,20 +106,20 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-## Campagne collaboratrici
-
-Campagne con collaboratori è una funzione modellata che consente ai piccoli team agili di alzarsi in piedi ed eseguire campagne.
-
-* [Panoramica](./campaigns/overview.md)
-* [Creare una campagna e-mail](./campaigns/create-an-email-campaign.md)
-* [Casi d’uso](./campaigns/use-cases.md)
-* [Best practice per la richiesta di informazioni](./campaigns/prompting-best-practices.md)
-* [Connetti a Marketo Engage](./campaigns/connectors/marketo.md)
-* [Connetti a Hubspot](./campaigns/connectors/hubspot.md)
-
 ## Progetti (presto disponibili)
 
 Progetti del collaboratore è un’area di lavoro condivisa per automatizzare i flussi di lavoro relativi all’esperienza del cliente dalla strategia alla consegna. I team lo utilizzano per coordinare attività, approvazioni ed esecuzione.
+
+## Collaboratore per team
+
+Collaboratore per team è una funzione modellata che consente ai team agili di piccole dimensioni di alzarsi in piedi ed eseguire campagne.
+
+**Articoli popolari**
+
+* [Panoramica](./coworker-for-teams/overview.md)
+* [Creare una campagna e-mail](./coworker-for-teams/create-an-email-campaign.md)
+* [Casi d’uso](./coworker-for-teams/use-cases.md)
+* [Best practice per la richiesta di informazioni](./coworker-for-teams/prompting-best-practices.md)
 
 ## Experience League LIVE: serie sbloccata dal collaboratore
 

@@ -7,9 +7,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 74f8413fcb9bb0ab6c257a56c38e5e374414e2d5
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '751'
 ht-degree: 3%
 ---
 # Panoramica di Adobe CX Enterprise Coworker Chat {#overview}
@@ -26,7 +26,7 @@ Per iniziare, consulta [Introduzione a Chat con coworking](ui-guide.md).
 
 >[!NOTE]
 >
->Chat con i collaboratori è un modulo di Adobe CX Enterprise Coworker. Altri due moduli estendono la stessa base: Campagne collaboratori (alzati e avvia una campagna completa da una conversazione) e Progetti collaboratori (un’area di lavoro sempre attiva per flussi di lavoro end-to-end con più team). Questa pagina tratta la chat di lavoro.
+>Chat con i collaboratori è un modulo di Adobe CX Enterprise Coworker. Altri due moduli estendono la stessa base: Collaboratore per team (alzati e avvia una campagna completa da una conversazione) e Progetti collaboratori (un’area di lavoro sempre attiva per flussi di lavoro end-to-end con più team). Questa pagina tratta la chat di lavoro.
 
 ## Un’evoluzione da AI Assistant
 
@@ -72,4 +72,4 @@ La chat di Coworker è alimentata dai blocchi predefiniti di Coworker. I seguent
 
 ## Panoramica video
 
->[!VIDEO](https://video.tv.adobe.com/v/3495973?captions=ita&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3495967?learn=on){transcript=true}
