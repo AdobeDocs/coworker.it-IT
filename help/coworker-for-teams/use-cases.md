@@ -162,4 +162,4 @@ Ideale per: qualsiasi tipo di pubblico che non ha risposto.
 
 ## Pronto per la generazione?
 
-Scegli un caso d&#39;uso qui sopra, visita [Crea una campagna e-mail](./) per l&#39;intera procedura, quindi prova.
+Scegli un caso d&#39;uso qui sopra, visita [Crea una campagna e-mail] (./) per l&#39;intera procedura, quindi prova.
