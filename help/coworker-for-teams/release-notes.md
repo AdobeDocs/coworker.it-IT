@@ -1,20 +1,20 @@
 ---
-description: Scopri i miglioramenti e le correzioni di funzioni nelle note sulla versione di Adobe CX Enterprise Coworker Campaigns.
-title: Note sulla versione di CX Enterprise Coworker Campaigns
+description: Scopri i miglioramenti e le correzioni di funzioni nelle note sulla versione di Adobe CX Enterprise Coworker for teams.
+title: Note sulla versione di CX Enterprise Coworker for teams
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: ee66c1cc95ef1dd8c5e45c1fcb699547e63b9c8a
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '3590'
+source-wordcount: '3597'
 ht-degree: 0%
 ---
-# Note sulla versione di Adobe CX Enterprise Coworker Campaigns {#release-notes}
+# Note sulla versione di Adobe CX Enterprise Coworker for teams {#release-notes}
 
-I rilasci delle campagne di collaborazione funzionano su un modello di distribuzione continua che consente un approccio più scalabile e graduale alla distribuzione delle funzioni.
+I rilasci di Coworker for teams funzionano secondo un modello di distribuzione continua che consente un approccio più scalabile e graduale alla distribuzione delle funzioni.
 
 ## Settembre 2026 {#sep-2026}
 
@@ -173,7 +173,7 @@ I rilasci delle campagne di collaborazione funzionano su un modello di distribuz
 * Gli insights di Campaign mostrano quale origine dati potenzia ogni metrica
 * Gli editor dei marchi sono ora integrati nell’onboarding per una configurazione più semplice
 * Visualizzare in anteprima un pubblico di esempio prima di confermare la campagna
-* Le campagne per collaboratori ora risiedono nella shell di navigazione unificata di Experience Cloud
+* Coworker for teams ora risiede nella shell di navigazione unificata di Experience Cloud.
 * È stata rimossa la barra di suggerimento del feedback mobile per una bacheca campagna più pulita
 * Vari miglioramenti a livello di prestazioni e affidabilità in tutto il
 
@@ -276,7 +276,7 @@ I rilasci delle campagne di collaborazione funzionano su un modello di distribuz
 
 **Data di rilascio: 10 giugno 2026**
 
-* L’app ora è Campagne collaboratrici con nomi aggiornati in tutto
+* L’app ora è Collaboratore per i team con denominazione aggiornata in
 * Un primo tour di onboarding ti guida attraverso la creazione di un brand demo
 * Avvia campagne da una finestra di dialogo dedicata quando il piano è pronto per essere utilizzato
 * Connettere HubSpot con una chiave API dal catalogo delle integrazioni
@@ -370,7 +370,7 @@ I rilasci delle campagne di collaborazione funzionano su un modello di distribuz
 
 * Le bacheche e gli elenchi di Campaign mantengono l’allineamento con i dettagli più recenti mentre lavori
 * Nella chat della campagna e in Agent Builder viene visualizzata una dichiarazione generativa di non responsabilità per l’intelligenza artificiale
-* I dettagli di contatto del supporto ora utilizzano l’indirizzo e-mail dedicato alle campagne CX Coworker
+* I dettagli di contatto del supporto ora utilizzano l’indirizzo e-mail dedicato di CX Coworker for teams
 * La pagina Home di marketing rimuove la sezione della lista d’attesa e mostra più chiaramente il video principale
 * Più schermate rispettano automaticamente la lingua e i formati di data locali
 * Vari miglioramenti a livello di prestazioni e affidabilità in tutto il

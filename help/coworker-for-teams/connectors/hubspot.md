@@ -1,5 +1,5 @@
 ---
-description: Connetti l’account HubSpot a Campagne con Collaboratore utilizzando una chiave di servizio per sincronizzare gli elenchi di contatti, quindi gestisci o disconnetti l’integrazione in qualsiasi momento.
+description: Connetti l’account HubSpot a Collaboratore per i team che utilizzano una chiave di servizio per sincronizzare gli elenchi di contatti, quindi gestisci o disconnetti l’integrazione in qualsiasi momento.
 title: Connetti a HubSpot
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
@@ -7,14 +7,14 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '261'
 ht-degree: 0%
 ---
 # Connetti a HubSpot {#hubspot}
 
-Campagne Adobe Collaborator consente di collegare l’account HubSpot per richiamare gli elenchi di contatti.
+Adobe Coworker for teams ti consente di collegare il tuo account HubSpot per richiamare gli elenchi dei contatti.
 
 >[!PREREQUISITES]
 >
@@ -25,7 +25,7 @@ Campagne Adobe Collaborator consente di collegare l’account HubSpot per richia
 
 ## Come collegarsi
 
-1. Nella home page di [Campagne collaboratori](https://coworker-campaigns.experience.adobe.com/), fare clic su **Personalizza** e selezionare **Connettori**.
+1. Nella home page di [Collaboratore per team](https://coworker-campaigns.experience.adobe.com/), fare clic su **Personalizza** e selezionare **Connettori**.
 
    ![Menu Personalizza espanso nella barra laterale con i connettori selezionati](./assets/hubspot-1.png)
 

@@ -1,24 +1,24 @@
 ---
-description: Cerca modelli di prompt reali per le campagne Adobe CX Enterprise Coworker, organizzati per caso d’uso in campagne di acquisizione, coinvolgimento, eventi, conversione e fidelizzazione.
-title: Casi di utilizzo delle campagne dei collaboratori
+description: Cerca modelli di prompt reali per Adobe CX Enterprise Coworker per i team, organizzati per caso d’uso in campagne di acquisizione, coinvolgimento, eventi, conversione e fidelizzazione.
+title: Casi di utilizzo di Collaboratore per team
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '512'
 ht-degree: 0%
 ---
 # Casi d’uso {#use-cases}
 
-Di seguito sono riportati i pattern di prompt reali utilizzati dagli esperti di marketing per la crescita e il ciclo di vita nelle campagne Adobe CX Enterprise Coworker. Ognuna è creata per essere copiata, scambiata con il tuo pubblico e i tuoi dettagli del brand e perfezionata nella conversazione.
+Di seguito sono riportati i pattern di prompt reali utilizzati dagli esperti di marketing per la crescita e il ciclo di vita in Adobe CX Enterprise Coworker for teams. Ognuna è creata per essere copiata, scambiata con il tuo pubblico e i tuoi dettagli del brand e perfezionata nella conversazione.
 
 ## Come usare
 
-Scegli un caso d’uso adatto al tuo obiettivo, copia il prompt di esempio e incollalo in Campagne collaboratori, sostituisci i segnaposto con le tue specifiche e perfeziona l’output tramite chat. Per informazioni dettagliate, passa a Genera e genera campagne.
+Scegli un caso d’uso adatto al tuo obiettivo, copia il prompt di esempio e incollalo in Collaborator for teams, sostituisci i segnaposto con le tue specifiche e perfeziona l’output tramite chat. Per informazioni dettagliate, passa a Genera e genera campagne.
 
 ## Acquisizione e onboarding
 
@@ -74,7 +74,7 @@ Ideale per: formazione sui prodotti, adozione di funzionalità, riduzione del ti
 
 Ideale per: push stagionali al dettaglio, colliri di raccolta, momenti di aggiornamento.
 
-`"Build a 2-touch email campaign, 3 days apart, announcing our new seasonal catalog. Highlight what’s new and relevant for buyers in my CSV list. Personalize content to each person’s first name, product interest category, and region."`
+`"Build a 2-touch email campaign, 3 days apart, announcing our new seasonal catalog. Highlight what's new and relevant for buyers in my CSV list. Personalize content to each person's first name, product interest category, and region."`
 
 ## Eventi e momenti guidati
 

@@ -7,14 +7,14 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 12ee914ed944c82694b9373f611e19cf040e2229
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '224'
 ht-degree: 0%
 ---
 # Connetti a Salesforce {#salesforce}
 
-Campagne Adobe Collaborator consente di collegare il tuo account Salesforce per accedere ai lead e ai contatti.
+Adobe Collaborator for teams consente di collegare il tuo account Salesforce per accedere ai lead e ai contatti.
 
 >[!PREREQUISITES]
 >
@@ -26,9 +26,9 @@ Campagne Adobe Collaborator consente di collegare il tuo account Salesforce per 
 
 ## Come collegarsi
 
-1. Nella home page di [Campagne collaboratori](https://coworker-campaigns.experience.adobe.com/), fare clic su **Personalizza** e selezionare **Connettori**.
+1. Nella home page di [Collaboratore per team](https://coworker-campaigns.experience.adobe.com/), fare clic su **Personalizza** e selezionare **Connettori**.
 
-   ![Navigazione a sinistra delle campagne di collaborazione con Personalizza espanso ed evidenziati i connettori](./assets/salesforce-1.png)
+   ![Collaboratore per team ha lasciato la navigazione con Personalizza espanso ed evidenziati i connettori](./assets/salesforce-1.png)
 
 1. Fare clic su **Aggiungi integrazione**.
 

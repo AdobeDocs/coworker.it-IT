@@ -7,9 +7,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: ebed9c3e740939a7f7520ab3bf1a6bbe5ba84019
+source-git-commit: 8c59f556cc9ea347c8f934507ac0db97fc7cb697
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '383'
 ht-degree: 4%
 ---
 # Aggiungere un sottodominio e i mittenti {#subdomain-senders}
@@ -54,19 +54,19 @@ In questo modo potrai preservare la reputazione del tuo dominio e di altri sotto
    >
    >Se il provider DNS ti consente di caricare i campi in blocco, puoi fare clic su **Esporta CSV** per esportare tutti i campi.
 
-1. Dopo aver immesso le informazioni nel provider DNS, fare clic su **Ho aggiunto questi record** in Campagne Coworker per continuare.
+1. Dopo aver immesso le informazioni nel provider DNS, fare clic su **Ho aggiunto questi record** in Coworker per consentire ai team di continuare.
 
    SCHERMATA
 
    >[!NOTE]
    >
-   >La propagazione delle modifiche DNS può richiedere fino a 30 minuti. Se in una delle righe viene visualizzata una X rossa invece di un segno di spunta verde, Campagne coworking eseguiranno il controllo ogni due minuti fino al completamento.
+   >La propagazione delle modifiche DNS può richiedere fino a 30 minuti. Se in una delle righe viene visualizzata una X rossa invece di un segno di spunta verde, Collaboratore per i team eseguirà un controllo ogni due minuti fino al completamento.
 
 1. Quando tutti i record vengono convalidati, nella parte inferiore della finestra viene visualizzata una tabella di _Record di convalida_. Scorri verso il basso, copia tutti i valori elencati e aggiungili al provider DNS.
 
    SCHERMATA
 
-1. Al termine, fai clic su **Ho aggiunto questo record** (o **questi record** se sono presenti più record) in Campagne di Coworker per continuare.
+1. Al termine, fai clic su **Ho aggiunto questo record** (o **questi record** se sono presenti più record) in Coworker per consentire ai team di continuare.
 
    SCHERMATA
 
@@ -85,4 +85,3 @@ In questo modo potrai preservare la reputazione del tuo dominio e di altri sotto
 ## Come aggiungere un mittente
 
 Testo
-

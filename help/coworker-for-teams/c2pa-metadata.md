@@ -1,19 +1,19 @@
 ---
-description: Scopri in che modo Campagne coorker allega e mantiene automaticamente i metadati C2PA sulle immagini, dalla generazione alla consegna e-mail.
-title: Metadati C2PA nelle campagne collaboratrici
+description: Scopri in che modo Coworker for teams allega e mantiene automaticamente i metadati C2PA sulle immagini, dalla generazione alla consegna delle e-mail.
+title: Metadati C2PA in Collaboratore per team
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '396'
 ht-degree: 4%
 ---
-# Metadati C2PA nelle campagne collaboratrici {#overview}
+# Metadati C2PA in Collaboratore per team {#overview}
 
 Nuove leggi stanno emergendo sulla trasparenza generativa dell’intelligenza artificiale e Adobe sta lavorando per soddisfare i requisiti applicabili in tutte le giurisdizioni. I metadati [C2PA](https://c2pa.org/) sono lo strumento di provenienza utilizzato da Adobe per soddisfare i requisiti di queste normative.
 
-I metadati C2PA sono metadati invisibili e duraturi che registrano il modo in cui un contenuto è stato creato o modificato. Quando generi o modifichi un’immagine con strumenti di intelligenza artificiale generativi in Campagne collaboratrici, i metadati C2PA vengono automaticamente allegati a tale immagine. Non è richiesta alcuna azione da parte tua.
+I metadati C2PA sono metadati invisibili e duraturi che registrano il modo in cui un contenuto è stato creato o modificato. Quando generi o modifichi un’immagine con strumenti di intelligenza artificiale generativi in Collaborator for teams, i metadati C2PA vengono automaticamente allegati all’immagine. Non è richiesta alcuna azione da parte tua.
 
 ## Metadati C2PA nelle campagne e-mail {#c2pa-metadate-email}
 
@@ -21,7 +21,7 @@ Le immagini inviate nelle campagne e-mail mantengono intatti i metadati C2PA, in
 
 ## Azioni che associano metadati C2PA {#actions}
 
-La tabella seguente riepiloga quando vengono allegati metadati C2PA, in base all’azione dell’immagine eseguita nella generazione di immagini nelle campagne di Coworker.
+La tabella seguente riepiloga quando vengono allegati metadati C2PA, in base all’azione dell’immagine eseguita nella generazione di immagini in Coworker for teams.
 
 | Azione | Descrizione | Metadati C2PA allegati? | Esempio di caso d’uso |
 | --- | --- | --- | --- |
@@ -29,12 +29,12 @@ La tabella seguente riepiloga quando vengono allegati metadati C2PA, in base all
 
 ## Tipi di contenuto e ambito {#content-types}
 
-* **Immagini**: coperte. I metadati C2PA vengono allegati quando le immagini vengono generate con intelligenza artificiale generativa e vengono conservati mediante le operazioni di ritaglio, sovrapposizione di testo e sovrapposizione di immagini eseguite dalla generazione di immagini in Campagne Coworker.
-* **Testo**: non applicabile. Gli output di solo testo nelle campagne del collaboratore, come la generazione di copie, la traduzione e i suggerimenti di allineamento del brand, non richiedono metadati C2PA.
+* **Immagini**: coperte. I metadati C2PA vengono allegati quando le immagini vengono generate con intelligenza artificiale generativa e vengono conservati mediante le operazioni di ritaglio, sovrapposizione di testo e sovrapposizione di immagini eseguite dalla generazione di immagini in Coworker for teams.
+* **Testo**: non applicabile. Gli output di solo testo in Collaborator per i team, come la generazione di copie, la traduzione e i suggerimenti di allineamento del brand, non richiedono metadati C2PA.
 
 ## Cosa succede quando il contenuto si sposta {#content-moves}
 
-Campagne collaboratore mantiene i metadati C2PA associati alle risorse immagine supportate. Se un’immagine contiene metadati C2PA quando viene importata in Campagne collaboratrici, tali credenziali vengono mantenute quando la risorsa viene utilizzata nei contenuti della campagna generata e nelle esperienze e-mail in uscita.
+Collaboratore per team mantiene i metadati C2PA associati alle risorse immagine supportate. Se un’immagine contiene metadati C2PA quando viene importata in Collaborator per i team, tali credenziali vengono mantenute quando la risorsa viene utilizzata nei contenuti della campagna generata e nelle esperienze e-mail in uscita.
 
 ## Risorse aggiuntive {#resources}
 

@@ -1,6 +1,6 @@
 ---
-description: Una guida di riferimento all’interfaccia di Chat con i collaboratori, che include la navigazione, la casella di input, le risposte, la cronologia delle chat e la configurazione di Abilità, server MCP e Memoria.
-title: Guida dell’interfaccia utente di Chat con i collaboratori
+description: Scopri come aprire Chat con collaboratori, impostare l’organizzazione e la sandbox, inviare il primo messaggio e personalizzare abilità, server MCP e memoria. Avvia una conversazione in pochi minuti.
+title: Introduzione alla chat con i collaboratori
 jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
@@ -8,242 +8,260 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 12ee914ed944c82694b9373f611e19cf040e2229
+source-git-commit: 74f8413fcb9bb0ab6c257a56c38e5e374414e2d5
 workflow-type: tm+mt
-source-wordcount: '1719'
-ht-degree: 4%
+source-wordcount: '1802'
+ht-degree: 2%
 ---
-# Guida all’interfaccia utente {#ui-guide}
+# Introduzione alla chat con i collaboratori {#ui-guide}
 
-Diventa orientato con l’interfaccia di Chat con i collaboratori. Questa guida tratta tutte le operazioni, dall’accesso all’app, alla navigazione nell’area di lavoro, fino al massimo dalle conversazioni, alla gestione della cronologia e alla personalizzazione della configurazione.
+Chat con collaboratori consente di lavorare con i dati e gli strumenti di Adobe CX Enterprise chiedendo cosa è necessario in linguaggio semplice. Utilizza questa pagina per aprire Chat con i collaboratori, inviare il primo messaggio e configurarlo nel modo in cui lavori.
+
+## Disponibilità
+
+[!DNL Coworker] [!UICONTROL Chat] è disponibile come esperienza immersiva, area di lavoro a pagina intera e come esperienza interna al prodotto in alcune applicazioni di [!DNL CX Enterprise].
+
+La tabella seguente mostra dove è disponibile ogni esperienza.
+
+| applicazione CX Enterprise | Esperienza coinvolgente | Esperienza nel prodotto |
+|---|---|---|
+| Real-Time CDP | Disponibile ora | Disponibile a breve |
+| Adobe Journey Optimizer | Disponibile ora | Disponibile a breve |
+| Customer Journey Analytics | Disponibile ora | Disponibile a breve |
+| Workfront | Disponibile ora | In arrivo:<br><br>* All’inizio di settembre 2026 nell’istanza di anteprima per alcuni amministratori di sistema Workfront idonei<br><br>* A metà settembre 2026 nell’istanza di produzione per i clienti Workfront con rilascio rapido idonei<br><br>* A metà ottobre 2026 nell’istanza di produzione per i clienti Workfront con rilascio trimestrale idonei |
+| Target | Disponibile ora | Disponibile ora |
+| AEM | Disponibile ora | Disponibile ora |
+| Marketo Engage | Disponibile ora | Disponibile a breve |
+
+## Apri chat [!DNL Coworker] {#immersive}
+
+Per utilizzare l&#39;esperienza coinvolgente, accedi con le tue credenziali Adobe. Puoi aprirlo da un collegamento diretto o da CX Enterprise.
+
+1. Vai a [https://experience.adobe.com/#/coworker](https://experience.adobe.com/#/coworker).
+1. Accedi con il tuo Adobe ID.
+1. In [!DNL CX Enterprise], fare clic sul menu del selettore delle applicazioni ![Icona menu prodotti](./assets/apps-icon.png), quindi fare clic su **[!DNL Coworker]**.
+1. Per aprire Chat (esperienza interna al prodotto), fai clic su **[!UICONTROL Chat]** ![Icona Collaboratore](./assets/icon-coworker.png).
+
+![Collaboratore nel selettore delle applicazioni di CX Enterprise](./assets/ui-guide-1.png)
+
+## Video: nozioni di base dell&#39;interfaccia chat di [!DNL Coworker]
 
 >[!VIDEO](https://video.tv.adobe.com/v/3498573?captions=ita&learn=on)
 
-## Accedere a Chat con i collaboratori
+## Scegli la tua organizzazione
 
-Quando la tua organizzazione ottiene l’accesso a Collaboratore, puoi utilizzarne le funzionalità tramite un’esperienza coinvolgente o all’interno del prodotto.
+L&#39;[organizzazione](https://experienceleague.adobe.com/it/docs/core-services/interface/administration/organizations) e la sandbox determinano i dati, le abilità e gli strumenti connessi a cui può accedere una conversazione. Controllali prima di iniziare. Il contesto corrente viene visualizzato nella parte inferiore della barra di navigazione a sinistra, sotto il tuo nome.
 
->[!NOTE]
->
->L&#39;esperienza interna al prodotto è accessibile tramite l&#39;icona di Coworker ![icona di Coworker](./assets/icon-coworker.png) in alto a destra. I dettagli dell&#39;esperienza coinvolgente sono [descritti di seguito](#immersive).
+Per modificare il contesto:
 
-La tabella seguente indica quando queste esperienze saranno disponibili per ciascuna applicazione CX Enterprise.
+1. Fai clic sul tuo nome nella parte inferiore della barra di navigazione per aprire il menu dell’account.
+1. Fai clic su **[!UICONTROL Organizzazione]** e scegli l&#39;organizzazione IMS in cui vuoi lavorare.
 
-| Applicazione CX Enterprise | Esperienza coinvolgente | Esperienza nel prodotto |
-|---|---|---|
-| RTCDP | Disponibile ora | In arrivo |
-| AJO | Disponibile ora | In arrivo |
-| CJA | Disponibile ora | In arrivo |
-| Workfront | Disponibile ora | In arrivo:<br><br>* All’inizio di settembre 2026 nell’istanza di anteprima per alcuni amministratori di sistema di Workfront idonei<br><br>* A metà settembre 2026 nell’istanza di produzione per clienti Workfront idonei a rilascio rapido<br><br>* A metà ottobre 2026 nell’istanza di produzione per clienti Workfront idonei a rilascio trimestrale |
-| Target | Disponibile ora | Disponibile ora |
-| AEM | Disponibile ora | Disponibile ora |
-| Marketo Engage | Disponibile ora | In arrivo |
+   ![Menu account con selettore organizzazione aperto](./assets/ui-guide-2.png)
 
-### Esperienza coinvolgente {#immersive}
+1. Fai clic su **[!UICONTROL Sandbox]** e scegli la sandbox AEP in cui vuoi lavorare.
 
-Accedi alla chat di Coworker passando a [https://experience.adobe.com/#/coworker](https://experience.adobe.com/#/coworker) e accedendo con le credenziali di Adobe.
+   ![Menu account con selettore sandbox aperto](./assets/ui-guide-3.png)
 
-Puoi accedervi anche selezionando **Collaboratore** dal selettore delle applicazioni nell&#39;intestazione superiore in CX Enterprise.
+Il menu dell’account include anche le seguenti opzioni:
 
-![Accesso a Collaboratore dal selettore dell&#39;applicazione CX Enterprise](./assets/ui-guide-1.png)
-
-## Scegli la tua organizzazione e sandbox
-
-Il contesto corrente viene visualizzato nella parte inferiore della barra di navigazione a sinistra, sotto il nome e l’immagine del profilo. Il contesto determina quali dati, abilità e strumenti connessi può raggiungere una conversazione, quindi confermarlo prima di iniziare.
-
-Selezionare il proprio nome per aprire il menu dell&#39;account, in cui è possibile cambiare contesto e modificare le impostazioni dell&#39;area di lavoro:
-
-| Elemento di interfaccia | Descrizione |
+| Opzione | Utilizzala per |
 | --- | --- |
-| Tema | Sposta il tema dell’interfaccia tra chiaro e scuro. |
-| Impostazioni | Apri le impostazioni dell’area di lavoro per visualizzare i dettagli del tuo account e altre impostazioni. |
-| Selettore organizzazione | Cambiare l’organizzazione IMS su cui opera Collaboratore. |
-| Selettore sandbox | Cambia la sandbox di AEP attiva. |
-| Applicazioni CX | Passa a un’altra applicazione CX Enterprise connessa al tuo account. |
-| Esci | Esci dal tuo account Adobe. |
+| **[!UICONTROL Tema]** | Passa dai temi Chiaro a Scuro. |
+| **[!UICONTROL Impostazioni]** | Visualizza i dettagli dell’account e le impostazioni dell’area di lavoro. |
+| **[!UICONTROL Applicazioni CX]** | Passare a un&#39;altra applicazione CX Enterprise connessa al proprio account. |
+| **[!UICONTROL Disconnetti]** | Esci dal tuo account Adobe. |
 
-![Menu account con selettore organizzazione aperto](./assets/ui-guide-2.png)
+## Trova il modo
 
-![Menu account con selettore sandbox aperto](./assets/ui-guide-3.png)
-
-## Scoprire l’interfaccia
-
-L’interfaccia di CX Coworker dispone di due aree principali: la barra di navigazione a sinistra e l’area di conversazione che riempie il resto della finestra.
+L’area di lavoro dispone di due aree: la barra di navigazione a sinistra e l’area di conversazione che riempie il resto della finestra.
 
 ![Schermata iniziale](./assets/ui-guide-4.png)
 
-## Barra di navigazione
+Utilizza la barra di navigazione per spostarti tra le parti del prodotto e tornare al lavoro recente.
 
-La barra consente di accedere a ogni parte del prodotto e alle tue attività recenti.
-
-| Elemento di interfaccia | Descrizione |
+| Opzione | Utilizzala per |
 | --- | --- |
-| Nuova chat | Inizia una nuova conversazione. La chat corrente viene salvata nella cronologia. |
-| Home | Tornate al messaggio di saluto, alla casella di input e alle richieste suggerite. |
-| Chat | Apri la cronologia completa della chat per cercare, fissare, archiviare o eliminare le conversazioni. |
-| Configurazioni | Gestisci competenze, server MCP, Marketplace, plug-in e memoria. |
-| Fissate | Conversazioni che hai interpretato, tenute in cima per un accesso rapido. Seleziona Visualizza tutto per visualizzarli nella pagina Chat. |
-| Recenti | Le conversazioni più recenti. Seleziona Visualizza tutto per aprire la pagina Chat. |
+| **[!UICONTROL Nuova chat]** | Inizia una conversazione. Chat collaboratore consente di salvare la chat corrente nella cronologia. |
+| **[!UICONTROL Home]** | Tornate al saluto, alla casella di input e ai prompt suggeriti. |
+| **[!UICONTROL Chat]** | Cerca, blocca, archivia o elimina le conversazioni passate. |
+| **[!UICONTROL Configurazioni]** | Gestisci competenze, server MCP, marketplace, plug-in e memoria. |
+| **[!UICONTROL Bloccato]** | Conversazioni aperte che hai interpretato. Fai clic su **[!UICONTROL Visualizza tutti]** per visualizzarli nella pagina Chat. |
+| **[!UICONTROL Recenti]** | Apri le ultime conversazioni. Fare clic su **[!UICONTROL Visualizza tutto]** per aprire la pagina Chat. |
 
-## La schermata iniziale
+## Invia il primo messaggio
 
-La schermata iniziale è il punto da cui si inizia. Mostra un saluto personalizzato, la casella di input e una serie di prompt suggeriti tratti da cosa può aiutarti a fare la chat con Coworker nella tua sandbox.
+Nella schermata iniziale viene visualizzato un messaggio di saluto, la casella di input ([!UICONTROL Chat]) e i prompt suggeriti in base alle funzionalità di Chat collaboratore nella sandbox. Puoi iniziare con un suggerimento o scrivere un messaggio personalizzato.
 
-### Suggerimenti
+Per inviare un messaggio:
 
-In Suggested for you (Suggerito per te), CX Coworker elenca alcune attività di esempio. Seleziona un suggerimento per caricarlo nella casella di input, quindi modificalo prima di inviarlo o inviarlo così com’è. I suggerimenti sono un modo rapido per vedere i tipi di lavoro supportati da Chat di Coworker: spostare gli schemi tra sandbox, trovare anomalie in un percorso, convalidare un set di dati e altro ancora.
+1. Fai clic su **[!UICONTROL Home]** nella barra di navigazione.
+1. Effettua una delle seguenti operazioni:
 
-### Menzioni entità
+   * Seleziona un prompt in **[!UICONTROL Consigliato per te]**. Chat collaboratore lo aggiunge alla casella di input, dove è possibile modificarlo.
+   * Immetti la tua richiesta nella casella **[!UICONTROL Chiedi qualsiasi cosa al collega]**.
 
-I prompt suggeriti e i messaggi personalizzati possono fare riferimento a oggetti specifici nella sandbox utilizzando menzioni di entità come +[schema], +[percorso] e +[set di dati]. Un riferimento a un&#39;entità indica a Chat di Coworker esattamente quale oggetto intendi, quindi puoi aggiungere le tue menzioni digitando **+**.
-
-## Casella di input della chat
-
-La casella di input (etichettata &quot;Chiedi qualsiasi cosa al collega&quot;) è quella in cui si digita. Sotto il campo di testo è presente una barra degli strumenti per gli allegati, il comportamento di risposta, l&#39;input vocale e l&#39;invio.
-
-| Elemento di interfaccia | Descrizione |
-| --- | --- |
-| + (Allega) | Apri il menu Allega per aggiungere un file o un oggetto dati al messaggio. |
-| Modalità piano | Chiedi a Chat collaboratore di proporre un piano dettagliato e di mettere in pausa la tua approvazione prima che agisca. Disattivala per consentire a Chat di Coworker di agire direttamente. |
-| Vista trascrizione | Controlla la quantità di attività interna di Chat con collaboratori visualizzata: Normale, Attiva o Dettagliata. |
-| Microfono | Dettare il messaggio con input vocale. Selezionare di nuovo per interrompere la registrazione. |
-| Invia | Invia il messaggio. Mentre Chat collaboratore risponde, questo diventa un controllo Stop che puoi utilizzare per interrompere. |
-
-### Allega file e dati
-
-Seleziona + per allegare il contesto al messaggio:
-
-- Allega file: carica un file che Chat collaboratore può leggere e usare come riferimento nella risposta.
-- Aggiungi dati o oggetto: fai riferimento a un oggetto della sandbox, ad esempio un set di dati o uno schema, in modo che Chat collaborativa funzioni sui dati live.
-
-![Menu di collegamento](./assets/ui-guide-5.png)
-
-### Modalità piano
-
-Attivare la modalità Piano quando un&#39;attività è complessa o modifica dati e si desidera rivedere prima l&#39;approccio. Chat collaboratore risponde con un piano e attende la tua approvazione prima di eseguirlo. Quando la modalità Pianificazione è disattivata, Chat con collaboratori procede direttamente al lavoro.
-
-![Modalità pianificazione abilitata nella barra degli strumenti di input](./assets/ui-guide-6.png)
-
-### Vista trascrizione
-
-La vista Trascrizione imposta la quantità di ragionamento e di attività degli strumenti di Chat collaboratrice che appare in linea nella conversazione:
-
-| Elemento di interfaccia | Descrizione |
-| --- | --- |
-| Normale | Una visione equilibrata: vengono riepilogati i passaggi di pensiero chiave e l’attività degli strumenti. |
-| Focus | Una vista semplificata che nasconde la maggior parte dei passaggi intermedi in modo da visualizzare principalmente la risposta. |
-| Dettagliata | Dettagli completi: ogni passaggio di pensiero, carico di abilità, lettura di file e query. |
-
-![Scelta di una visualizzazione Trascrizione](./assets/ui-guide-7.png)
-
-## Utilizzare le risposte
-
-Quando si invia un messaggio, Chat collaboratore esegue l&#39;operazione all&#39;aperto e restituisce la risposta. Una risposta può includere ragionamento, una registrazione degli strumenti utilizzati e uno o più artefatti.
-
-![Risposta in corso](./assets/ui-guide-8.png)
-
-### Pensiero e attività
-
-Mentre funziona, Chat con collaboratori mostra ciò che sta facendo in modo da poter seguire (e verificare) il suo processo:
-
-- Blocchi di pensiero: passaggi comprimibili etichettati &quot;Pensato per&quot; seguiti dal numero di secondi (o millisecondi). Espandi uno per leggere il ragionamento di Chat collaboratrice.
-- Attività abilità: voci come Loaded skill mostrano la funzionalità specializzata introdotta da Chat collaboratore per l’attività.
-- Attività di file e query: voci come Read file e Ran 1 query registrano i file letti da Chat di Coworker e le query eseguite, ciascuno con il tempo necessario.
+1. (Facoltativo) Aggiungi contesto, scegli la modalità di risposta di Chat collaboratore o imposta il messaggio. Consulta [Aggiungi contesto e scegli uno stile di risposta](#input-options).
+1. Fai clic su **[!UICONTROL Invia]**.
 
 >[!TIP]
 >
->Utilizza la vista Trascrizione dettagliata per visualizzare ogni passaggio oppure Attiva per nasconderli.
+>I prompt suggeriti mostrano i tipi di attività supportati da Chat con Coworker, ad esempio lo spostamento di schemi tra sandbox, l’individuazione di anomalie in un percorso e la convalida di un set di dati.
 
-### Artefatti
+Per puntare la chat di Collaboratore a un oggetto specifico nella sandbox, digitare **+** nella casella di input e fare clic su uno schema, un percorso, un set di dati o un altro oggetto. Questo è chiamato menzione di entità. Indica esattamente a Chat collaboratore quale oggetto intendi.
 
-I risultati prodotti da Chat collaboratore (come una tabella di tipi di pubblico) vengono visualizzati come schede di artefatti all’interno della risposta. Da una scheda artefatto è possibile scaricare gli artefatti di tabella come file CSV. Quando una risposta include diversi artefatti, utilizza i controlli del carosello (Precedente/Successivo e il conteggio, ad esempio 1/1) per spostarsi tra di essi.
+## Aggiungi contesto e scegli uno stile di risposta {#input-options}
 
-### Leggi l’analisi
+La barra degli strumenti sotto la casella di input controlla l&#39;elemento allegato, il modo in cui Chat con il collaboratore affronta l&#39;attività e il lavoro che viene visualizzato.
 
-Al di sotto degli artefatti, Chat con collaboratori riassume il significato dei risultati, evidenziando i risultati rilevanti e suggerendo azioni di follow-up da intraprendere successivamente.
+| Controllo | Utilizzala per |
+| --- | --- |
+| **[!UICONTROL +]** (Allega) | Aggiungi un file o un oggetto sandbox al messaggio. |
+| **[!UICONTROL Modalità piano]** | Rivedi un piano dettagliato prima di utilizzare Chat collaboratrice. |
+| **[!UICONTROL Visualizzazione trascrizione]** | Scegli la quantità di attività di Chat con i collaboratori che vedi. |
+| **[!UICONTROL Microfono]** | Dettare il messaggio. Fare di nuovo clic per interrompere la registrazione. |
+| **[!UICONTROL Invia]** | Invia il messaggio. Mentre la chat di Coworker risponde, questo controllo diventa **[!UICONTROL Interrompi]**, interrompendo la risposta. |
 
-![Risposta completata con tabella artefatti e riepilogo](./assets/ui-guide-9.png)
+### Allegare un file o un oggetto
 
-### Invia feedback e copia le risposte
+Allegare un file o un oggetto quando è necessario disporre di ulteriori informazioni per eseguire l&#39;operazione.
 
-Ogni risposta dispone di controlli per valutarla e riutilizzarla:
+1. Fare clic su **[!UICONTROL +]** nella casella di input.
+1. Fare clic su una delle seguenti opzioni:
 
-- Miniature in alto / Miniature in basso: valuta la risposta per migliorare le risposte future.
-- Copia: copia la risposta utilizzando Copia come Markdown (mantiene la formattazione) o Copia come testo normale.
+   * **[!UICONTROL Allega file]**: carica un file per Chat collaboratore per leggerlo e farvi riferimento.
+   * **[!UICONTROL Aggiungi dati o oggetto]**: fai riferimento a un oggetto nella sandbox, ad esempio un set di dati o uno schema, in modo che Chat collaboratore funzioni sui tuoi dati live.
+
+![Menu di collegamento](./assets/ui-guide-5.png)
+
+### Rivedi un piano prima che il collega Chat agisca {#plan-mode}
+
+Utilizzare la modalità Pianificazione per task complessi o task che modificano dati. Quando la modalità Piano è attiva, Chat collaboratore propone un piano e attende la tua approvazione prima che venga eseguito. Quando la modalità Pianificazione è disattivata, Chat con collaboratori avvia il lavoro immediatamente.
+
+1. Fare clic su **[!UICONTROL Modalità pianificazione]** nella barra degli strumenti di input per attivarla.
+1. Invia il messaggio.
+1. Rivedi il piano e approvalo per continuare.
+
+![Modalità pianificazione attivata nella barra degli strumenti di input](./assets/ui-guide-6.png)
+
+### Scegli una vista trascrizione
+
+La vista Trascrizione controlla la quantità di ragionamento e di attività degli strumenti di Chat collaboratrice che appare nella conversazione.
+
+1. Fare clic su **[!UICONTROL Vista trascrizione]** nella barra degli strumenti di input.
+1. Fare clic su una visualizzazione:
+
+   | Visualizzazione | Cosa vedi |
+   | --- | --- |
+   | **[!UICONTROL Normale]** | Riepilogo dei passaggi di pensiero chiave e dell’attività dello strumento. |
+   | **[!UICONTROL Attiva]** | Principalmente la risposta. Chat con i collaboratori nasconde la maggior parte dei passaggi intermedi. |
+   | **[!UICONTROL Dettagliato]** | Ogni fase di pensiero, carico di abilità, lettura di file e query. |
+
+![Opzioni di visualizzazione trascrizione](./assets/ui-guide-7.png)
+
+## Rivedere una risposta
+
+Chat collaboratore mostra il suo lavoro mentre va, quindi restituisce una risposta. Una risposta può includere il suo ragionamento, una registrazione degli strumenti utilizzati, artefatti e un riepilogo.
+
+![Risposta in corso](./assets/ui-guide-8.png)
+
+### Segui l’attività
+
+Mentre la chat di Coworker funziona, puoi seguire e verificare ciò che fa. Espandi qualsiasi voce per visualizzare ulteriori dettagli.
+
+* **Pensato per**: blocco comprimibile con il ragionamento di Chat di Coworker e il tempo necessario.
+* **Abilità caricata**: la funzionalità specifica di Chat con collaboratori utilizzata per l&#39;attività.
+* **Leggi file** e **Esegui 1 query**: i file letti da Coworker Chat e le query eseguite, con il tempo richiesto da ognuno.
+
+>[!TIP]
+>
+>Imposta **[!UICONTROL Vista trascrizione]** su **[!UICONTROL Dettagliata]** per visualizzare ogni passaggio oppure su **[!UICONTROL Attiva]** per nasconderli.
+
+### Utilizzare gli artefatti
+
+Chat con collaboratori mostra i risultati, come una tabella di tipi di pubblico, come schede artefatti nella risposta. Puoi scaricare un artefatto di tabella come file CSV dalla relativa scheda. Quando una risposta include più di un artefatto, usa **[!UICONTROL Precedente]** e **[!UICONTROL Successivo]** per spostarti tra di essi.
+
+### Utilizzare il riepilogo
+
+Sotto gli artefatti, Chat con i collaboratori spiega il significato dei risultati, evidenzia i risultati rilevanti e suggerisce azioni di follow-up. Utilizza questi suggerimenti per continuare la conversazione.
+
+![Risposta completata con una tabella di artefatti e un riepilogo](./assets/ui-guide-9.png)
+
+### Valuta e copia una risposta
+
+Ogni risposta include controlli che è possibile utilizzare per fornire feedback o riutilizzare il contenuto.
+
+* Fai clic su **[!UICONTROL Miniature in alto]** o **[!UICONTROL Miniature in basso]** per valutare la risposta. La tua valutazione consente di migliorare le risposte future.
+* Fai clic su **[!UICONTROL Copia]**, quindi scegli **[!UICONTROL Copia come Markdown]** per mantenere la formattazione o **[!UICONTROL Copia come testo normale]** per rimuoverla.
 
 ![Menu Copia](./assets/ui-guide-10.png)
 
 ## Gestire le chat
 
-Seleziona Chat nella barra di navigazione per aprire la cronologia completa. Le conversazioni sono raggruppate per data e ogni riga mostra il titolo della chat e quanti giri contiene.
-
-| Elemento di interfaccia | Descrizione |
-| --- | --- |
-| Ricerca per titolo | Trovare una conversazione precedente per nome. |
-| Mostra fissate | Mostra solo le conversazioni che hai interpretato. |
-| Mostra archiviate | Mostra le conversazioni archiviate. |
-| Nuova chat | Inizia una nuova conversazione. |
-| Menu Riga (...) | Su qualsiasi conversazione, stella (pin), rinomina, archivia o elimina la conversazione. |
+La cronologia della chat conserva le conversazioni precedenti in modo da potervi tornare. Fai clic su **[!UICONTROL Chat]** nella barra di navigazione per aprirla. Le conversazioni sono raggruppate per data e ogni riga mostra il titolo e il numero di giri.
 
 ![Pagina chat](./assets/ui-guide-11.png)
 
-## Configurazioni
+Nella pagina Chat è possibile:
 
-Configurazioni è il luogo in cui puoi personalizzare ciò che Cloud Chat può fare. Dispone di cinque schede: Abilità, server MCP, Marketplace, Plug-in e Memoria.
+* Immettere un nome in **[!UICONTROL Cerca per titolo]** per trovare una conversazione.
+* Fai clic su **[!UICONTROL Mostra bloccati]** per visualizzare solo le conversazioni che hai visto.
+* Fai clic su **[!UICONTROL Mostra archiviati]** per visualizzare le conversazioni archiviate.
+* Fai clic su **[!UICONTROL Nuova chat]** per avviare una conversazione.
 
-### Competenza
+Per fissare, rinominare, archiviare o eliminare una conversazione, fare clic sul menu di riga (**[!UICONTROL ...]**) nella riga corrispondente e scegliere un&#39;opzione.
 
-Le abilità sono funzionalità specializzate che la chat di Coworker richiama automaticamente quando sono rilevanti, o che puoi attivare digitando / nella chat. La scheda Abilità elenca tutte le abilità installate e consente di aggiungerne altre.
+## Personalizza chat del collaboratore
 
-- Aggiungi Source: installa le abilità da una nuova origine.
-- Ricerca: trova un’abilità per nome.
-- Cambia visualizzazione: consente di passare da un layout griglia a un layout elenco e viceversa.
+Nelle configurazioni puoi controllare le funzionalità di Chat con i collaboratori. Fai clic su **[!UICONTROL Configurazioni]** nella barra di navigazione, quindi scegli una scheda: **[!UICONTROL Abilità]**, **[!UICONTROL Server MCP]**, **[!UICONTROL Marketplace]**, **[!UICONTROL Plugin]** o **[!UICONTROL Memoria]**.
+
+### Aggiungi e visualizza abilità
+
+Le abilità sono funzionalità specializzate utilizzate automaticamente da Chat collaboratore quando vengono applicate. È inoltre possibile avviare un&#39;abilità digitando **/** nella chat. Nella scheda **[!UICONTROL Abilità]** sono elencate tutte le abilità installate.
 
 ![Scheda Abilità](./assets/ui-guide-12.png)
 
-Seleziona un’abilità per visualizzarne i dettagli: il plug-in a cui appartiene, una descrizione di quando viene utilizzata da Chat con i collaboratori e tutti i file inclusi. Seleziona Visualizza SKILL.md per leggere la definizione completa dell’abilità o Rimuovi Source per disinstallarla.
+1. Nella scheda **[!UICONTROL Abilità]**, fai clic su **[!UICONTROL Aggiungi Source]** per installare le abilità da una nuova origine.
+1. Immetti un nome in **[!UICONTROL Ricerca]** per trovare un&#39;abilità. Utilizza l’interruttore di visualizzazione per passare da un layout a griglia a uno a elenco e viceversa.
+1. Seleziona un’abilità per visualizzare il plug-in a cui appartiene, quando viene utilizzato da Chat con i colleghi, e i file che include.
 
-![Visualizzazione dettagli abilità con file di supporto](./assets/ui-guide-13.png)
+   ![Visualizzazione dettagli abilità con file di supporto](./assets/ui-guide-13.png)
 
-![Visualizzatore SKILL.md](./assets/ui-guide-14.png)
+1. (Facoltativo) Fai clic su **[!UICONTROL Visualizza abilità.md]** per leggere la definizione di abilità completa, oppure fai clic su **[!UICONTROL Rimuovi Source]** per disinstallare l&#39;abilità.
 
-### Server MCP
+   ![Visualizzatore SKILL.md](./assets/ui-guide-14.png)
 
-I server MCP (Model Context Protocol) collegano Chat con collaboratori a strumenti e servizi esterni, come Adobe Journey Optimizer, Real-Time CDP, Target e Workfront. Nella scheda Server MCP sono elencate tutte le connessioni correnti e il numero di connessioni attive.
+### Connessione dei server MCP
 
-- Aggiungi server: connetti un nuovo strumento o servizio esterno.
+I server MCP (Model Context Protocol) collegano Chat collaboratore a strumenti e servizi esterni, come Adobe Journey Optimizer, Real-Time CDP, Target e Workfront. Nella scheda **[!UICONTROL Server MCP]** sono elencati i server connessi e il numero di connessioni attive. Ogni scheda mostra il nome del server, il relativo endpoint e i tag che descrivono ciò che fornisce.
 
-Ogni scheda mostra il nome del server, il relativo endpoint e tutti i tag che descrivono ciò che fornisce.
+Per connettere un server, fare clic su **[!UICONTROL Aggiungi server]** e seguire le istruzioni.
 
 ![Scheda Server MCP](./assets/ui-guide-15.png)
 
-### Marketplace
+### Aggiungere un marketplace
 
-I Marketplace sono registri di plug-in da cui è possibile sfogliare e installare. La scheda Marketplace consente di aggiungere registri e di filtrarli per gruppo.
-
-- Aggiungi marketplace: registra un nuovo marketplace plugin.
-- Ricerca / Filtra per gruppo: restringi l’elenco per trovare un marketplace.
-
-Ogni marketplace mostra la propria origine e uno stato Pronto una volta disponibile per l’installazione da.
+Un marketplace è un registro di plug-in da cui è possibile sfogliare e installare. Nella scheda **[!UICONTROL Marketplace]**, fai clic su **[!UICONTROL Aggiungi Marketplace]** per registrarne uno nuovo. Usa **[!UICONTROL Ricerca]** o filtra per gruppo per restringere l&#39;elenco. Un marketplace con stato **Pronto** è disponibile per l&#39;installazione da.
 
 ![Scheda Marketplace](./assets/ui-guide-16.png)
 
-### Plug-in
+### Gestire i plug-in
 
-I plug-in estendono Chat con i collaboratori con competenze in bundle e server MCP che vengono installati e gestiti insieme come un&#39;unità. La scheda Plug-in mostra gli elementi installati e consente di aggiungerne altri dai marketplace.
+Un plug-in riunisce le competenze e i server MCP in modo da poterli installare e gestire insieme. La scheda **[!UICONTROL Plug-in]** mostra i plug-in installati.
 
-- Browse Marketplace: trova nuovi plug-in da installare.
-- Disinstalla: rimuovi un plug-in installato e tutti gli elementi inclusi nel bundle.
-- Filtra per marketplace: individua i plug-in provenienti da ciascun registro.
+* Fai clic su **[!UICONTROL Sfoglia Marketplace]** per trovare nuovi plug-in.
+* Filtra per marketplace per vedere da dove proviene ogni plug-in.
+* Fai clic su **[!UICONTROL Disinstalla]** per rimuovere un plug-in e tutti gli elementi da esso raggruppati.
 
 ![Scheda Plugin](./assets/ui-guide-17.png)
 
-### Memoria
+### Gestione della memoria
 
-La memoria consente a Chat collaboratore di ricordare le tue preferenze tra le conversazioni in modo che le sue risposte rimangano pertinenti e personali nel tempo.
+La memoria consente a Chat collaboratore di ricordare le tue preferenze nelle conversazioni, in modo che le risposte rimangano pertinenti nel tempo. Utilizza la scheda **[!UICONTROL Memoria]** per controllare ciò che contiene.
 
-- Abilita memoria: attiva o disattiva la memoria tra sessioni.
-- Preferenze memorizzate: le preferenze Chat con il collaboratore sono state apprese e salvate. Ogni voce può essere modificata, eliminata o ispezionata e le voci possono essere filtrate per categoria.
-- Memorie salvate cronologia: una sequenza temporale di modifiche apportate alle memorie memorizzate.
+1. Fare clic su **[!UICONTROL Memoria]** nella pagina Configurazioni.
+1. Attiva **[!UICONTROL Attiva memoria]**. Disattivala per impedire a Chat collaboratore di ricordare tra sessioni diverse.
+1. In **[!UICONTROL Preferenze memorizzate]**, controlla cosa ha salvato la chat di Coworker. È possibile modificare, eliminare o controllare ogni voce e filtrare le voci per categoria.
+1. Utilizza **[!UICONTROL Cronologia memorie salvate]** per visualizzare una sequenza temporale delle modifiche apportate ai tuoi ricordi.
 
 ![Scheda Memoria](./assets/ui-guide-18.png)

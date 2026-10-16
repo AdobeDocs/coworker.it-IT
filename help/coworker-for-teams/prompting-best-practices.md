@@ -1,5 +1,5 @@
 ---
-description: 'Scopri le campagne per collaboratori che richiedono le best practice: il framework CO-STAR, le cose da fare e non fare, i contenuti non supportati e una lista di controllo della qualità per i prompt.'
+description: 'Scopri Collaboratore per i team che richiedono best practice: il framework CO-STAR, le cose da fare e non fare, contenuti non supportati e una lista di controllo della qualità per i prompt.'
 title: Prompt per le best practice
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
@@ -7,18 +7,18 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: b6a05e2fdc16830fd69ac1b5ea68ed1d4c5d5c5f
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: '785'
 ht-degree: 1%
 ---
 # Best practice per la richiesta di informazioni {#best-practices}
 
-Per ottenere il massimo dalle campagne di Coworker, inizia da come viene richiesto. Scopri le pratiche che producono i migliori risultati: il framework CO-STAR per strutturare i prompt, cosa includere e cosa evitare, ed esempi basati su scenari che forniscono all’intelligenza artificiale il contesto necessario per generare contenuti pertinenti e mirati.
+Per ottenere il massimo da Coworker per i team, inizia con la modalità di richiesta. Scopri le pratiche che producono i migliori risultati: il framework CO-STAR per strutturare i prompt, cosa includere e cosa evitare, ed esempi basati su scenari che forniscono all’intelligenza artificiale il contesto necessario per generare contenuti pertinenti e mirati.
 
 >[!NOTE]
 >
->Al momento, è possibile connettersi solo alle integrazioni supportate da Campagne Coworker. Se disponi di applicazioni Adobe Enterprise esistenti, in cui vengono archiviati i tipi di pubblico o vengono creati percorsi, ti invitiamo a utilizzare [CX Enterprise Coworker](/help/chat/use-cases/workflows.md).
+>Al momento, puoi connetterti a Collaboratore solo per le integrazioni supportate dai team. Se disponi di applicazioni Adobe Enterprise esistenti, in cui vengono archiviati i tipi di pubblico o vengono creati percorsi, ti invitiamo a utilizzare [CX Enterprise Coworker](/help/chat/use-cases/workflows.md).
 
 ## Utilizzare il framework CO-STAR
 
@@ -179,4 +179,4 @@ Fornisci sempre contesto e proposta di valore in modo che l’intelligenza artif
 
 >[!MORELIKETHIS]
 >
->Cerca altri [modelli di prompt](use-cases.md) per le campagne di Coworker.
+>Cerca altri [modelli di richiesta](use-cases.md) per Collaboratore per team.
