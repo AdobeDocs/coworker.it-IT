@@ -5,9 +5,9 @@ product_v2:
   internal-label: CX Enterprise Coworker
 feature_v2:
   internal-label: CX Enterprise Coworker
-source-git-commit: b6a05e2fdc16830fd69ac1b5ea68ed1d4c5d5c5f
+source-git-commit: 4d91397c769a76fba4f0ec1c3e86938a01fe2c6a
 workflow-type: tm+mt
-source-wordcount: '1915'
+source-wordcount: '1969'
 ht-degree: 1%
 ---
 
@@ -50,6 +50,7 @@ I seguenti casi d’uso sono raggruppati per dominio di analisi. Ogni gruppo ele
 | [Convalida l&#39;implementazione di Streaming Media](/help/chat/use-cases/data-insights/streaming-media-validation.md)<p>![Convalida l&#39;implementazione di Streaming Media](../../assets/ui-guide-8.png)</p> <p>Sperimentale</p> | Controlla lo stream di dati, lo schema, il set di dati, la visualizzazione dati e i dati della sessione per verificare che il tracciamento dei contenuti multimediali in streaming sia configurato e che la raccolta dei dati sia corretta.<p>**Prompt di esempio:** &quot;L&#39;implementazione dei contenuti multimediali in streaming è complessivamente valida?&quot;</p><p>Per ulteriori informazioni, consulta [Convalidare l&#39;implementazione di Streaming Media con Coworker](/help/chat/use-cases/data-insights/streaming-media-validation.md).</p> |
 | [Convalida qualità set di dati per Customer Journey Analytics](/help/chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)<p>![Convalida qualità set di dati per Customer Journey Analytics](../../assets/data-validation-aep/dataset-validation.png)</p> <p>Sperimentale (settimana prossima)</p> | Identifica i set di dati che alimentano i rapporti di Customer Journey Analytics, quindi controlla gli schemi, la qualità dell’identità e la qualità dei campi in modo da poter risolvere i problemi prima di creare dashboard.<p>Per ulteriori informazioni, vedere [Convalidare i dati di Customer Journey Analytics con l&#39;abilità di convalida dei dati in Coworker](/help/chat/use-cases/data-insights/validate-dataset-quality-for-cja.md).</p> |
 | [Convalida dati dopo l&#39;acquisizione in Experience Platform](/help/chat/use-cases/data-insights/data-validation-aep.md)<p>![Convalida dati dopo l&#39;acquisizione in Experience Platform](../../assets/data-validation-aep/null-values.png)</p> | Esegue controlli statistici e semantici sui set di dati e sui campi di Experience Platform per individuare problemi di qualità dei dati, ad esempio valori non validi o problemi di mappatura.<p>**Prompt di esempio:** &quot;Convalida il set di dati Elettronica campione 1000&quot;</p><p>Per ulteriori informazioni, consulta [Convalidare i dati di Experience Platform con Coworker](/help/chat/use-cases/data-insights/data-validation-aep.md).</p> |
+| [Accelera approfondimenti dati](/help/chat/use-cases/data-insights/accelerate-data-insights.md) | Mostra in un video come Cooker pianifica l’implementazione, esegue le azioni supportate e guida i passaggi di prodotto e sviluppo in Adobe Experience Manager, Experience Platform, Web SDK e Customer Journey Analytics fino a quando i dati di coinvolgimento del sito web non sono pronti per l’analisi.<p>Per ulteriori informazioni, consulta [Accelerare gli approfondimenti sui dati con Coworker, AEM e CJA](/help/chat/use-cases/data-insights/accelerate-data-insights.md).</p> |
 
 ### Analisi del percorso
 

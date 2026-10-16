@@ -5,10 +5,10 @@ user-guide-description: Scopri Adobe CX Enterprise Coworker, un compagno di squa
 description: Scopri gli strumenti di intelligenza artificiale in CX Enterprise. Migliora la tua conoscenza del prodotto e acquisisci informazioni operative utilizzando l’intelligenza artificiale in CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
+source-git-commit: 4d91397c769a76fba4f0ec1c3e86938a01fe2c6a
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 17%
+source-wordcount: '250'
+ht-degree: 16%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -21,13 +21,18 @@ ht-degree: 17%
   - Casi d’uso {#use-cases}
     - [Flussi di lavoro di Chat del collaboratore](./chat/use-cases/workflows.md)
     - Approfondimenti dati {#data-insights}
-      - {hide-from-toc}[Panoramica](./chat/use-cases/data-insights/analytics-overview.md)
+      - [Panoramica](./chat/use-cases/data-insights/analytics-overview.md)
       - [Introduzione](./chat/use-cases/data-insights/analytics-chat.md)
-      - [Esplorare tendenze e cause profonde](./chat/use-cases/data-insights/root-cause-analysis.md)
-      - [Convalidare i dati da AA a CJA durante l’aggiornamento](./chat/use-cases/data-insights/data-validation-aa-cja.md)
-      - [Convalidare la qualità del set di dati per il reporting di CJA](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
-      - [Convalidare i dati di Experience Platform](./chat/use-cases/data-insights/data-validation-aep.md)
-      - [Accelerare le informazioni sui dati](./chat/use-cases/data-insights/accelerate-data-insights.md)
+      - Governance e convalida dei dati {#data-governance-and-validation}
+        - [Pianificare l’implementazione](./chat/use-cases/data-insights/implementation-guide.md)
+        - [Generare un elenco di controllo per l’implementazione](./chat/use-cases/data-insights/intelligent-checklist.md)
+        - [Convalidare i dati da AA a CJA durante l’aggiornamento](./chat/use-cases/data-insights/data-validation-aa-cja.md)
+        - [Convalidare l’implementazione di Streaming Media](./chat/use-cases/data-insights/streaming-media-validation.md)
+        - [Convalidare la qualità del set di dati per il reporting di CJA](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
+        - [Convalidare i dati di Experience Platform](./chat/use-cases/data-insights/data-validation-aep.md)
+        - [Accelerare le informazioni sui dati](./chat/use-cases/data-insights/accelerate-data-insights.md)
+      - Prestazioni aziendali {#business-performance}
+        - [Esplorare tendenze e cause profonde](./chat/use-cases/data-insights/root-cause-analysis.md)
     - Onboarding dei dati {#data-onboarding}
       - {hide-from-toc}[Dati onboarding con Collaboratore](./agents/data-onboarding-skill.md)
     - Gestione dati {#data-management}
