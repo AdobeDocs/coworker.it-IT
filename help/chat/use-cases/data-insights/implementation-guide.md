@@ -1,8 +1,7 @@
 ---
 title: Pianificare l’implementazione di Customer Journey Analytics o Streaming Media con Collaboratore
 description: Scopri in che modo le competenze della guida all’implementazione di Coworker trasformano una conversazione di individuazione in un piano di implementazione personalizzato e ordinato con elenchi di controllo esportabili.
-hold: true
-source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
+source-git-commit: 4d91397c769a76fba4f0ec1c3e86938a01fe2c6a
 workflow-type: tm+mt
 source-wordcount: '1239'
 ht-degree: 1%
