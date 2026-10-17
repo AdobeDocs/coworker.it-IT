@@ -5,9 +5,9 @@ user-guide-description: Scopri Adobe CX Enterprise Coworker, un compagno di squa
 description: Scopri gli strumenti di intelligenza artificiale in CX Enterprise. Migliora la tua conoscenza del prodotto e acquisisci informazioni operative utilizzando l’intelligenza artificiale in CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 4d91397c769a76fba4f0ec1c3e86938a01fe2c6a
+source-git-commit: 4bbaf3021be6518ce3aa811efec7b4d0d2746199
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '275'
 ht-degree: 16%
 ---
 
@@ -23,7 +23,8 @@ ht-degree: 16%
     - Approfondimenti dati {#data-insights}
       - [Panoramica](./chat/use-cases/data-insights/analytics-overview.md)
       - [Introduzione](./chat/use-cases/data-insights/analytics-chat.md)
-      - Governance e convalida dei dati {#data-governance-and-validation}
+      - Implementazione e amministrazione intelligenti {#intelligent-implementation-and-administration}
+        - [Panoramica](./chat/use-cases/data-insights/data-governance-and-validation.md)
         - [Pianificare l’implementazione](./chat/use-cases/data-insights/implementation-guide.md)
         - [Generare un elenco di controllo per l’implementazione](./chat/use-cases/data-insights/intelligent-checklist.md)
         - [Convalidare i dati da AA a CJA durante l’aggiornamento](./chat/use-cases/data-insights/data-validation-aa-cja.md)
@@ -31,8 +32,17 @@ ht-degree: 16%
         - [Convalidare la qualità del set di dati per il reporting di CJA](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
         - [Convalidare i dati di Experience Platform](./chat/use-cases/data-insights/data-validation-aep.md)
         - [Accelerare le informazioni sui dati](./chat/use-cases/data-insights/accelerate-data-insights.md)
+      - Analisi del percorso {#journey-analysis}
+        - [Panoramica](./chat/use-cases/data-insights/journey-analysis.md)
+      - Analisi del pubblico e dei segmenti {#audience-and-segment-analysis}
+        - [Panoramica](./chat/use-cases/data-insights/audience-and-segment-analysis.md)
       - Prestazioni aziendali {#business-performance}
+        - [Panoramica](./chat/use-cases/data-insights/business-performance.md)
         - [Esplorare tendenze e cause profonde](./chat/use-cases/data-insights/root-cause-analysis.md)
+      - Prestazioni dei contenuti {#content-performance}
+        - [Panoramica](./chat/use-cases/data-insights/content-performance.md)
+      - Misurazione e attribuzione marketing {#marketing-measurement-and-attribution}
+        - [Panoramica](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
     - Onboarding dei dati {#data-onboarding}
       - {hide-from-toc}[Dati onboarding con Collaboratore](./agents/data-onboarding-skill.md)
     - Gestione dati {#data-management}
@@ -41,6 +51,7 @@ ht-degree: 16%
       - [Valutare lo stato della piattaforma e creare tipi di pubblico](./chat/use-cases/audiences/create-audience-from-natural-language.md)
     - Percorsi {#journeys}
       - [Creazione di percorsi utilizzando il linguaggio naturale](./chat/use-cases/journeys/create-journey-from-natural-language.md)
+      - [Creazione, simulazione e analisi di percorsi cross-channel](./chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker-feature-video.md)
     - Fedeltà {#loyalty}
       - [Creare una sfida di fedeltà e approfondimenti di superficie](./chat/use-cases/journeys/create-loyalty-challenge.md)
     - Ottimizzazione {#optimization}
