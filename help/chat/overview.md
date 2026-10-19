@@ -7,12 +7,12 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
+source-git-commit: 5dcd4ea4f6fe540f6f48e9db73d8c2de8b43d90d
 workflow-type: tm+mt
-source-wordcount: '751'
-ht-degree: 3%
+source-wordcount: '719'
+ht-degree: 6%
 ---
-# Panoramica di Adobe CX Enterprise Coworker Chat {#overview}
+# Informazioni sulla chat per collaboratori {#overview}
 
 Chat con i collaboratori è un’interfaccia conversazionale per il lavoro svolto con la customer experience. Descrivi un obiettivo in un linguaggio semplice (ad esempio, &quot;crea un pubblico per la promozione di yoga di primavera&quot; o, &quot;dimmi perché questo pubblico si è ridotto la settimana scorsa&quot;) e Chat collaboratrice pianifica il lavoro, lo esegue sul tuo Adobe e sui sistemi connessi, convalida i risultati e ti riporta il lavoro finito per l’approvazione.
 
@@ -22,7 +22,7 @@ Per iniziare, consulta [Introduzione a Chat con coworking](ui-guide.md).
 
 >[!AVAILABILITY]
 >
->Chat con i collaboratori è generalmente disponibile. Le funzionalità e le applicazioni connesse continuano ad espandersi. Consulta le sezioni abilità e connettori disponibili per informazioni sul supporto di oggi.
+>Chat con i collaboratori è generalmente disponibile. Le funzionalità e le applicazioni connesse continuano ad espandersi. Controlla le sezioni [abilità](./use-cases/workflows.md) e connettori disponibili per verificare cosa è supportato oggi.
 
 >[!NOTE]
 >
@@ -30,7 +30,7 @@ Per iniziare, consulta [Introduzione a Chat con coworking](ui-guide.md).
 
 ## Un’evoluzione da AI Assistant
 
-Se hai utilizzato AI Assistant e Adobe Experience Platform Agent Orchestrator, Chat con collaboratori è la progressione successiva. L’Assistente AI si sta evolvendo in Chat con collaboratori. Tutto ciò che puoi fare oggi in AI Assistant richiamando gli agenti appositamente creati da Adobe (conoscenza del prodotto, informazioni operative e sui dati, esperienza di conversazione) rimarrà disponibile. La chat per collaboratori è supportata dai blocchi di base di Coworker (il cablaggio preassemblato dell’azienda, le competenze, la governance e la memoria), quindi la stessa conversazione può ora andare oltre la risposta e completare effettivamente il lavoro end-to-end.
+La chat con i collaboratori è il passaggio successivo dopo [Assistente AI](https://experienceleague.adobe.com/it/docs/cx-enterprise-ai/experience-cloud-ai/ai-assistant/ai-assistant-ui) e Adobe Experience Platform Agent Orchestrator. Tutto ciò che puoi fare oggi in AI Assistant, comprese le conoscenze sul prodotto e le informazioni operative e sui dati, rimane disponibile. Chat collaboratore aggiunge [blocchi predefiniti](#building-blocks) che consentono a una conversazione di completare il lavoro, non solo di rispondere alle domande.
 
 ## Esperienza di chat
 
@@ -40,10 +40,6 @@ Se hai utilizzato AI Assistant e Adobe Experience Platform Agent Orchestrator, C
 * **Suggerimenti e richieste di follow-up:** Chat con collaboratori propone i passaggi successivi, in modo da non dover indovinare cosa chiedere.
 * **Cronologia conversazioni:** le conversazioni passate vengono salvate, quindi puoi tornare al lavoro precedente, riprendere da dove hai interrotto e riutilizzare ciò che ha prodotto Chat di Coworker.
 * **Feedback integrato:** Valuta qualsiasi risposta con un pollice in su o un pollice in giù per dire al collega Chat cosa ha funzionato e cosa non ha funzionato; il tuo feedback aiuta a migliorare l&#39;esperienza nel tempo.
-
->[!NOTE]
->
->Al termine dell’esperienza, verranno aggiunte delle schermate dell’interfaccia.
 
 ## Applicazioni CX Enterprise compatibili
 
@@ -72,4 +68,4 @@ La chat di Coworker è alimentata dai blocchi predefiniti di Coworker. I seguent
 
 ## Panoramica video
 
->[!VIDEO](https://video.tv.adobe.com/v/3495973?captions=ita&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3495967?learn=on){transcript=true}
