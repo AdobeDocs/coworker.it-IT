@@ -7,12 +7,12 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
+source-git-commit: 68132acaa3dfbefa1e9cda9fad724f17c7e5f065
 workflow-type: tm+mt
-source-wordcount: '986'
+source-wordcount: '983'
 ht-degree: 0%
 ---
-# Panoramica di Adobe CX Enterprise Coworker for teams {#overview}
+# Panoramica di Collaboratore per team {#overview}
 
 Coworker for teams è progettato per le organizzazioni più piccole con team di marketing più agili che necessitano di generazione di contenuti, creazione di percorsi e analisi in un unico strumento.
 
@@ -114,7 +114,7 @@ Collaboratore per team è un prodotto in fase di sviluppo attivo. Ecco cosa biso
 
 ## Panoramica video
 
->[!VIDEO](https://video.tv.adobe.com/v/3492813?captions=ita&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3492807?learn=on){transcript=true}
 
 
 Durante la prova verranno fornite nuove funzionalità. Il tuo feedback aiuta a definire i prossimi sviluppi. Invia un feedback facendo clic sull’icona del feedback nel prodotto nell’intestazione.
