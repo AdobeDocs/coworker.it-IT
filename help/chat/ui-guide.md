@@ -8,9 +8,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 74f8413fcb9bb0ab6c257a56c38e5e374414e2d5
+source-git-commit: 80f7bf9003e360b9ca6d0e1868c056447d35b763
 workflow-type: tm+mt
-source-wordcount: '1802'
+source-wordcount: '1801'
 ht-degree: 2%
 ---
 # Introduzione alla chat con i collaboratori {#ui-guide}
@@ -46,7 +46,7 @@ Per utilizzare l&#39;esperienza coinvolgente, accedi con le tue credenziali Adob
 
 ## Video: nozioni di base dell&#39;interfaccia chat di [!DNL Coworker]
 
->[!VIDEO](https://video.tv.adobe.com/v/3498573?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Scegli la tua organizzazione
 
@@ -213,7 +213,7 @@ Per fissare, rinominare, archiviare o eliminare una conversazione, fare clic sul
 
 ## Personalizza chat del collaboratore
 
-Nelle configurazioni puoi controllare le funzionalità di Chat con i collaboratori. Fai clic su **[!UICONTROL Configurazioni]** nella barra di navigazione, quindi scegli una scheda: **[!UICONTROL Abilità]**, **[!UICONTROL Server MCP]**, **[!UICONTROL Marketplace]**, **[!UICONTROL Plugin]** o **[!UICONTROL Memoria]**.
+[!UICONTROL Personalizzazioni] è il luogo in cui puoi controllare ciò che [!UICONTROL Chat collaboratore] può fare. Fai clic su **[!UICONTROL Personalizzazioni]** nella barra di navigazione, quindi scegli una scheda: **[!UICONTROL Abilità]**, **[!UICONTROL Integrazioni]**, **[!UICONTROL Marketplace]**, **[!UICONTROL Plugin]** o **[!UICONTROL Memoria]**.
 
 ### Aggiungi e visualizza abilità
 
@@ -221,8 +221,9 @@ Le abilità sono funzionalità specializzate utilizzate automaticamente da Chat 
 
 ![Scheda Abilità](./assets/ui-guide-12.png)
 
-1. Nella scheda **[!UICONTROL Abilità]**, fai clic su **[!UICONTROL Aggiungi Source]** per installare le abilità da una nuova origine.
-1. Immetti un nome in **[!UICONTROL Ricerca]** per trovare un&#39;abilità. Utilizza l’interruttore di visualizzazione per passare da un layout a griglia a uno a elenco e viceversa.
+1. Nella scheda **[!UICONTROL Abilità]**, fai clic su **[!UICONTROL Aggiungi abilità]** per installare le abilità da una nuova origine.
+1. Immetti un nome in **[!UICONTROL Ricerca]** per trovare un&#39;abilità.
+Utilizza l’interruttore di visualizzazione per passare da un layout a griglia a uno a elenco e viceversa.
 1. Seleziona un’abilità per visualizzare il plug-in a cui appartiene, quando viene utilizzato da Chat con i colleghi, e i file che include.
 
    ![Visualizzazione dettagli abilità con file di supporto](./assets/ui-guide-13.png)
