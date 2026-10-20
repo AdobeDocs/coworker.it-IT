@@ -25,4 +25,4 @@ Scopri come CX Enterprise Coworker crea un percorso cross-channel da un prompt i
 
 In questo video, scopri come simulare i percorsi di diramazione del percorso e analizzare la diagnostica per identificare i problemi di configurazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504706?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504712?captions=ita&learn=on)

@@ -7,9 +7,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: be1be18a25c57eafa07b326b1bf5800527cb1c7d
+source-git-commit: ee4016ae71de6eadc7b38d434a6aeefde74b124b
 workflow-type: tm+mt
-source-wordcount: '7712'
+source-wordcount: '7768'
 ht-degree: 6%
 ---
 # Flussi di lavoro di Chat del collaboratore {#use-cases}
@@ -188,6 +188,7 @@ Chat con collaboratori consente di eseguire query, analizzare e agire sui dati d
 | --- | --- | --- | --- | --- |
 | [Creare, modificare e gestire le sfide relative alla fedeltà](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-challenge-management){target="_blank"} | Semplificare e accelerare la gestione dei programmi fedeltà | `loyalty` | Adobe Journey Optimizer (AJO) | &quot;Crea una sfida che incoraggia i membri a provare una nuova bevanda stagionale&quot; <br> &quot;Mostra le sfide di fedeltà con i tassi di abbandono dei membri più elevati.&quot; |
 | [Analizzare le prestazioni del programma fedeltà](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-data-insight){target="_blank"} | Eseguire query e analizzare i punti fedeltà, i livelli membro, i rimborsi e le metriche dei ricavi utilizzando il linguaggio naturale | `loyalty-insights` | Adobe Journey Optimizer (AJO) | &quot;Quanti punti fedeltà sono stati concessi nel mese di agosto 2026?&quot; <br> &quot;Mostra i ricavi totali del programma fedeltà suddivisi per giorno nel mese di agosto 2026.&quot; |
+| [Trova opportunità fedeltà](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-opportunities){target="_blank"} | Richiedi opportunità di sfida specifiche e basate su dati relativi a prestazioni e tendenze del programma fedeltà, per poi trasformarle in sfide live | Da definire | Adobe Journey Optimizer (AJO) | &quot;Quali opportunità di fidelizzazione potrebbero aumentare la spesa dei membri?&quot; <br> &quot;Mostrami opportunità per recuperare i membri inattivi.&quot; |
 
 **Informazioni correlate**
 
