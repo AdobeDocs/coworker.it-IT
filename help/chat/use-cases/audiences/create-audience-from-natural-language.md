@@ -11,10 +11,7 @@ jira: KT-22080
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-feature_v2:
-  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
@@ -24,4 +21,4 @@ ht-degree: 0%
 
 Il controllo delle modalità di connessione di tipi di pubblico, percorsi, set di dati e destinazioni è in genere un esercizio manuale e lungo. In questo video, scopri come Coworker può generare una visualizzazione operativa completa dell’ambiente Adobe Experience Platform (AEP), confrontarlo con le best practice di settore e utilizzare questi risultati per creare un nuovo pubblico, il tutto all’interno di una singola conversazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496873/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496848/?learn=on&enablevpops)

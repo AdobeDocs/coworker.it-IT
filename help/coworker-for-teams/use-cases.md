@@ -4,10 +4,7 @@ title: Casi di utilizzo di Collaboratore per team
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-feature_v2:
-  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
+source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
 workflow-type: tm+mt
 source-wordcount: '512'
 ht-degree: 0%
@@ -162,4 +159,4 @@ Ideale per: qualsiasi tipo di pubblico che non ha risposto.
 
 ## Pronto per la generazione?
 
-Scegli un caso d&#39;uso qui sopra, visita [Crea una campagna e-mail] (./) per l&#39;intera procedura, quindi prova.
+Scegli un caso d&#39;uso qui sopra, visita [Crea una campagna e-mail](./) per l&#39;intera procedura, quindi prova.
