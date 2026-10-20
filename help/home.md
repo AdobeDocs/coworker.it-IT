@@ -7,10 +7,10 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 53e769c5478f46ec9240c62534994d8c30ce8380
+source-git-commit: ebe0bd0f8e420b007e1b99ec2e15fd3b249305e6
 workflow-type: tm+mt
-source-wordcount: '936'
-ht-degree: 18%
+source-wordcount: '979'
+ht-degree: 17%
 ---
 # Guida di CX Enterprise Coworker {#overview}
 
@@ -22,13 +22,13 @@ Collaboratore sposta l&#39;intelligenza artificiale da _assistente_ a _azione_. 
 
 [!DNL Coworker] viene distribuito tramite tre esperienze:
 
-* **[Collaboratore [!UICONTROL Chat]](./chat/overview.md):** Richiedi informazioni, contenuti e azioni nelle applicazioni Adobe in linguaggio naturale.
-* **[Collaboratore [!UICONTROL per team]](./coworker-for-teams/overview.md):** Consente ai team di marketing agili di passare da un obiettivo della campagna a un&#39;esecuzione coordinata.
+* **[Collaboratore [!UICONTROL Chat]](./chat/overview.md):** Richiedi informazioni, contenuti e azioni nelle applicazioni Adobe in linguaggio naturale. Chat è concesso in licenza e abilitato tramite il team del tuo account.
+* **[Collaboratore [!UICONTROL per team]](./coworker-for-teams/overview.md):** Consente ai team di marketing agili di passare da un obiettivo della campagna a un&#39;esecuzione coordinata. Coworker for teams è una versione di prova gratuita e self-service con il proprio URL, che termina il 31 dicembre 2026.
 * **Collaboratore [!UICONTROL Progetti] (presto disponibile):** Per flussi di lavoro aziendali interfunzionali e a esecuzione prolungata in cui i team impostano i processi, le approvazioni e il livello di autonomia di Collaboratore.
 
-## Abilitare Collaboratore
+## Abilitare Chat con i collaboratori
 
-Per abilitare Collaboratore (inclusa Chat con il collaboratore), la tua organizzazione deve accedere ad Adobe CX Enterprise Coworker. L’abilitazione prevede in genere:
+Per abilitare Chat con i collaboratori, la tua organizzazione deve accedere ad Adobe CX Enterprise Coworker. L’abilitazione prevede in genere:
 
 * **Licenze:** Contatta il rappresentante del tuo account Adobe o il team vendite per verificare di disporre delle licenze e dei diritti corretti.
 
@@ -36,7 +36,9 @@ Per abilitare Collaboratore (inclusa Chat con il collaboratore), la tua organizz
 
 * **Accesso:** Assegna ruoli e accedi alle funzionalità di Coworker per i team in Adobe [Admin Console](https://experienceleague.adobe.com/it/docs/core-services/interface/administration/admin-console).
 
-* **Inizia:** una volta che Coworker è abilitato, consulta [Inizia a usare Coworker Chat](./chat/ui-guide.md) per scoprire come utilizzare l&#39;interfaccia di Coworker Chat, incluse la casella di input, le risposte, la cronologia delle chat e le abilità, i server MCP e le impostazioni di memoria.
+* **Inizia:** una volta che Coworker è abilitato, consulta [Inizia a usare Coworker Chat](./chat/ui-guide.md) per scoprire come utilizzare l&#39;interfaccia di Coworker Chat, incluse la casella di input, le risposte e la cronologia delle chat.
+
+Per personalizzare Chat con il tuo team, consulta [Abilità](./customizations/skills/what-are-skills.md), [Integrazioni](./customizations/integrations/understanding-integrations-in-coworker.md), [Plugin](./customizations/plugins/what-are-plugins.md) e [Memoria](./customizations/memory/what-is-memory.md) oppure inizia con [Panoramica sulle personalizzazioni](./customizations/overview.md).
 
 ## Video sull’utilizzo di Chat con collaboratori
 

@@ -5,24 +5,24 @@ user-guide-description: Scopri Adobe CX Enterprise Coworker, un compagno di squa
 description: Scopri gli strumenti di intelligenza artificiale in CX Enterprise. Migliora la tua conoscenza del prodotto e acquisisci informazioni operative utilizzando l’intelligenza artificiale in CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 4bbaf3021be6518ce3aa811efec7b4d0d2746199
+source-git-commit: 2b61bbc29954e10515b5bbdbd7bafe48c7cbfdbd
 workflow-type: tm+mt
-source-wordcount: '275'
-ht-degree: 16%
+source-wordcount: '282'
+ht-degree: 14%
 ---
 
 # CX Enterprise Coworker {#content}
 
-- [Panoramica sui collaboratori](home.md)
+- [Guida per i collaboratori](home.md)
 - Chat {#chat}
-  - [Panoramica](./chat/overview.md)
-  - [Introduzione alla chat](./chat/ui-guide.md)
+  - [Informazioni sulla chat per collaboratori](./chat/overview.md)
+  - [Introduzione all’utilizzo di Chat con collaboratori](./chat/ui-guide.md)
   - {hide-from-toc}[Chat con i collaboratori in Playground](./playground-coworker-chat.md)
-  - Casi d’uso {#use-cases}
+  - Flussi di lavoro {#use-cases}
     - [Flussi di lavoro di Chat del collaboratore](./chat/use-cases/workflows.md)
     - Approfondimenti dati {#data-insights}
-      - [Panoramica](./chat/use-cases/data-insights/analytics-overview.md)
-      - [Introduzione](./chat/use-cases/data-insights/analytics-chat.md)
+      - [Informazioni sull’analisi dei dati](./chat/use-cases/data-insights/analytics-overview.md)
+      - [Introduzione all’analisi dei dati](./chat/use-cases/data-insights/analytics-chat.md)
       - Implementazione e amministrazione intelligenti {#intelligent-implementation-and-administration}
         - [Panoramica](./chat/use-cases/data-insights/data-governance-and-validation.md)
         - [Pianificare l’implementazione](./chat/use-cases/data-insights/implementation-guide.md)
@@ -69,7 +69,7 @@ ht-degree: 16%
     - Flusso di lavoro e pianificazione {#workflow-and-planning}
       - [Pianificare il lancio di una campagna digitale](./chat/use-cases/workflow-and-planning/plan-digital-campaign-launch.md)
 - Personalizzazioni {#customizations}
-  - [Panoramica](./customizations/overview.md)
+  - [Panoramica delle personalizzazioni](./customizations/overview.md)
   - Competenze {#skills}
     - [Che cosa sono le abilità?](./customizations/skills/what-are-skills.md)
     - [Crea la tua prima abilità](./customizations/skills/create-your-first-skill.md)

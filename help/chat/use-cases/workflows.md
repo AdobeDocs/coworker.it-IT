@@ -7,14 +7,20 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 0ccc8faed069b726a28a39042047d1e66200181e
+source-git-commit: be1be18a25c57eafa07b326b1bf5800527cb1c7d
 workflow-type: tm+mt
-source-wordcount: '7618'
+source-wordcount: '7712'
 ht-degree: 6%
 ---
 # Flussi di lavoro di Chat del collaboratore {#use-cases}
 
 Chat con collaboratori consente di eseguire query, analizzare e agire sui dati di [!DNL Experience Platform] utilizzando il linguaggio naturale anziché navigare in più interfacce utente o scrivere query manualmente. Questa pagina cataloga i flussi di lavoro su cui i professionisti si basano maggiormente, organizzati per area di lavoro: approfondimenti sui dati, tipi di pubblico, percorsi, fidelizzazione, elementi fondamentali e strumenti sandbox. Ogni voce include l&#39;abilità richiamata, le applicazioni con cui lavora e i prompt di esempio che è possibile copiare, adattare ai propri dati e perfezionare attraverso la conversazione.
+
+## Informazioni su competenze e flussi di lavoro
+
+**Abilità:** Una _abilità_ è una singola funzionalità o azione specifica eseguibile da Coworker. Alcuni esempi includono la creazione di un pubblico, l’invio di un’e-mail, la generazione di un rapporto o l’analisi dei risultati della campagna. Ogni abilità si concentra su una funzione particolare.
+
+**Flusso di lavoro:** Un _flusso di lavoro_ è una sequenza di passaggi o azioni (che spesso coinvolgono più competenze) progettati per raggiungere un obiettivo di business più ampio. I flussi di lavoro coordinano diverse abilità in un ordine logico per completare processi complessi e in più fasi, ad esempio il lancio di una campagna di marketing, l’onboarding di un nuovo segmento di clienti o la diagnosi di un calo delle prestazioni della campagna.
 
 ## Esperienza del marchio
 
