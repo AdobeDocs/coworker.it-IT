@@ -18,5 +18,5 @@ ht-degree: 0%
 
 Scopri come trasformare una descrizione della campagna in una pagina di destinazione in bozza con Adobe CX Enterprise Coworker. Segui il flusso di lavoro per utilizzare come modello una pagina Adobe Experience Manager esistente, confermare la destinazione, applicare il contenuto della campagna e i metadati SEO e perfezionare le immagini e le copie nell’editor universale.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504682/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504688/?captions=ita&learn=on)
 
