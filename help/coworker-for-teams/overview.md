@@ -4,9 +4,9 @@ title: Panoramica di Adobe CX Enterprise Coworker
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: 2c08a164e3f127eb01271b31e1150f1d815e5b27
 workflow-type: tm+mt
-source-wordcount: '983'
+source-wordcount: '1030'
 ht-degree: 0%
 ---
 # Panoramica di Collaboratore per team {#overview}
@@ -21,7 +21,7 @@ Al momento, tutte le interazioni con l&#39;intelligenza artificiale ti indirizze
 >
 >Coworker for teams è disponibile tramite prova gratuita fino al 31 dicembre 2026. Durante la prova, tutte le risorse e l’attività sono specifiche per l’utente.
 
-1. Vai su coworker-campaigns.experience.adobe.com.
+1. Vai su coworker-teams.adobe.com.
 
 1. Se disponi già di un account Adobe, fai clic su **Accedi**. In caso contrario, fai clic su **Partecipa alla versione di prova gratuita** e crea un account utilizzando l&#39;e-mail aziendale.
 
@@ -35,7 +35,7 @@ Al momento, tutte le interazioni con l&#39;intelligenza artificiale ti indirizze
 
 1. (Facoltativo) Carica un modello di e-mail di HTML in **Modelli e-mail** affinché i team possano applicare il progetto durante la generazione del contenuto.
 
-   ![Schermata di benvenuto per la versione di prova di Collaboratore per team](./assets/overview-1.png){width="800" zoomable="yes"}
+   ![Schermata di benvenuto per la versione di prova di Collaboratore per team](./assets/overview-1.gif)
 
 Sei pronto per generare la tua prima campagna.
 
@@ -45,14 +45,49 @@ L’interfaccia di Collaboratore per team è organizzata intorno a una navigazio
 
 ![Schermata iniziale](./assets/overview-2.gif)
 
-| Menu di navigazione sinistro | Scopo |
-|---|---|
-| Nuova chat | Avvia una nuova conversazione per generare una campagna. |
-| Home | Il tuo punto di partenza: barra dei prompt, campagne recenti e modelli di campagne pronti. |
-| Chat | Ogni conversazione avviata che non è ancora stata generata in una bacheca della campagna. |
-| Campagne | Inventario di tutte le bozze e campagne live. |
-| La tua roba | I kit del tuo marchio e i modelli e-mail (le risorse utilizzate da Coworker for teams per mantenere tutto online). |
-| Personalizza | Connettori (Marketo Engage all’avvio) e Abilità (comportamenti personalizzati che puoi applicare tra le campagne). |
+<table>
+  <thead>
+    <tr>
+      <th>Menu di navigazione sinistro</th>
+      <th>Scopo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nuova chat</td>
+      <td>Avvia una nuova conversazione per generare una campagna.</td>
+    </tr>
+    <tr>
+      <td>Home</td>
+      <td>Il tuo punto di partenza: barra dei prompt, campagne recenti e modelli di campagne pronti.</td>
+    </tr>
+    <tr>
+      <td>Chat</td>
+      <td>Ogni conversazione avviata che non è ancora stata generata in una bacheca della campagna.</td>
+    </tr>
+    <tr>
+      <td>Campagne</td>
+      <td>Inventario di tutte le bozze e campagne live.</td>
+    </tr>
+    <tr>
+      <td>Elenchi di contatti</td>
+      <td>Gestisci i tuoi elenchi di pubblico e di soppressione.</td>
+    </tr>
+    <tr>
+      <td>Insight</td>
+      <td>Visualizzare le metriche in tutte le campagne attive, tracciate in un intervallo di date selezionato.</td>
+    </tr>
+    <tr>
+      <td>Contesto</td>
+      <td>Fai clic su <i>Contesto</i> per visualizzare il relativo sottomenu:<br><br>
+      <li><b>Marchi</b> - Gestisci e aggiungi i kit di marchi e imposta un valore predefinito per la tua area di lavoro.</li>
+      <li><b>Modelli e-mail</b> - Gestisci e carica modelli HTML personalizzati e comunica a Coworker quando utilizzarli.</li>
+      <li><b>Connettori</b> - Integrazioni esterne come Database e Salesforce per inserire tipi di pubblico o contesto in.</li>
+      <li><b>Abilità</b> - Istruzioni riutilizzabili per la creazione e la personalizzazione delle campagne da parte di Collaborator.</li></td>
+    </tr>
+  </tbody>
+</table>
+
 
 >[!NOTE]
 >
@@ -111,7 +146,7 @@ Collaboratore per team è un prodotto in fase di sviluppo attivo. Ecco cosa biso
 
 ## Panoramica video
 
->[!VIDEO](https://video.tv.adobe.com/v/3492813?captions=ita&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3492807?learn=on){transcript=true}
 
 
 Durante la prova verranno fornite nuove funzionalità. Il tuo feedback aiuta a definire i prossimi sviluppi. Invia un feedback facendo clic sull’icona del feedback nel prodotto nell’intestazione.
