@@ -5,9 +5,9 @@ jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: b91e8dcdacf57bdbc4fb6cf7d6fe92920e7fbb6e
 workflow-type: tm+mt
-source-wordcount: '1801'
+source-wordcount: '1765'
 ht-degree: 2%
 ---
 # Introduzione alla chat con i collaboratori {#ui-guide}
@@ -25,7 +25,7 @@ La tabella seguente mostra dove è disponibile ogni esperienza.
 | Real-Time CDP | Disponibile ora | Disponibile a breve |
 | Adobe Journey Optimizer | Disponibile ora | Disponibile a breve |
 | Customer Journey Analytics | Disponibile ora | Disponibile a breve |
-| Workfront | Disponibile ora | In arrivo:<br><br>* All’inizio di settembre 2026 nell’istanza di anteprima per alcuni amministratori di sistema Workfront idonei<br><br>* A metà settembre 2026 nell’istanza di produzione per i clienti Workfront con rilascio rapido idonei<br><br>* A metà ottobre 2026 nell’istanza di produzione per i clienti Workfront con rilascio trimestrale idonei |
+| Workfront | Disponibile ora | Disponibile ora |
 | Target | Disponibile ora | Disponibile ora |
 | AEM | Disponibile ora | Disponibile ora |
 | Marketo Engage | Disponibile ora | Disponibile a breve |

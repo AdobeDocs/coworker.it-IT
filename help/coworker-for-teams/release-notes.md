@@ -4,14 +4,130 @@ title: Note sulla versione di CX Enterprise Coworker for teams
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: d3cfd773137d0fc985cff508025935727dc4566b
 workflow-type: tm+mt
-source-wordcount: '3597'
+source-wordcount: '4474'
 ht-degree: 0%
 ---
 # Note sulla versione di Adobe CX Enterprise Coworker for teams {#release-notes}
 
 I rilasci di Coworker for teams funzionano secondo un modello di distribuzione continua che consente un approccio più scalabile e graduale alla distribuzione delle funzioni.
+
+## Ottobre 2026 {#oct-2026}
+
+**Data di rilascio: 21 ottobre 2026**
+
+* Rilascia i file nei prompt delle campagne e nelle conversazioni per allegarli
+* Gli allegati di dimensioni eccessive vengono rilevati prima che interrompano il lavoro
+* Le dimensioni dei file vengono visualizzate nella lingua e nel formato locale
+* Le anteprime delle e-mail si adattano a progettazioni ampie senza tagliare i contenuti
+* Continua a digitare durante la modifica delle e-mail all’interno di una conversazione
+* I dettagli del mittente vengono compilati automaticamente dal tuo profilo
+* Le modifiche del mittente dalle anteprime delle conversazioni vengono applicate alla campagna
+* Le anteprime aperte della strategia della campagna riflettono le ultime modifiche salvate
+* Visualizza in anteprima gli elenchi di contatti di esempio quando sono disponibili dati di esempio
+* Le descrizioni dei connettori sono più facili da leggere nella lingua
+* Trova dettagli del connettore e delle abilità in modo più affidabile nel contesto
+* I filtri del canale del modello si adattano più comodamente agli schermi più piccoli
+* Le azioni profilo rimangono accessibili all’interno della shell di navigazione di Adobe
+* Gli errori di segnalazione delle campagne non suggeriscono più erroneamente che la sessione sia scaduta
+* Scegli filtri account di prova corrispondenti agli stati disponibili
+* Continua ad aprire e rinominare le chat senza un’opzione di eliminazione fuorviante
+* Gli ultimi aggiornamenti dei prodotti sono più facili da ignorare
+* L’attività della campagna viene conteggiata in modo più coerente tra i rapporti
+
+**Data di rilascio: 16 ottobre 2026**
+
+* Applicare un modello e-mail senza riscriverne il contenuto
+* Cambiare modelli e-mail senza perdere le ultime modifiche
+* Cambiare modelli, scaricare e-mail e inviare test da un menu
+* Leggi le anteprime delle e-mail in modo più comodo prima di apportare modifiche
+* Riprovare un messaggio quando l&#39;invio non riesce prima dell&#39;avvio
+* Trova più facilmente le schede Home sui telefoni più piccoli
+* Le finestre di dialogo di avvio si adattano più comodamente agli schermi più piccoli
+* Le etichette per tipi di pubblico lunghi rimangono leggibili senza sovrapposizioni
+* Visualizza fino a sei campagne recenti sulla Home
+* Home ora si concentra su campagne e idee invece di riepiloghi giornalieri
+* Avviare una campagna o sfogliare le idee da una Home vuota
+* I menu di Campaign mostrano le azioni adatte a ciascuno stato della campagna
+* La modifica in Adobe Express rimane non disponibile quando un’immagine non può essere caricata
+* I vecchi collegamenti Campagne portano a Collaboratore per i team
+* Leggi le risposte delle chat con dimensioni del testo più confortevoli
+* Le schede Panoramica e Informazioni sulla campagna sono centrate nell’intestazione
+
+**Data di rilascio: 15 ottobre 2026**
+
+* Filtra home e campagne in base a chi ha creato ciascuna campagna
+* Ottieni un riepilogo giornaliero di campagne, conversazioni e varianti e-mail
+* Vedi lo stato della campagna, l’autore e la data di creazione sotto il titolo
+* Ripeti l’impostazione della campagna dalle idee di Campaign ogni volta che hai bisogno di assistenza
+* Ridimensionare le anteprime delle campagne e tornare alle bacheche in modo più fluido
+* I collegamenti e-mail ora persistono quando salvi la bozza
+* Le bozze delle e-mail vengono salvate in modo affidabile durante la modifica
+* Le immagini sostitutive rimangono collegate alle bozze delle e-mail
+* Cambia i modelli e-mail e scarica le e-mail direttamente dall’editor
+* Esportare i record DNS come file di zona con istruzioni di configurazione in linguaggio semplice
+* Individua i domini forniti dal sistema e i mittenti con i badge predefiniti cancellati
+* Inizia a digitare per concentrare l’attenzione sul compositore chat attivo
+* Navigazione più chiara e collegamento diretto alle note sulla versione per visualizzare gli aggiornamenti dei prodotti
+
+**Data di rilascio: 14 ottobre 2026**
+
+* Creare e cambiare le aree di lavoro dal menu del profilo
+* Trovare campagne e contenuti salvati nella navigazione aggiornata
+* Visualizza le campagne recenti e riprova a caricarle dalla Home
+* Scopri chi ha creato campagne, modelli e kit di brand
+* Trovare più facilmente lo stato di prova e le opzioni di aggiornamento
+* Connetti Shopify e aggiorna i dettagli della connessione al negozio
+* Allega documenti, fogli di calcolo e immagini direttamente dalla chat domestica
+* Anteprima e modifica delle e-mail senza uscire dalla conversazione
+* Ridimensiona le anteprime delle conversazioni per adattarle al tuo modo di lavorare
+* Rivedi flussi di lavoro, strategie e tipi di pubblico accanto alla tua conversazione
+* Cambiare modelli e-mail, esportare e-mail e inviare e-mail di test dalle anteprime
+* Continua a leggere conversazioni anche quando un’anteprima e-mail non può essere aggiornata
+* Visualizzare le strategie delle campagne insieme alle altre origini di conoscenza
+* Visualizzare immediatamente le modifiche strategiche salvate nelle anteprime aperte
+* Leggi le strategie della campagna e i dettagli del pubblico direttamente in chat
+* Leggi conteggi dei pubblici di grandi dimensioni in un formato più breve e chiaro
+* Segui gli aggiornamenti sulla bacheca delle campagne con dati più chiari
+* Apri le conversazioni al più tardi nel corso della normale navigazione
+* Torna alla schermata precedente con una migliore navigazione posteriore
+* Vedi i nomi delle conversazioni nell’intestazione della chat della bacheca della campagna
+* Utilizza bacheche delle campagne, editor e chat su schermi più piccoli
+* Avvia una nuova chat senza riprendere la conversazione precedente
+* Trova nuove conversazioni nella cronologia prima dopo l’invio
+* La chat mantiene le interruzioni di riga e rende selezionabili gli indirizzi web
+* Gli aggiornamenti del flusso di lavoro non nascondono più la spiegazione di chiusura dell’assistente
+* Le conferme e-mail delle bozze non vengono più visualizzate due volte in chat
+* I perfezionamenti delle e-mail aggiornano le bozze esistenti invece di creare duplicati
+* Le attività di follow-up non sovrascrivono più le impostazioni della campagna o i tipi di pubblico
+* Le bacheche Campaign mantengono il flusso di lavoro più recente dopo la rimozione dei passaggi
+* Lo stato della campagna riflette la fase effettiva della campagna
+* Avvisi più chiari sulle pianificazioni di avvio non valide o scadute
+* Scopri quali dettagli di prompt mancano prima di creare una campagna
+* Configurare l’invio di domini con record DNS più chiari e passaggi successivi
+* L’accesso tramite account personale viene aggiornato in modo più affidabile
+* Passa dall’onboarding alla Home senza il flash della schermata di caricamento
+* Sono nuovamente disponibili le azioni di modifica del brand e personalepredefinite
+* Ottieni attribuzione accurata del creatore sui kit del brand
+* Scopri quando la modifica di un brand predefinito influisce sul tuo workspace
+* La generazione del brand non viene più interrotta dal banner di ripristino
+* I controlli delle varianti e-mail sono più facili da distinguere
+* I messaggi di errore di chat utilizzano un trattamento visivo più calmo
+
+**Data di rilascio: 13 ottobre 2026**
+
+* Le conferme di prova ti ricordano di controllare la cartella di posta indesiderata
+
+**Data di rilascio: 12 ottobre 2026**
+
+* Aggiungi il sito web e l’uso previsto dopo aver richiesto l’accesso di prova
+* Riavvia il processo di registrazione con l’e-mail aziendale quando necessario
+
+**Data di rilascio: 7 ottobre 2026**
+
+* Consulta la pianificazione dell’aggiornamento dei team e notifica del prossimo ripristino dei dati
+* Segui la guida collegata per salvare il contenuto prima del ripristino
 
 ## Settembre 2026 {#sep-2026}
 
