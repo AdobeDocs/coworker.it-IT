@@ -4,9 +4,9 @@ title: Panoramica di Adobe CX Enterprise Coworker
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 2c08a164e3f127eb01271b31e1150f1d815e5b27
+source-git-commit: 5bc85387e83672fade431a5e8e801215429fa8c9
 workflow-type: tm+mt
-source-wordcount: '1030'
+source-wordcount: '1027'
 ht-degree: 0%
 ---
 # Panoramica di Collaboratore per team {#overview}
@@ -97,12 +97,12 @@ L’interfaccia di Collaboratore per team è organizzata intorno a una navigazio
 
 Collaboratore per team include cinque flussi di lavoro che in genere si estendono su cinque strumenti diversi in un’unica esperienza di conversazione:
 
-- **Trasforma un breve resoconto in un piano della campagna**. Rilascia un prompt o carica una descrizione e Collaboratore per team restituisce un piano strutturato end-to-end.
+- **Trasforma una breve descrizione in una strategia di campagna**. Rilascia un prompt o carica un file: Collaboratore per team restituisce una strategia iniziale per orchestrare la campagna.
 - **Crea e perfeziona tipi di pubblico**. Carica un file CSV o connetti i dati, quindi perfeziona il segmento nella conversazione.
 - **Genera contenuto nel marchio**. Coworker for teams scrive e-mail corrispondenti alla voce del brand, ai riferimenti e ai modelli.
 - **Progetta percorsi con più passaggi**. Coworker for teams assembla le sequenze di sviluppo, non solo invii singoli.
 - **Invia e-mail di prova**. Visualizza l’anteprima di ogni messaggio nella tua casella in entrata prima del lancio.
-- **Avvia e analizza**. _(Disponibile a breve)_ Invia campagne e ottieni informazioni sul passaggio successivo senza uscire da Coworker per i team.
+- **Avvia e analizza**. Invia campagne e ottieni informazioni sul passaggio migliore senza uscire da Coworker per i team.
 
 ## Come funziona l’intelligenza artificiale
 
@@ -110,7 +110,7 @@ Coworker for teams (Collaboratore per team) segue un semplice ciclo di conversaz
 
 **Input**. Puoi fornire un obiettivo della campagna, il pubblico (caricato o connesso) e il contesto del marchio facoltativo.
 
-**Elaborazione**. L’IA per l’agente di Coworker for teams genera un piano della campagna, crea un percorso e redige contenuti personalizzati. Tutti elementi che puoi aggiornare a, a livello di conversazione.
+**Elaborazione**. L’IA per l’agente di Coworker for teams genera una strategia di campagna, crea un percorso e redige contenuti personalizzati. Tutti elementi che puoi aggiornare a, a livello di conversazione.
 
 **Output**. Una bozza di campagna viene visualizzata sulla bacheca della campagna, pronta per la revisione, l’iterazione e l’eventuale lancio.
 
@@ -126,7 +126,7 @@ Alcuni elementi che gli utenti più esperti hanno scoperto e che fanno una vera 
 
 - **Inizia con un caso d&#39;uso specifico e reale**. &quot;Crea una serie di ricompense per i clienti che non hanno effettuato ordini da 90 giorni&quot; batte &quot;fammi una campagna&quot;. Vedi _Casi d&#39;uso_ per esempi specifici.
 - **Pulisci i dati del pubblico**. Collaboratore per i team può solo personalizzare, oltre a quanto consentito dal file CSV. Escludi eventuali contatti che non dovresti inviare tramite e-mail prima di caricare.
-- **Investite nella configurazione del vostro marchio**. Coworker for teams estrae i dettagli del brand al momento della registrazione. Una rapida revisione di **La tua roba** > **Marchi** offre vantaggi a ogni campagna generata.
+- **Investite nella configurazione del vostro marchio**. Coworker for teams estrae i dettagli del brand al momento della registrazione. Una rapida revisione di **Contesto** > **Marchi** offre vantaggi a ogni campagna generata.
 - **Invia un&#39;e-mail di bozza**. Prima di avviare, invia una bozza e rivedila nella tua casella in entrata.
 - **Iterazione, non riavviare**. Considera il primo output di Collaboratore per team come punto di partenza. Il percorso più veloce per raggiungere il massimo consiste in alcuni passaggi di perfezionamento, non in un nuovo messaggio.
 - **Esporta quando hai bisogno di una traccia cartacea**. Esporta singole e-mail come HTML o l’intera campagna come documento Word o PDF per la revisione del team.
@@ -146,7 +146,7 @@ Collaboratore per team è un prodotto in fase di sviluppo attivo. Ecco cosa biso
 
 ## Panoramica video
 
->[!VIDEO](https://video.tv.adobe.com/v/3492813?captions=ita&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3492807?learn=on){transcript=true}
 
 
 Durante la prova verranno fornite nuove funzionalità. Il tuo feedback aiuta a definire i prossimi sviluppi. Invia un feedback facendo clic sull’icona del feedback nel prodotto nell’intestazione.
