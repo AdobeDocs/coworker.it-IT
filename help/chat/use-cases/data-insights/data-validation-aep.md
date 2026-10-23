@@ -10,7 +10,7 @@ jira: PLAT-302857
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: b54085a497ca4bbf0003d5837d816206a4d40396
 workflow-type: tm+mt
 source-wordcount: '1058'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Per convalidare i dati con Collaboratore, è necessario:
 
 1. Accedi a Collaboratore.
 
-1. Seleziona [!UICONTROL **Nuova chat**].
+1. Seleziona **[!UICONTROL Nuova chat]**.
 
 1. Nel campo di testo, richiedi all’agente di convalidare un campo o un set di dati. Ad esempio:
 
@@ -156,5 +156,5 @@ Se le tue esigenze di convalida sono più esaustive o richiedono una logica di b
 
 * [Convalidare i dati da Adobe Analytics a Customer Journey Analytics durante l&#39;aggiornamento](./data-validation-aa-cja.md)
 * [Convalidare i dati Customer Journey Analytics con l’abilità di Convalida dati in Collaboratore](./validate-dataset-quality-for-cja.md)
-* [Convalidare i dati (Assistente AI)](https://experienceleague.adobe.com/it/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-validation)
+* [Convalidare i dati (Assistente AI)](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-validation)
 * [Considera attendibile il tuo reporting Customer Journey Analytics: abilità di convalida dei dati in Adobe CX Enterprise Coworker](https://www.youtube.com/watch?v=gCSm_QYSYhk) (video)

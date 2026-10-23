@@ -4,9 +4,9 @@ description: Utilizza Chat con collaboratori per creare funnel, individuare i pu
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: b54085a497ca4bbf0003d5837d816206a4d40396
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '689'
 ht-degree: 2%
 ---
 
@@ -62,7 +62,7 @@ Per i casi d’uso descritti in questo articolo, il collaboratore utilizza le se
 * Specifica i segmenti, i canali o i dispositivi da includere, escludere o confrontare.
 * Fai riferimento a qualsiasi ipotesi già in tuo possesso, ad esempio una recente modifica del sito, in modo che Chat con i collaboratori possa convalidarla o escluderla.
 * Chiedi i passaggi successivi consigliati se desideri che Chat con collaboratori suggerisca domande di follow-up.
-* Apri qualsiasi visualizzazione in Analysis Workspace quando desideri un maggiore controllo manuale.
+* Apri qualsiasi visualizzazione in Analysis Workspace quando desideri un maggiore controllo manuale. Vedi [Analizza in Customer Journey Analytics](/help/chat/use-cases/data-insights/analytics-chat.md#analyze-in-customer-journey-analytics).
 
 ## Passaggi successivi
 

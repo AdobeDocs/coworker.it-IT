@@ -4,9 +4,9 @@ description: Scopri come utilizzare Adobe CX Enterprise Coworker Chat per analiz
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: b54085a497ca4bbf0003d5837d816206a4d40396
 workflow-type: tm+mt
-source-wordcount: '1281'
+source-wordcount: '1358'
 ht-degree: 1%
 ---
 
@@ -22,7 +22,7 @@ Chat con i collaboratori può eseguire analisi avanzate dei dati che in preceden
 
 La chat per collaboratori eredita le autorizzazioni da Customer Journey Analytics o Adobe Analytics. Puoi accedere solo alle visualizzazioni dati, alle suite di rapporti, alle dimensioni, alle metriche e ai segmenti disponibili in Analysis Workspace.
 
-Quando crei una visualizzazione nella chat di Coworker, puoi aprirla in Analysis Workspace in qualsiasi momento per un controllo più manuale.
+Quando crei una visualizzazione nella chat di Coworker, puoi aprirla in Analysis Workspace in qualsiasi momento per un controllo più manuale. Vedi [Analizza in Customer Journey Analytics](/help/chat/use-cases/data-insights/analytics-chat.md#analyze-in-customer-journey-analytics).
 
 ## Risposte rapide e un lavoro approfondito
 
@@ -55,6 +55,7 @@ Per l’analisi dei dati Customer Journey Analytics o Adobe Analytics sono dispo
 | `cja`, `aa` | Eseguire query sulle visualizzazioni dati di Customer Journey Analytics (`cja`) o sulle suite di rapporti di Adobe Analytics (`aa`) in tempo reale:<ul><li>Metriche pull, dimensioni, segmenti, visualizzazioni dati e suite di rapporti</li><li>Confrontare canali, periodi di tempo o segmenti uno accanto all’altro</li><li>Eseguire analisi di abbandono e funnel in più passaggi</li><li>Metriche di previsione basate sulle tendenze storiche</li></ul> | Accesso in visualizzazione alla visualizzazione dati o alla suite di rapporti in cui si desidera eseguire la query | <ul><li>Creazione o modifica di componenti di visualizzazioni dati o suite di rapporti</li><li>Dati esterni alle visualizzazioni dati o alle suite di rapporti a cui hai accesso</li><li>Modellazione predittiva oltre la previsione delle metriche</li></ul> |
 | `cja-root-cause-analysis`, `aa-root-cause-analysis` | Analizzare il motivo per cui una metrica è cambiata invece di segnalare semplicemente la modifica:<ul><li>Analizzare una modifica in una metrica nota in un periodo noto</li><li>Superare le quote e i segmenti che hanno contribuito al cambiamento</li></ul> | Accesso alla visualizzazione dati o alla suite di rapporti in fase di analisi | <ul><li>Rilevamento delle anomalie non richieste (nessun avviso automatico o in tempo reale)</li><li>Analisi della causa principale per le metriche esterne a una visualizzazione dati o a una suite di rapporti a cui hai accesso</li></ul> |
 | `cja-executive-summary` | Creare riepiloghi dei dati pronti per le parti interessate:<ul><li>Riepiloga le prestazioni in un periodo specificato</li><li>Generare consigli prescrittivi in base ai dati</li><li>Contenuto struttura per una presentazione o una lettura da parte delle parti interessate</li></ul> | Accesso in visualizzazione alle visualizzazioni dati o alle suite di rapporti incluse nel riepilogo | <ul><li>Creazione della presentazione diapositive o del file di presentazione finale</li><li>Riepiloghi che si estendono su visualizzazioni dati o suite di rapporti a cui non hai accesso</li></ul> |
+| `analyze-content`<!-- FLAG: Confirm the Out of scope items with the PM. --> | Rispondi a domande generali o specifiche sui contenuti utilizzando i dati di Content Analytics in Customer Journey Analytics:<ul><li>Scopri quali risorse ed esperienze hanno in comune le migliori prestazioni</li><li>Collegare l’esposizione dei contenuti a conversioni e ricavi</li><li>Confrontare i contenuti tra canali e pubblico</li></ul>Per ulteriori informazioni, vedere [Poni domande sul contenuto](/help/chat/use-cases/data-insights/ask-content-questions.md). | Accesso in visualizzazione a una visualizzazione dati configurata per Content Analytics | <ul><li>Configurazione di Content Analytics</li><li>Contenuto che Content Analytics non raccoglie</li></ul> |
 | `aa-cja-validation` | Confrontare, controllare e riconciliare i dati tra [!DNL Adobe Analytics] e Customer Journey Analytics:<ul><li>Confrontare i valori delle metriche tra una suite di rapporti e una visualizzazione dati</li><li>Segnala le discrepanze tra le due origini dati</li></ul> | Accesso di visualizzazione alla suite di rapporti [!DNL Adobe Analytics] e alla visualizzazione dati Customer Journey Analytics confrontata | <ul><li>Risoluzione della causa sottostante di una discrepanza di dati</li><li>Convalida di origini dati diverse da [!DNL Adobe Analytics] e Customer Journey Analytics</li></ul> |
 | `cja-skill-creator` | Trasforma un’analisi già eseguita in un’abilità riutilizzabile:<ul><li>Convertire un&#39;analisi completata in un&#39;abilità riutilizzabile denominata</li><li>Rendere disponibile un’abilità salvata nelle sessioni di chat future</li></ul> | Gestire le abilità | <ul><li>Condivisione automatica di un’abilità salvata con altri utenti (le librerie di abilità a livello di organizzazione richiedono l’impostazione dell’amministratore)</li><li>Modifica dei componenti della visualizzazione dati o della suite di rapporti a riferimenti di abilità</li></ul> |
 

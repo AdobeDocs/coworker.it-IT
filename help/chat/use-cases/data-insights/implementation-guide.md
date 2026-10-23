@@ -1,7 +1,7 @@
 ---
 title: Pianificare l’implementazione di Customer Journey Analytics o Streaming Media con Collaboratore
 description: Scopri in che modo le competenze della guida all’implementazione di Coworker trasformano una conversazione di individuazione in un piano di implementazione personalizzato e ordinato con elenchi di controllo esportabili.
-source-git-commit: 4d91397c769a76fba4f0ec1c3e86938a01fe2c6a
+source-git-commit: b54085a497ca4bbf0003d5837d816206a4d40396
 workflow-type: tm+mt
 source-wordcount: '1239'
 ht-degree: 1%
@@ -56,7 +56,7 @@ Prima di utilizzare queste abilità, tieni presenti le seguenti limitazioni:
 
 1. Accedi a Collaboratore.
 
-1. Seleziona [!UICONTROL **Nuova chat**].
+1. Seleziona **[!UICONTROL Nuova chat]**.
 
 1. Nel campo di testo, descrivi l’implementazione o la migrazione da pianificare. Ad esempio:
 
