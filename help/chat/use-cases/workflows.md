@@ -4,9 +4,9 @@ title: Flussi di lavoro di Chat del collaboratore
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 3194d97a10b97403b6a1103e49d833fabf016548
+source-git-commit: 09ad13c61b5d625d54d32fd10f7cbf68d1900aa2
 workflow-type: tm+mt
-source-wordcount: '7843'
+source-wordcount: '8306'
 ht-degree: 6%
 ---
 # Flussi di lavoro di Chat del collaboratore {#use-cases}
@@ -145,6 +145,7 @@ Chat con collaboratori consente di eseguire query, analizzare e agire sui dati d
 | [Analisi delle prestazioni aziendali](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | Analizzare le prestazioni del percorso e individuare opportunità concrete di ottimizzazione per i percorsi con prestazioni insoddisfacenti. Superare tendenze, colli di bottiglia e possibili fattori alla base di risultati inferiori per migliorare il coinvolgimento e la conversione. Consigli utili per adeguare la progettazione del percorso, il targeting o la strategia di messaggistica in base alle informazioni sulle prestazioni aziendali. | Analisi percorso | Adobe Journey Optimizer (AJO) | &quot;Analizzare le prestazioni del percorso [Nome Percorso] e consigliare le ottimizzazioni.&quot; <br> &quot;Perché il percorso [Nome Percorso] ha prestazioni insoddisfacenti rispetto all&#39;ultimo mese?&quot; <br> &quot;Cosa devo modificare per migliorare le prestazioni del percorso [Nome Percorso]?&quot; <br> &quot;Quali parti del percorso [Nome Percorso] potrebbero limitare la conversione o il coinvolgimento?&quot; |
 | [Analizzare l&#39;igiene del percorso](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | Controlla l’inventario dei percorsi per trovare percorsi con nomi mancanti o generici, percorsi bozza o live non aggiornati, percorsi di dimensioni eccessive, percorsi chiusi esistenti da tempo e nomi di azioni ed eventi simili, con consigli per pulire e stabilizzare la configurazione | Analisi percorso | Adobe Journey Optimizer (AJO) | &quot;Controlla la configurazione dei miei percorsi.&quot; <br> &quot;Quale dei miei percorsi è obsoleto o ha bisogno di essere ripulito?&quot; |
 | [Confronta versioni percorso](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | Confrontare due versioni di percorso ed esaminare una differenza strutturata di modifiche a livello di nodo, connessione e percorso | `journey-analyze-version-comparison` | Adobe Journey Optimizer (AJO) | &quot;Confronta le versioni 2 e 3 del percorso di benvenuto&quot; <br> &quot;Che cosa è cambiato tra queste due versioni del percorso?&quot; |
+| [Individua i profili tramite un percorso](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#trace-journey-profile){target="_blank"} | Ottieni dati di esecuzione a livello di profilo di sola lettura per un percorso pubblicato: scopri quanti profili sono entrati in ciascun nodo e come si suddividono in rami, quali profili sono errati e perché, oppure segui il percorso nodo per nodo di un singolo profilo nel percorso | Profilo Percorso di traccia | Adobe Journey Optimizer (AJO) | &quot;Individua i profili tramite [Nome Percorso].&quot; <br> &quot;Quali profili hanno generato un errore in [Nome Percorso] negli ultimi 7 giorni, in quale nodo e perché?&quot; <br> &quot;Visualizza il percorso del profilo [ID o e-mail] tramite [Nome Percorso].&quot; |
 
 **Informazioni correlate**
 
@@ -191,6 +192,27 @@ Chat con collaboratori consente di eseguire query, analizzare e agire sui dati d
 **Informazioni correlate**
 
 * [Utilizzare l&#39;intelligenza artificiale](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"} fornisce una panoramica di Collaboratore e delle competenze disponibili in Adobe Journey Optimizer.
+
+## Funzione Decisioni
+
+| Flusso di lavoro | Descrizione | Competenze | Applicazione | Prompt di esempio |
+| --- | --- | --- | --- | --- |
+| [Generare, spiegare, simulare e ottimizzare le regole di decisione](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills#rules-ranking){target="_blank"} | Utilizza il linguaggio naturale per creare regole di idoneità e formule di classificazione, ottenere una spiegazione in inglese semplice, testarle su un massimo di tre profili e riscriverle per rispettare i limiti di dimensione di PQL, senza scrivere a mano la sintassi di PQL | Flusso di lavoro per regole di decisione | Adobe Journey Optimizer (AJO) | &quot;Creare una regola di idoneità destinata ai membri fedeltà nel livello 2 o superiore.&quot;<br><br>&quot;Spiegami questa regola nel linguaggio naturale.&quot;<br><br>&quot;Simulare questa regola con i profili di test.&quot;<br><br>&quot;Ottimizzare questa regola PQL per me.&quot; |
+
+**Informazioni correlate**
+
+* [Collaboratore per Decisioning](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills){target="_blank"} fornisce indicazioni dettagliate, casi d&#39;uso e best practice per le abilità Decisioning in Adobe Journey Optimizer.
+
+## Canali
+
+| Flusso di lavoro | Descrizione | Competenze | Applicazione | Prompt di esempio |
+| --- | --- | --- | --- | --- |
+| [Verifica configurazioni canale](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/channels-coworker-skills#channel-operation){target="_blank"} | Visualizza, elenca, cerca e controlla le configurazioni di canale (predefiniti) e le credenziali per i canali standard come e-mail, SMS, push, direct mail, in-app e web, incluse le risorse correlate come le credenziali push, i sottodomini e-mail, le credenziali SMS e WhatsApp, i percorsi dei file, le impostazioni del canale LINE e il registro delle attività live. Sola lettura | Funzionamento del canale | Adobe Journey Optimizer (AJO) | &quot;Quali predefiniti di canale sono disponibili nella sandbox?&quot; <br> &quot;Mostra tutte le configurazioni del mio canale e-mail.&quot; <br> &quot;Quale indirizzo mittente e risposta sono configurati per la configurazione delle e-mail di marketing?&quot; |
+| [Crea e gestisci canali personalizzati](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/channels-coworker-skills#channel-builder){target="_blank"} | Crea, testa, aggiorna, elenca, recupera ed elimina canali in uscita personalizzati da una configurazione manuale, un comando curl o un collegamento a un documento API. Guida alla configurazione del canale, all’autenticazione, alla limitazione e alla definizione del payload | Channel Builder | Adobe Journey Optimizer (AJO) | &quot;Aiutami a creare un nuovo canale personalizzato per il provider SMS.&quot; <br> &quot;Crea un canale personalizzato da questo riferimento API: [collegamento].&quot; <br> &quot;Elenca i miei canali personalizzati.&quot; |
+
+**Informazioni correlate**
+
+* [Collaboratore per i canali](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/channels-coworker-skills){target="_blank"} fornisce indicazioni dettagliate, casi d&#39;uso e prompt di esempio per l&#39;operazione di canale e le competenze di Channel Builder in Adobe Journey Optimizer.
 
 ## Creazione di contenuti in Journey Optimizer
 
