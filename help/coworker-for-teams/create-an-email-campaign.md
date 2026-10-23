@@ -4,9 +4,9 @@ title: Creare una campagna e-mail
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: f25492704c73fc42d54bf44aa8d59ab73f811f1b
 workflow-type: tm+mt
-source-wordcount: '964'
+source-wordcount: '933'
 ht-degree: 0%
 ---
 # Creare una campagna e-mail {#create-an-email-campaign}
@@ -19,9 +19,9 @@ Assicurati di avere:
 
 * Un account Adobe CX Enterprise Coworker for teams attivo ([registrati qui](https://coworker-campaigns.experience.adobe.com/){target="_blank"}, se non lo hai già fatto).
 
-* Il tuo marchio è stato aggiunto in **La tua roba** > **Marchi**.
+* Il brand aggiunto in **Contesto** > **Marchi**.
 
-* (Facoltativo ma consigliato) Un modello e-mail di HTML caricato in **Le tue cose** > **Modelli e-mail**.
+* (Facoltativo ma consigliato) Un modello e-mail di HTML caricato in **Contesto** > **Modelli e-mail**.
 
 * Un CSV di pubblico pronto per il caricamento.
 
@@ -70,13 +70,13 @@ Esempio:
 
 Quando il prompt è pronto, fare clic su **Genera campagna**. Collaboratore per i team:
 
-* Genera un piano di campagna strutturato.
+* Generare una strategia di campagna strutturata.
 * Chiedi il pubblico di destinazione, che verrà utilizzato anche per la personalizzazione dei contenuti.
 * Crea contenuti e-mail personalizzati per ogni passaggio.
 * Costruire dinamicamente il percorso lungo il percorso.
 * Assemblalo tutto su una singola bacheca della campagna.
 
-## Passaggio 3: caricare il pubblico
+## Passaggio 3: aggiornare il pubblico
 
 I tipi di pubblico vengono caricati tramite CSV. Tutti i tipi di pubblico sono specifici per le rispettive campagne (al momento non vengono memorizzati in nessun altro punto dell’ambiente).
 
@@ -161,10 +161,6 @@ Sì, la dimensione massima è di 8 MB.
 **Cosa succede se il file CSV del pubblico restituisce errori?**
 
 Assicurati che il file CSV non contenga caratteri nascosti &quot;rich&quot;.
-
-**Come si utilizzano i modelli di campagna?**
-
-Selezionare il modello desiderato e fare clic su **Remix**. Potrai quindi aggiornare tutti i token di personalizzazione e fare clic sull&#39;icona **invia** in basso a destra.
 
 **Come posso condividere una bozza di campagna con un compagno di squadra per la revisione?**
 
