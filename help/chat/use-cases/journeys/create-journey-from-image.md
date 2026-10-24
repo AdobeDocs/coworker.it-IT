@@ -38,4 +38,4 @@ ht-degree: 0%
 
 Scopri come CX Enterprise Coworker trasforma un’immagine del diagramma di flusso, ad esempio una diapositiva di PowerPoint del team marketing, in un percorso pronto per la modifica in Adobe Journey Optimizer. In questo modo viene visualizzato il modo in cui viene estratto un prompt dall&#39;immagine, che consente di esaminarlo e regolarlo, di richiedere l&#39;evento trigger e di salvare il risultato come bozza corrispondente alla progettazione originale.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504865/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504871/?captions=ita&learn=on&enablevpops)
