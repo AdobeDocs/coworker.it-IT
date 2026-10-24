@@ -5,10 +5,11 @@ user-guide-description: Scopri Adobe CX Enterprise Coworker, un compagno di squa
 description: Scopri gli strumenti di intelligenza artificiale in CX Enterprise. Migliora la tua conoscenza del prodotto e acquisisci informazioni operative utilizzando l’intelligenza artificiale in CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 9f9ec676986d190bdc104aff848c7d4289bb13a6
+nudge: true
+source-git-commit: 6022fafc0e0213cbc887f5b38267cb65fd8d4326
 workflow-type: tm+mt
-source-wordcount: '287'
-ht-degree: 13%
+source-wordcount: '305'
+ht-degree: 12%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -42,6 +43,7 @@ ht-degree: 13%
         - [Esplorare tendenze e cause profonde](./chat/use-cases/data-insights/root-cause-analysis.md)
       - Prestazioni dei contenuti {#content-performance}
         - [Panoramica](./chat/use-cases/data-insights/content-performance.md)
+        - [Poni domande sul contenuto](./chat/use-cases/data-insights/ask-content-questions.md)
       - Misurazione e attribuzione marketing {#marketing-measurement-and-attribution}
         - [Panoramica](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
     - Onboarding dei dati {#data-onboarding}
@@ -51,7 +53,8 @@ ht-degree: 13%
     - Tipi di pubblico {#audiences}
       - [Valutare lo stato della piattaforma e creare tipi di pubblico](./chat/use-cases/audiences/create-audience-from-natural-language.md)
     - Percorsi {#journeys}
-      - [Creazione di percorsi utilizzando il linguaggio naturale](./chat/use-cases/journeys/create-journey-from-natural-language.md)
+      - [Creazione di un percorso utilizzando il linguaggio naturale](./chat/use-cases/journeys/create-journey-from-natural-language.md)
+      - [Creazione di un percorso da un&#39;immagine](./chat/use-cases/journeys/create-journey-from-image.md)
       - [Creazione, simulazione e analisi di percorsi cross-channel](./chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker-feature-video.md)
     - Fedeltà {#loyalty}
       - [Creare una sfida di fedeltà e approfondimenti di superficie](./chat/use-cases/journeys/create-loyalty-challenge.md)
@@ -63,6 +66,7 @@ ht-degree: 13%
     - Avvisi {#alerts}
       - [Competenze di avviso cliente](./chat/use-cases/customer-alerts/customer-alerts.md)
     - Visibilità del brand {#brand-visibility}
+      - [Creare e perfezionare una pagina di destinazione di AEM](./chat/use-cases/brand-visibility/create-and-refine-aem-landing-page.md)
       - [Verifica della conformità del marchio](./chat/use-cases/brand-visibility/brand-compliance.md)
       - [Creare pagine AEM Sites](./chat/use-cases/brand-visibility/author-web-pages.md)
       - [AEM Assets integrato](./chat/use-cases/brand-visibility/onboard-aem-assets.md)

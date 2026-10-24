@@ -10,7 +10,7 @@ jira: PLAT-302857
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: b54085a497ca4bbf0003d5837d816206a4d40396
 workflow-type: tm+mt
 source-wordcount: '1058'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Per convalidare i dati con Collaboratore, è necessario:
 
 1. Accedi a Collaboratore.
 
-1. Seleziona [!UICONTROL **Nuova chat**].
+1. Seleziona **[!UICONTROL Nuova chat]**.
 
 1. Nel campo di testo, richiedi all’agente di convalidare un campo o un set di dati. Ad esempio:
 

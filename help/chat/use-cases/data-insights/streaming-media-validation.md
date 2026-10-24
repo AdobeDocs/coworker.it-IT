@@ -1,7 +1,7 @@
 ---
 title: Convalidare l’implementazione di Streaming Media con Collaboratore
 description: Scopri in che modo l’abilità di Convalida di contenuti multimediali in streaming di Collaboratore controlla la configurazione, le sessioni e i registri per verificare che l’implementazione sia tracciata correttamente.
-source-git-commit: 4d91397c769a76fba4f0ec1c3e86938a01fe2c6a
+source-git-commit: b54085a497ca4bbf0003d5837d816206a4d40396
 workflow-type: tm+mt
 source-wordcount: '1304'
 ht-degree: 0%
@@ -65,7 +65,7 @@ Prima di usare questa abilità, tieni presente quanto segue:
 
 1. Accedi a Collaboratore.
 
-1. Seleziona [!UICONTROL **Nuova chat**].
+1. Seleziona **[!UICONTROL Nuova chat]**.
 
 1. Nel campo di testo, descrivi ciò che desideri convalidare. Ad esempio:
 

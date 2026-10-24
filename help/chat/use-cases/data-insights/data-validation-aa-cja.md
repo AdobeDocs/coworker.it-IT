@@ -11,9 +11,9 @@ jira: KT-22083
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: b54085a497ca4bbf0003d5837d816206a4d40396
 workflow-type: tm+mt
-source-wordcount: '1530'
+source-wordcount: '1528'
 ht-degree: 0%
 ---
 # Convalidare i dati con Collaboratore durante l’aggiornamento da Adobe Analytics a Customer Journey Analytics
@@ -32,7 +32,7 @@ Questa abilità confronta automaticamente:
 
 Dopo aver effettuato questi confronti, l’abilità genera informazioni basate sull’intelligenza artificiale e consigli da implementare per facilitare l’aggiornamento a Customer Journey Analytics.
 
-## Prima di iniziare
+## Prerequisiti
 
 Per convalidare i dati come parte dell’aggiornamento, è necessario:
 
@@ -48,7 +48,7 @@ Non è necessario conoscere l’architettura della tua implementazione. L’abil
 
 1. Accedi a Collaboratore.
 
-1. Seleziona [!UICONTROL **Nuova chat**].
+1. Seleziona **[!UICONTROL Nuova chat]**.
 
 1. Nel campo di testo, richiedi all’agente di convalidare l’aggiornamento da Adobe Analytics a Customer Journey Analytics:
 

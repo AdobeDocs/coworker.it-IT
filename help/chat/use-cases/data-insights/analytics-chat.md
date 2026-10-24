@@ -1,12 +1,12 @@
 ---
 title: Introduzione all’analisi dei dati con Chat per collaboratori
-description: Scopri come utilizzare Adobe CX Enterprise Coworker Chat per analizzare i dati di Customer Journey Analytics, creare funnel e individuare i punti di contatto dei clienti nel percorso.
+description: Configura Adobe CX Enterprise Coworker Chat per analizzare i dati di Customer Journey Analytics o Adobe Analytics, quindi segui un esempio che trova l’abbandono dei clienti.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: a9f620ee74eeec0f4a838b7bae7a6189226fecc3
 workflow-type: tm+mt
-source-wordcount: '2094'
+source-wordcount: '2184'
 ht-degree: 4%
 ---
 # Introduzione all’analisi dei dati con Chat per collaboratori
@@ -36,15 +36,17 @@ Prima di utilizzare Chat con collaboratori con i dati di Customer Journey Analyt
 
 Per ulteriori informazioni, consulta la [Guida dell&#39;interfaccia utente di Chat per collaboratori](/help/chat/ui-guide.md).
 
-## Verifica che Chat con i collaboratori sia connessa a Customer Journey Analytics
+## Verificare le integrazioni di Analytics
 
-In Chat con collaboratori, verifica che Coworker sia connesso a Customer Journey Analytics:
+Chat con collaboratori si connette a Customer Journey Analytics e Adobe Analytics tramite integrazioni. Prima di iniziare, assicurati che l’integrazione per il prodotto sia connessa.
 
-1. Seleziona l&#39;icona MCP nella barra a sinistra, quindi accertati che [!UICONTROL **cja-mcp**] sia disponibile nell&#39;elenco dei server MCP connessi.
+1. In Coworker, seleziona [!UICONTROL **Personalizzazioni**] nella barra a sinistra.
 
-   ![L&#39;icona MCP è evidenziata nella barra a sinistra di Collaboratore](../../assets/coworker-mcp-cja.png)
+1. Seleziona la scheda [!UICONTROL **Integrazioni**], quindi assicurati che [!UICONTROL **cja-mcp**] e [!UICONTROL **aa-mcp**] siano disponibili nell&#39;elenco dei server MCP connessi. Utilizza il campo di ricerca per filtrare rapidamente l’elenco delle integrazioni disponibili.
 
-1. (Condizionale) Se [!UICONTROL **cja-mcp**] non è ancora connesso, selezionare [!UICONTROL **Aggiungi server MCP**], specificare cja nel campo [!UICONTROL **Nome server**] e selezionarlo quando viene visualizzato, quindi selezionare [!UICONTROL **Aggiungi server**].
+   ![Scheda Integrazioni nella pagina Personalizzazioni, filtrata per visualizzare aa-mcp](assets/coworker-mcp-aa.png)
+
+1. (Condizionale) Se l&#39;integrazione non è elencata, selezionare [!UICONTROL **Aggiungi server**] per aggiungerla. Per ulteriori informazioni, vedere [Connettere i server MCP](/help/chat/ui-guide.md#connect-mcp-servers) nella guida dell&#39;interfaccia utente di Chat di Collaborator.
 
 ## Connettersi alla giusta visualizzazione dati o suite di rapporti
 
@@ -305,7 +307,7 @@ Vuoi che salvi questo come progetto in modo da poterlo tenere traccia, o che imp
 
 >[!ENDSHADEBOX]
 
-### Cos’è successo
+### Che cosa è successo
 
 In quattro semplici domande, Coworker ci ha aiutato:
 
@@ -314,17 +316,22 @@ In quattro semplici domande, Coworker ci ha aiutato:
 * Individua il problema reale al pagamento mobile e quantifica la correzione con un incremento del 35% negli acquisti
 * Approfitta di una correzione specifica per definire le priorità: pagamenti mobili e attrito tra moduli. Questo è confrontato con il tasso di conversione del 23,2% del desktop
 
-## Analizzare in Customer Journey Analytics
+## Aprire una visualizzazione in Analysis Workspace
 
-Dopo aver creato una visualizzazione, puoi aprirla in Analysis Workspace per un’analisi più approfondita e un controllo granulare. La visualizzazione si apre in un nuovo progetto Analysis Workspace in Customer Journey Analytics.
+Dopo aver creato una visualizzazione, puoi aprirla in Analysis Workspace per un’analisi più approfondita e un controllo granulare. La visualizzazione si apre in un nuovo progetto Analysis Workspace in Customer Journey Analytics o Adobe Analytics, a seconda dell’origine dei dati.
 
 Per aprire una visualizzazione in un nuovo progetto Analysis Workspace:
 
-1. Seleziona [!UICONTROL **Analizza in CJA**] accanto a qualsiasi visualizzazione creata in Coworker.
+1. Accanto a qualsiasi visualizzazione creata in Collaborator, seleziona una delle opzioni seguenti:
 
-1. Con la visualizzazione aperta in Customer Journey Analytics, puoi utilizzare l’interfaccia del browser drag-and-drop di Analysis Workspace per apportare modifiche, definire ulteriormente l’analisi, creare un pubblico e molto altro. Puoi anche condividere il tuo progetto Workspace con chi desideri.
+   * [!UICONTROL **Analizza in CJA**] una visualizzazione basata su una visualizzazione dati di Customer Journey Analytics
+   * [!UICONTROL **Analizza in Analysis Workspace**] una visualizzazione basata su una suite di rapporti Adobe Analytics
 
-   Per ulteriori informazioni su Analysis Workspace, consulta [Panoramica di Analysis Workspace](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-workspace/home).
+1. Con la visualizzazione aperta in Analysis Workspace, puoi utilizzare l’interfaccia del browser drag-and-drop per apportare modifiche, realizzare ulteriormente l’analisi e molto altro. In Customer Journey Analytics, puoi anche creare un pubblico.
+
+1. (Facoltativo) Condividi il tuo progetto Workspace con chiunque tu voglia.
+
+   Per ulteriori informazioni su Analysis Workspace, consulta [Panoramica di Analysis Workspace](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-workspace/home) nella documentazione di Customer Journey Analytics o [Panoramica di Analysis Workspace](https://experienceleague.adobe.com/it/docs/analytics/analyze/analysis-workspace/home) nella documentazione di Adobe Analytics.
 
 ## Passaggi successivi
 

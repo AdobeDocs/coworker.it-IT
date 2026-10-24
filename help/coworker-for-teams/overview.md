@@ -4,9 +4,9 @@ title: Panoramica di Adobe CX Enterprise Coworker
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: 5bc85387e83672fade431a5e8e801215429fa8c9
 workflow-type: tm+mt
-source-wordcount: '983'
+source-wordcount: '1027'
 ht-degree: 0%
 ---
 # Panoramica di Collaboratore per team {#overview}
@@ -21,7 +21,7 @@ Al momento, tutte le interazioni con l&#39;intelligenza artificiale ti indirizze
 >
 >Coworker for teams è disponibile tramite prova gratuita fino al 31 dicembre 2026. Durante la prova, tutte le risorse e l’attività sono specifiche per l’utente.
 
-1. Vai su coworker-campaigns.experience.adobe.com.
+1. Vai su coworker-teams.adobe.com.
 
 1. Se disponi già di un account Adobe, fai clic su **Accedi**. In caso contrario, fai clic su **Partecipa alla versione di prova gratuita** e crea un account utilizzando l&#39;e-mail aziendale.
 
@@ -35,7 +35,7 @@ Al momento, tutte le interazioni con l&#39;intelligenza artificiale ti indirizze
 
 1. (Facoltativo) Carica un modello di e-mail di HTML in **Modelli e-mail** affinché i team possano applicare il progetto durante la generazione del contenuto.
 
-   ![Schermata di benvenuto per la versione di prova di Collaboratore per team](./assets/overview-1.png){width="800" zoomable="yes"}
+   ![Schermata di benvenuto per la versione di prova di Collaboratore per team](./assets/overview-1.gif)
 
 Sei pronto per generare la tua prima campagna.
 
@@ -45,14 +45,49 @@ L’interfaccia di Collaboratore per team è organizzata intorno a una navigazio
 
 ![Schermata iniziale](./assets/overview-2.gif)
 
-| Menu di navigazione sinistro | Scopo |
-|---|---|
-| Nuova chat | Avvia una nuova conversazione per generare una campagna. |
-| Home | Il tuo punto di partenza: barra dei prompt, campagne recenti e modelli di campagne pronti. |
-| Chat | Ogni conversazione avviata che non è ancora stata generata in una bacheca della campagna. |
-| Campagne | Inventario di tutte le bozze e campagne live. |
-| La tua roba | I kit del tuo marchio e i modelli e-mail (le risorse utilizzate da Coworker for teams per mantenere tutto online). |
-| Personalizza | Connettori (Marketo Engage all’avvio) e Abilità (comportamenti personalizzati che puoi applicare tra le campagne). |
+<table>
+  <thead>
+    <tr>
+      <th>Menu di navigazione sinistro</th>
+      <th>Scopo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nuova chat</td>
+      <td>Avvia una nuova conversazione per generare una campagna.</td>
+    </tr>
+    <tr>
+      <td>Home</td>
+      <td>Il tuo punto di partenza: barra dei prompt, campagne recenti e modelli di campagne pronti.</td>
+    </tr>
+    <tr>
+      <td>Chat</td>
+      <td>Ogni conversazione avviata che non è ancora stata generata in una bacheca della campagna.</td>
+    </tr>
+    <tr>
+      <td>Campagne</td>
+      <td>Inventario di tutte le bozze e campagne live.</td>
+    </tr>
+    <tr>
+      <td>Elenchi di contatti</td>
+      <td>Gestisci i tuoi elenchi di pubblico e di soppressione.</td>
+    </tr>
+    <tr>
+      <td>Insight</td>
+      <td>Visualizzare le metriche in tutte le campagne attive, tracciate in un intervallo di date selezionato.</td>
+    </tr>
+    <tr>
+      <td>Contesto</td>
+      <td>Fai clic su <i>Contesto</i> per visualizzare il relativo sottomenu:<br><br>
+      <li><b>Marchi</b> - Gestisci e aggiungi i kit di marchi e imposta un valore predefinito per la tua area di lavoro.</li>
+      <li><b>Modelli e-mail</b> - Gestisci e carica modelli HTML personalizzati e comunica a Coworker quando utilizzarli.</li>
+      <li><b>Connettori</b> - Integrazioni esterne come Database e Salesforce per inserire tipi di pubblico o contesto in.</li>
+      <li><b>Abilità</b> - Istruzioni riutilizzabili per la creazione e la personalizzazione delle campagne da parte di Collaborator.</li></td>
+    </tr>
+  </tbody>
+</table>
+
 
 >[!NOTE]
 >
@@ -62,12 +97,12 @@ L’interfaccia di Collaboratore per team è organizzata intorno a una navigazio
 
 Collaboratore per team include cinque flussi di lavoro che in genere si estendono su cinque strumenti diversi in un’unica esperienza di conversazione:
 
-- **Trasforma un breve resoconto in un piano della campagna**. Rilascia un prompt o carica una descrizione e Collaboratore per team restituisce un piano strutturato end-to-end.
+- **Trasforma una breve descrizione in una strategia di campagna**. Rilascia un prompt o carica un file: Collaboratore per team restituisce una strategia iniziale per orchestrare la campagna.
 - **Crea e perfeziona tipi di pubblico**. Carica un file CSV o connetti i dati, quindi perfeziona il segmento nella conversazione.
 - **Genera contenuto nel marchio**. Coworker for teams scrive e-mail corrispondenti alla voce del brand, ai riferimenti e ai modelli.
 - **Progetta percorsi con più passaggi**. Coworker for teams assembla le sequenze di sviluppo, non solo invii singoli.
 - **Invia e-mail di prova**. Visualizza l’anteprima di ogni messaggio nella tua casella in entrata prima del lancio.
-- **Avvia e analizza**. _(Disponibile a breve)_ Invia campagne e ottieni informazioni sul passaggio successivo senza uscire da Coworker per i team.
+- **Avvia e analizza**. Invia campagne e ottieni informazioni sul passaggio migliore senza uscire da Coworker per i team.
 
 ## Come funziona l’intelligenza artificiale
 
@@ -75,7 +110,7 @@ Coworker for teams (Collaboratore per team) segue un semplice ciclo di conversaz
 
 **Input**. Puoi fornire un obiettivo della campagna, il pubblico (caricato o connesso) e il contesto del marchio facoltativo.
 
-**Elaborazione**. L’IA per l’agente di Coworker for teams genera un piano della campagna, crea un percorso e redige contenuti personalizzati. Tutti elementi che puoi aggiornare a, a livello di conversazione.
+**Elaborazione**. L’IA per l’agente di Coworker for teams genera una strategia di campagna, crea un percorso e redige contenuti personalizzati. Tutti elementi che puoi aggiornare a, a livello di conversazione.
 
 **Output**. Una bozza di campagna viene visualizzata sulla bacheca della campagna, pronta per la revisione, l’iterazione e l’eventuale lancio.
 
@@ -91,7 +126,7 @@ Alcuni elementi che gli utenti più esperti hanno scoperto e che fanno una vera 
 
 - **Inizia con un caso d&#39;uso specifico e reale**. &quot;Crea una serie di ricompense per i clienti che non hanno effettuato ordini da 90 giorni&quot; batte &quot;fammi una campagna&quot;. Vedi _Casi d&#39;uso_ per esempi specifici.
 - **Pulisci i dati del pubblico**. Collaboratore per i team può solo personalizzare, oltre a quanto consentito dal file CSV. Escludi eventuali contatti che non dovresti inviare tramite e-mail prima di caricare.
-- **Investite nella configurazione del vostro marchio**. Coworker for teams estrae i dettagli del brand al momento della registrazione. Una rapida revisione di **La tua roba** > **Marchi** offre vantaggi a ogni campagna generata.
+- **Investite nella configurazione del vostro marchio**. Coworker for teams estrae i dettagli del brand al momento della registrazione. Una rapida revisione di **Contesto** > **Marchi** offre vantaggi a ogni campagna generata.
 - **Invia un&#39;e-mail di bozza**. Prima di avviare, invia una bozza e rivedila nella tua casella in entrata.
 - **Iterazione, non riavviare**. Considera il primo output di Collaboratore per team come punto di partenza. Il percorso più veloce per raggiungere il massimo consiste in alcuni passaggi di perfezionamento, non in un nuovo messaggio.
 - **Esporta quando hai bisogno di una traccia cartacea**. Esporta singole e-mail come HTML o l’intera campagna come documento Word o PDF per la revisione del team.
