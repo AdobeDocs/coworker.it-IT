@@ -4,9 +4,9 @@ description: Chiedi a Coworker Chat i tuoi contenuti in linguaggio semplice, da 
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: b54085a497ca4bbf0003d5837d816206a4d40396
+source-git-commit: f1ffc050071fc0ca48ae36c7aea8bc66eff2a147
 workflow-type: tm+mt
-source-wordcount: '1008'
+source-wordcount: '1009'
 ht-degree: 2%
 ---
 
@@ -30,7 +30,7 @@ Per porre domande sul contenuto, è necessario:
 
 * Chat con il collaboratore connessa alle visualizzazioni dati di Customer Journey Analytics. Vedi [Introduzione all&#39;analisi dei dati con Chat di Coworker](/help/chat/use-cases/data-insights/analytics-chat.md).
 * Accesso alle visualizzazioni dati che desideri analizzare. La chat per collaboratori eredita le autorizzazioni da Customer Journey Analytics.
-* Una visualizzazione dati configurata per Content Analytics. Vedere [Configurare Content Analytics](https://experienceleague.adobe.com/it/docs/analytics-platform/using/content-analytics/configuration/configuration) nella guida di Customer Journey Analytics.
+* Una visualizzazione dati configurata per Content Analytics. Vedere [Configurare Content Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/configuration) nella guida di Customer Journey Analytics.
 
 ## Fai una domanda sui contenuti
 
@@ -52,7 +52,7 @@ Per porre domande sul contenuto, è necessario:
 
 1. Esamina i risultati.
 
-1. (Facoltativo) Fai domande di follow-up nella stessa conversazione per approfondire o apri una visualizzazione in Analysis Workspace per un controllo più manuale. Vedi [Analizza in Customer Journey Analytics](/help/chat/use-cases/data-insights/analytics-chat.md#analyze-in-customer-journey-analytics).
+1. (Facoltativo) Fai domande di follow-up nella stessa conversazione per approfondire o apri una visualizzazione in Analysis Workspace per un controllo più manuale. Vedi [Aprire una visualizzazione in Analysis Workspace](/help/chat/use-cases/data-insights/analytics-chat.md#open-a-visualization-in-analysis-workspace).
 
 ## Esempi di prompt
 
@@ -93,11 +93,11 @@ L’abilità comprende come sono strutturati i dati di Content Analytics. Ad ese
 * **ID esperienza:** quando chiedi informazioni su una pagina specifica, l&#39;abilità filtra in base al Content Experience ID che identifica tale pagina.
 * **Attributi generati dall&#39;intelligenza artificiale:** ogni risorsa ed esperienza è descritta da attributi quali lo stile della fotografia, i colori, il tono e la strategia di persuasione. L’abilità utilizza questi attributi per spiegare perché il contenuto funziona bene, non solo quale contenuto funziona bene.
 
-Per l&#39;elenco completo dei componenti, vedere [Componenti Content Analytics](https://experienceleague.adobe.com/it/docs/analytics-platform/using/content-analytics/report/components) nella guida di Customer Journey Analytics.
+Per l&#39;elenco completo dei componenti, vedere [Componenti Content Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/report/components) nella guida di Customer Journey Analytics.
 
 ### Attribuzione
 
-L’abilità sceglie il modello di attribuzione adatto alla tua domanda. Ad esempio, a una domanda sui clic su un’immagine viene risposto in modo diverso rispetto a una domanda sulla quantità di ricavi a cui ha contribuito quell’immagine. Per ulteriori informazioni, vedere [Modelli di attribuzione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-workspace/attribution/models#attribution-models) nella guida di Customer Journey Analytics.
+L’abilità sceglie il modello di attribuzione adatto alla tua domanda. Ad esempio, a una domanda sui clic su un’immagine viene risposto in modo diverso rispetto a una domanda sulla quantità di ricavi a cui ha contribuito quell’immagine. Per ulteriori informazioni, vedere [Modelli di attribuzione](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/attribution/models#attribution-models) nella guida di Customer Journey Analytics.
 
 ### Analisi e flussi di lavoro comuni
 

@@ -1,10 +1,10 @@
 ---
-title: Analizzare i dati di Customer Journey Analytics con la chat del collaboratore
-description: Scopri come utilizzare Adobe CX Enterprise Coworker Chat per analizzare i dati di Customer Journey Analytics, creare funnel e individuare i punti di contatto dei clienti nel percorso.
+title: Analizzare i dati di Analytics con Adobe CX Enterprise Coworker Chat
+description: Utilizza Adobe CX Enterprise Coworker Chat per analizzare i dati di Customer Journey Analytics e Adobe Analytics, trovare le cause principali e aprire i risultati in Analysis Workspace.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: b54085a497ca4bbf0003d5837d816206a4d40396
+source-git-commit: f1ffc050071fc0ca48ae36c7aea8bc66eff2a147
 workflow-type: tm+mt
 source-wordcount: '1358'
 ht-degree: 1%
@@ -22,7 +22,7 @@ Chat con i collaboratori può eseguire analisi avanzate dei dati che in preceden
 
 La chat per collaboratori eredita le autorizzazioni da Customer Journey Analytics o Adobe Analytics. Puoi accedere solo alle visualizzazioni dati, alle suite di rapporti, alle dimensioni, alle metriche e ai segmenti disponibili in Analysis Workspace.
 
-Quando crei una visualizzazione nella chat di Coworker, puoi aprirla in Analysis Workspace in qualsiasi momento per un controllo più manuale. Vedi [Analizza in Customer Journey Analytics](/help/chat/use-cases/data-insights/analytics-chat.md#analyze-in-customer-journey-analytics).
+Quando crei una visualizzazione nella chat di Coworker, puoi aprirla in Analysis Workspace in qualsiasi momento per un controllo più manuale. Vedi [Aprire una visualizzazione in Analysis Workspace](/help/chat/use-cases/data-insights/analytics-chat.md#open-a-visualization-in-analysis-workspace).
 
 ## Risposte rapide e un lavoro approfondito
 
