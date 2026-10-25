@@ -1,15 +1,15 @@
 ---
-description: Scopri Adobe CX Enterprise Coworker for teams, un’applicazione di marketing nativa per l’intelligenza artificiale che trasforma un singolo prompt in una campagna pronta per la revisione.
-title: Panoramica di Adobe CX Enterprise Coworker
+description: Esplora Adobe CX Enterprise Coworker for teams. Accedi alla versione di prova gratuita, visita l’interfaccia, genera campagne a livello di conversazione e rivedi i dettagli della versione di prova.
+title: Panoramica di Adobe CX Enterprise Coworker for teams
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5bc85387e83672fade431a5e8e801215429fa8c9
+source-git-commit: 6e7f80445232b5762eb93b82a604d8036c5a78e1
 workflow-type: tm+mt
-source-wordcount: '1027'
+source-wordcount: '1082'
 ht-degree: 0%
 ---
-# Panoramica di Collaboratore per team {#overview}
+# Panoramica di Adobe CX Enterprise Coworker for teams {#overview}
 
 Coworker for teams è progettato per le organizzazioni più piccole con team di marketing più agili che necessitano di generazione di contenuti, creazione di percorsi e analisi in un unico strumento.
 
@@ -19,7 +19,7 @@ Al momento, tutte le interazioni con l&#39;intelligenza artificiale ti indirizze
 
 >[!NOTE]
 >
->Coworker for teams è disponibile tramite prova gratuita fino al 31 dicembre 2026. Durante la prova, tutte le risorse e l’attività sono specifiche per l’utente.
+>Coworker for teams è disponibile tramite prova gratuita fino al 31 dicembre 2026. Durante la prova, tutte le risorse e le attività sono specifiche dell’utente.
 
 1. Vai su coworker-teams.adobe.com.
 
@@ -80,14 +80,15 @@ L’interfaccia di Collaboratore per team è organizzata intorno a una navigazio
     <tr>
       <td>Contesto</td>
       <td>Fai clic su <i>Contesto</i> per visualizzare il relativo sottomenu:<br><br>
+      <ul>
       <li><b>Marchi</b> - Gestisci e aggiungi i kit di marchi e imposta un valore predefinito per la tua area di lavoro.</li>
-      <li><b>Modelli e-mail</b> - Gestisci e carica modelli HTML personalizzati e comunica a Coworker quando utilizzarli.</li>
+      <li><b>Modelli e-mail</b> - Gestisci e carica modelli HTML personalizzati e comunica a Coworker per i team quando utilizzarli.</li>
       <li><b>Connettori</b> - Integrazioni esterne come Database e Salesforce per inserire tipi di pubblico o contesto in.</li>
-      <li><b>Abilità</b> - Istruzioni riutilizzabili per la creazione e la personalizzazione delle campagne da parte di Collaborator.</li></td>
+      <li><b>Abilità</b> - Istruzioni riutilizzabili per la creazione e la personalizzazione delle campagne da parte di Collaborator.</li>
+      </ul></td>
     </tr>
   </tbody>
 </table>
-
 
 >[!NOTE]
 >
@@ -108,11 +109,11 @@ Collaboratore per team include cinque flussi di lavoro che in genere si estendon
 
 Coworker for teams (Collaboratore per team) segue un semplice ciclo di conversazioni a più turni:
 
-**Input**. Puoi fornire un obiettivo della campagna, il pubblico (caricato o connesso) e il contesto del marchio facoltativo.
+**Input**: fornisci un obiettivo della campagna, il tuo pubblico (caricato o connesso) e un contesto di marchio facoltativo.
 
-**Elaborazione**. L’IA per l’agente di Coworker for teams genera una strategia di campagna, crea un percorso e redige contenuti personalizzati. Tutti elementi che puoi aggiornare a, a livello di conversazione.
+**Elaborazione**: l&#39;IA per l&#39;agente di Collaboratore per team genera una strategia di campagna, crea un percorso e crea contenuti personalizzati, che puoi aggiornare conversativamente.
 
-**Output**. Una bozza di campagna viene visualizzata sulla bacheca della campagna, pronta per la revisione, l’iterazione e l’eventuale lancio.
+**Output**: sulla bacheca della campagna viene visualizzata una bozza di campagna pronta per la revisione, l&#39;iterazione e l&#39;eventuale lancio.
 
 Puoi parlare con Coworker per i team in qualsiasi momento (ad esempio, &quot;rendere la seconda e-mail più urgente&quot;, &quot;abbreviare l’oggetto&quot; o &quot;scambiare il pubblico con clienti inattivi dal terzo trimestre&quot;) e aggiornerà gli artefatti sul posto.
 
@@ -124,29 +125,28 @@ Puoi parlare con Coworker per i team in qualsiasi momento (ad esempio, &quot;ren
 
 Alcuni elementi che gli utenti più esperti hanno scoperto e che fanno una vera differenza:
 
-- **Inizia con un caso d&#39;uso specifico e reale**. &quot;Crea una serie di ricompense per i clienti che non hanno effettuato ordini da 90 giorni&quot; batte &quot;fammi una campagna&quot;. Vedi _Casi d&#39;uso_ per esempi specifici.
+- **Inizia con un caso d&#39;uso specifico e reale**. &quot;Crea una serie di ricompense per i clienti che non hanno effettuato ordini da 90 giorni&quot; batte &quot;fammi una campagna&quot;. Vedi [Casi d&#39;uso](/help/coworker-for-teams/use-cases.md) per esempi specifici.
 - **Pulisci i dati del pubblico**. Collaboratore per i team può solo personalizzare, oltre a quanto consentito dal file CSV. Escludi eventuali contatti che non dovresti inviare tramite e-mail prima di caricare.
 - **Investite nella configurazione del vostro marchio**. Coworker for teams estrae i dettagli del brand al momento della registrazione. Una rapida revisione di **Contesto** > **Marchi** offre vantaggi a ogni campagna generata.
 - **Invia un&#39;e-mail di bozza**. Prima di avviare, invia una bozza e rivedila nella tua casella in entrata.
 - **Iterazione, non riavviare**. Considera il primo output di Collaboratore per team come punto di partenza. Il percorso più veloce per raggiungere il massimo consiste in alcuni passaggi di perfezionamento, non in un nuovo messaggio.
 - **Esporta quando hai bisogno di una traccia cartacea**. Esporta singole e-mail come HTML o l’intera campagna come documento Word o PDF per la revisione del team.
-- **Chiave di escape**. Premi il tasto Esc ogni volta che ti trovi in un editor o in una finestra di dialogo di Campaigns Collaborator (campagne, percorso, ecc.) per uscire rapidamente.
+- **Chiave di escape**. Premi il tasto Esc ogni volta che ti trovi in un editor o in una finestra di dialogo di Collaboratore per team (campagne, percorso, ecc.) per uscire rapidamente.
 
 ## Cosa bisogna sapere sul processo
 
 Collaboratore per team è un prodotto in fase di sviluppo attivo. Ecco cosa bisogna sapere in corso:
 
 - **Finestra di prova**: ora fino al 31 dicembre 2026.
-- **Accettazione richiesta**: prima di accedere al prodotto è necessario rivedere e accettare i termini della versione di valutazione.
+- **Accettazione richiesta**: è necessario rivedere e accettare i termini di prova prima di accedere al prodotto. È necessario un indirizzo e-mail aziendale valido.
 - **Regione**: la versione di prova gratuita è attualmente disponibile solo per gli utenti del Nord America.
-- **Tipi di pubblico**: i tipi di pubblico vengono caricati tramite CSV. Tutti i tipi di pubblico sono specifici per le rispettive campagne (al momento non vengono memorizzati in nessun altro punto dell’ambiente).
+- **Tipi di pubblico**: i tipi di pubblico vengono caricati tramite CSV. Tutti i tipi di pubblico sono specifici per le rispettive campagne (al momento non vengono memorizzati in nessun altro punto dell’ambiente). Se non disponi di un pubblico al momento della creazione della campagna, puoi chiedere a Collaboratore quali team generare un pubblico di esempio in modo da poter continuare a creare la campagna.
 - **Linee guida per i dati**: non caricare dati sensibili o regolamentati. Coworker for teams non è attualmente destinato alle industrie regolamentate da HIPAA.
 - **Conformità**: sei responsabile delle seguenti normative e-mail (collegamenti per annullare l&#39;abbonamento, politiche sulla privacy, ecc.).
-- **Limite di invio**: (_In arrivo_) Quando Launch è disponibile, puoi inviare fino a 5.000 e-mail al mese.
+- **Limite di invio**: puoi inviare fino a 5.000 e-mail al mese. Se hai bisogno di aumentare questo limite, contatta il team di prodotto tramite il menu **Guida e feedback** in basso a sinistra dello schermo.
 
-## Panoramica video
+![Menu Guida e feedback](./assets/overview-3.png)
 
->[!VIDEO](https://video.tv.adobe.com/v/3492813?captions=ita&learn=on){transcript=true}
+## Feedback
 
-
-Durante la prova verranno fornite nuove funzionalità. Il tuo feedback aiuta a definire i prossimi sviluppi. Invia un feedback facendo clic sull’icona del feedback nel prodotto nell’intestazione.
+Nuove funzionalità vengono fornite durante la prova. Il tuo feedback aiuta a definire i prossimi sviluppi. Invia feedback tramite **Guida e feedback**.
