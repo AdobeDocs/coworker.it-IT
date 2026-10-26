@@ -1,13 +1,13 @@
 ---
-description: Scopri come aprire Chat con collaboratori, impostare l’organizzazione e la sandbox, inviare il primo messaggio e personalizzare abilità, server MCP e memoria. Avvia una conversazione in pochi minuti.
+description: Scopri come aprire Chat con collaboratori, impostare l’organizzazione e la sandbox, inviare il primo messaggio e personalizzare abilità, server di integrazione e memoria.
 title: Introduzione alla chat con i collaboratori
 jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: b91e8dcdacf57bdbc4fb6cf7d6fe92920e7fbb6e
+source-git-commit: fe2c27fd27bfebe17f31078cea769e6a1e4c71f1
 workflow-type: tm+mt
-source-wordcount: '1765'
+source-wordcount: '1903'
 ht-degree: 2%
 ---
 # Introduzione alla chat con i collaboratori {#ui-guide}
@@ -43,7 +43,7 @@ Per utilizzare l&#39;esperienza coinvolgente, accedi con le tue credenziali Adob
 
 ## Video: nozioni di base dell&#39;interfaccia chat di [!DNL Coworker]
 
->[!VIDEO](https://video.tv.adobe.com/v/3498573?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Scegli la tua organizzazione
 
@@ -148,7 +148,7 @@ La vista Trascrizione controlla la quantità di ragionamento e di attività degl
 1. Fare clic su **[!UICONTROL Vista trascrizione]** nella barra degli strumenti di input.
 1. Fare clic su una visualizzazione:
 
-   | Visualizzazione | Cosa vedi |
+   | Visualizza | Cosa vedi |
    | --- | --- |
    | **[!UICONTROL Normale]** | Riepilogo dei passaggi di pensiero chiave e dell’attività dello strumento. |
    | **[!UICONTROL Attiva]** | Principalmente la risposta. Chat con i collaboratori nasconde la maggior parte dei passaggi intermedi. |
@@ -229,13 +229,28 @@ Utilizza l’interruttore di visualizzazione per passare da un layout a griglia 
 
    ![Visualizzatore SKILL.md](./assets/ui-guide-14.png)
 
-### Connessione dei server MCP
+### Connetti un server
 
-I server MCP (Model Context Protocol) collegano Chat collaboratore a strumenti e servizi esterni, come Adobe Journey Optimizer, Real-Time CDP, Target e Workfront. Nella scheda **[!UICONTROL Server MCP]** sono elencati i server connessi e il numero di connessioni attive. Ogni scheda mostra il nome del server, il relativo endpoint e i tag che descrivono ciò che fornisce.
+L’integrazione Server a collega Chat con Coworker a strumenti e servizi esterni, come Adobe Journey Optimizer, Real-Time CDP, Target e Workfront. Nella scheda **[!UICONTROL Personalizzazioni]** > **[!UICONTROL Utente]** > **[!UICONTROL Integrazioni]** sono elencati i server connessi e il numero di connessioni attive. Ogni scheda mostra il nome del server, il relativo endpoint e i tag che descrivono ciò che fornisce.
 
-Per connettere un server, fare clic su **[!UICONTROL Aggiungi server]** e seguire le istruzioni.
+1. Passa a **[!UICONTROL Personalizzazioni]** > **[!UICONTROL Utente]** > **[!UICONTROL Integrazioni]**
 
-![Scheda Server MCP](./assets/ui-guide-15.png)
+   ![Scheda Server](./assets/get-started-customizations.png)
+
+1. In Personalizzazioni, fare clic su **[!UICONTROL Aggiungi server]**.
+
+   ![Aggiungi integrazioni](./assets/get-started-add-integrations.png)
+
+1. Completa i campi e le opzioni seguenti:
+
+   * **[!UICONTROL Nome server]** (obbligatorio): immettere un nome che identifichi il server nell&#39;elenco delle integrazioni, ad esempio `github` o `slack`.
+   * **[!UICONTROL URL Source o comando]** (obbligatorio): immettere l&#39;indirizzo a cui si connette Chat collaboratore, ad esempio `https://mcp.example.com/sse`.
+   * **[!UICONTROL Tipo di connessione]**: selezionare il protocollo utilizzato dal server per comunicare con Chat di Coworker, **[!UICONTROL SSE]** (eventi inviati dal server) o **[!UICONTROL HTTP]**. Il valore predefinito è **[!UICONTROL SSE]**.
+   * **[!UICONTROL Timeout strumento (secondi)]**: impostare il tempo di attesa della risposta di uno strumento sul server prima che venga interrotta la richiesta. Il valore predefinito è 60 secondi.
+   * **[!UICONTROL Autenticazione]**: selezionare il modo in cui Chat di Coworker dimostra la propria identità al server. Il valore predefinito è **[!UICONTROL None]**, che non invia credenziali. Selezionare un altro metodo se il server richiede le credenziali.
+   * **[!UICONTROL Intestazioni]**: fai clic su **[!UICONTROL Aggiungi intestazione]** per inviare al server intestazioni HTTP aggiuntive, ad esempio una chiave API. Questa opzione è facoltativa.
+
+1. Fai clic su **[!UICONTROL Aggiungi]**.
 
 ### Aggiungere un marketplace
 
@@ -245,7 +260,7 @@ Un marketplace è un registro di plug-in da cui è possibile sfogliare e install
 
 ### Gestire i plug-in
 
-Un plug-in riunisce le competenze e i server MCP in modo da poterli installare e gestire insieme. La scheda **[!UICONTROL Plug-in]** mostra i plug-in installati.
+Un plug-in riunisce competenze e server per consentirti di installarli e gestirli insieme. La scheda **[!UICONTROL Plug-in]** mostra i plug-in installati.
 
 * Fai clic su **[!UICONTROL Sfoglia Marketplace]** per trovare nuovi plug-in.
 * Filtra per marketplace per vedere da dove proviene ogni plug-in.
