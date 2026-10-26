@@ -34,7 +34,7 @@ La tabella seguente mostra dove è disponibile ogni esperienza.
 
 Accedi a [!DNL Coworker] utilizzando le tue credenziali Adobe.
 
-1. [Accedi](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise) a CX Enterprise utilizzando il tuo Adobe ID.
+1. [Accedi](https://experienceleague.adobe.com/it/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise) a CX Enterprise utilizzando il tuo Adobe ID.
 
    Dopo aver effettuato l&#39;accesso, è possibile aprire [!DNL Coworker] dal menu dell&#39;applicazione [!DNL CX Enterprise] o utilizzando un collegamento diretto:
 
@@ -57,7 +57,7 @@ In basso a sinistra nell’interfaccia, puoi specificare opzioni e preferenze ch
 | Impostazione/opzione | Utilizzala per |
 | --- | --- |
 | Nome e indirizzo e-mail dell’account | Conferma l’account Adobe con cui hai effettuato l’accesso. |
-| **[!UICONTROL Notifiche]** (icona a forma di campana) | Visualizza le [notifiche](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences#subscribe-to-notifications-in-experience-cloud). |
+| **[!UICONTROL Notifiche]** (icona a forma di campana) | Visualizza le [notifiche](https://experienceleague.adobe.com/it/docs/core-services/interface/features/account-preferences#subscribe-to-notifications-in-experience-cloud). |
 | **[!UICONTROL Tema]** | Passa dai temi Chiaro a Scuro. |
 | **[!UICONTROL Impostazioni app]** | Visualizza i dettagli dell’account e le impostazioni dell’area di lavoro. |
 | **[!UICONTROL Preferenze]** | Apri il tuo account [preferenze](https://experienceleague.adobe.com/it/docs/core-services/interface/features/account-preferences). La freccia indica che la pagina si apre all’esterno di Collaboratore. |
