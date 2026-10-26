@@ -1,12 +1,12 @@
 ---
-description: Descrizione
+description: Scopri come collegare i team di Coworker for al tuo account Salesforce per accedere ai lead e ai contatti.
 title: Connetti a Salesforce
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: a0a02aaf4048f13954a1018499204cab05c27023
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '240'
 ht-degree: 0%
 ---
 # Connetti a Salesforce {#salesforce}
