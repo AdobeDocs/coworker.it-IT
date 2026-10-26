@@ -46,7 +46,7 @@ Accedi a [!DNL Coworker] utilizzando le tue credenziali Adobe.
 
 ## Scopri le nozioni di base di Chat con i collaboratori
 
->[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498573?captions=ita&learn=on)
 
 ## Specificare le preferenze del collaboratore {#preferences}
 
