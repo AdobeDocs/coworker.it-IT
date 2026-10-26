@@ -4,9 +4,9 @@ title: Creare una campagna e-mail
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: f25492704c73fc42d54bf44aa8d59ab73f811f1b
+source-git-commit: bf3751af83dd8d40021fb2459743aec66c53209c
 workflow-type: tm+mt
-source-wordcount: '933'
+source-wordcount: '935'
 ht-degree: 0%
 ---
 # Creare una campagna e-mail {#create-an-email-campaign}
@@ -80,15 +80,13 @@ Quando il prompt è pronto, fare clic su **Genera campagna**. Collaboratore per 
 
 I tipi di pubblico vengono caricati tramite CSV. Tutti i tipi di pubblico sono specifici per le rispettive campagne (al momento non vengono memorizzati in nessun altro punto dell’ambiente).
 
-1. Dopo aver inviato la richiesta, controlla le attività che verranno eseguite da Collaborator e fai clic su **Genera**.
+1. Dopo aver inviato la richiesta, Collaboratore per team (in genere) genera un pubblico di esempio per te. In caso contrario, viene richiesto di importare un pubblico.
 
-1. Nel riquadro _Conversione campagna_ a sinistra, fai clic su **Carica CSV**.
-
-   ![](./assets/create-an-email-campaign-3.png)
+1. Importa il tuo pubblico caricando un file CSV o importando i dati da un connettore disponibile.
 
    >[!NOTE]
    >
-   >* L’indirizzo e-mail è un campo obbligatorio, il nome, la data dell’ultimo acquisto e tutti gli altri campi che possono essere utilizzati per la personalizzazione sono consigliati.
+   >Mentre Collaboratore per team consente di procedere con la creazione della campagna utilizzando un pubblico di esempio, è necessario aggiungere un pubblico reale per avviare la campagna.
 
 1. Importa il file CSV.
 
@@ -132,9 +130,9 @@ Prima del lancio, invia la campagna a te stesso in modo da poterla esaminare in 
 
 ![](./assets/create-an-email-campaign-6.png)
 
-## Passaggio 6: passaggi successivi
+## Passaggio 6: avviare la campagna
 
-La funzionalità Launch (invio della campagna e-mail) sarà presto disponibile. Fino ad allora, puoi esaminare i contenuti con il tuo team e iniziare la campagna successiva.
+Ora puoi [avviare la tua campagna](/help/coworker-for-teams/launch-manage-campaign.md#launch-a-campaign).
 
 ## Domande frequenti
 
