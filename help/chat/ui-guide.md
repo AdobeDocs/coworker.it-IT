@@ -5,9 +5,9 @@ jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: d2526c349e6015d754e3379d7208e0e24fa23dd1
+source-git-commit: 6f3146fafcfd39c349f43f961e065b86ed304421
 workflow-type: tm+mt
-source-wordcount: '2061'
+source-wordcount: '2088'
 ht-degree: 3%
 ---
 # Introduzione alla chat con i collaboratori {#ui-guide}
@@ -34,7 +34,7 @@ La tabella seguente mostra dove è disponibile ogni esperienza.
 
 Accedi a [!DNL Coworker] utilizzando le tue credenziali Adobe.
 
-1. [Accedi](https://experienceleague.adobe.com/it/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise) a CX Enterprise utilizzando il tuo Adobe ID.
+1. [Accedi](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise) a CX Enterprise utilizzando il tuo Adobe ID.
 
    Dopo aver effettuato l&#39;accesso, è possibile aprire [!DNL Coworker] dal menu dell&#39;applicazione [!DNL CX Enterprise] o utilizzando un collegamento diretto:
 
@@ -46,7 +46,7 @@ Accedi a [!DNL Coworker] utilizzando le tue credenziali Adobe.
 
 ## Scopri le nozioni di base di Chat con i collaboratori
 
->[!VIDEO](https://video.tv.adobe.com/v/3498573?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Specificare le preferenze del collaboratore {#preferences}
 
@@ -57,7 +57,7 @@ In basso a sinistra nell’interfaccia, puoi specificare opzioni e preferenze ch
 | Impostazione/opzione | Utilizzala per |
 | --- | --- |
 | Nome e indirizzo e-mail dell’account | Conferma l’account Adobe con cui hai effettuato l’accesso. |
-| **[!UICONTROL Notifiche]** (icona a forma di campana) | Visualizza le [notifiche](https://experienceleague.adobe.com/it/docs/core-services/interface/features/account-preferences#subscribe-to-notifications-in-experience-cloud). |
+| **[!UICONTROL Notifiche]** (icona a forma di campana) | Visualizza le [notifiche](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences#subscribe-to-notifications-in-experience-cloud). |
 | **[!UICONTROL Tema]** | Passa dai temi Chiaro a Scuro. |
 | **[!UICONTROL Impostazioni app]** | Visualizza i dettagli dell’account e le impostazioni dell’area di lavoro. |
 | **[!UICONTROL Preferenze]** | Apri il tuo account [preferenze](https://experienceleague.adobe.com/it/docs/core-services/interface/features/account-preferences). La freccia indica che la pagina si apre all’esterno di Collaboratore. |
@@ -86,7 +86,7 @@ Dalla barra di navigazione, le seguenti funzioni consentono di chattare con Cust
 | **[!UICONTROL Home]** | Tornate al saluto, alla casella di input e ai prompt suggeriti. |
 | **[!UICONTROL Chat]** | Cerca, blocca, archivia o elimina le conversazioni passate. |
 | **[!UICONTROL Artefatti]** | Apri gli artefatti creati da Chat collaboratore nelle conversazioni. |
-| **[!UICONTROL Contesto esperienza]** | <!-- TODO: describe Experience Context --> |
+| **[!UICONTROL Contesto esperienza]** | Connetti Coworker alle tue applicazioni Adobe esistenti (come Marketo Engage) e ad altri sistemi aziendali, in modo che possa accedere e ragionare su tutti i dati rilevanti di clienti e account. |
 | **[!UICONTROL Personalizzazioni]** | Gestisci competenze, integrazioni, marketplace, plug-in e memoria. |
 | **[!UICONTROL Recenti]** | Apri le ultime conversazioni. Fare clic su **[!UICONTROL Visualizza tutto]** per aprire la pagina Chat. |
 | **[!UICONTROL Bloccato]** | Conversazioni aperte che hai interpretato. Fai clic su **[!UICONTROL Visualizza tutti]** per visualizzarli nella pagina Chat. |
