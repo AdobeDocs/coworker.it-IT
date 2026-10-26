@@ -43,7 +43,7 @@ Per utilizzare l&#39;esperienza coinvolgente, accedi con le tue credenziali Adob
 
 ## Video: nozioni di base dell&#39;interfaccia chat di [!DNL Coworker]
 
->[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498573?captions=ita&learn=on)
 
 ## Scegli la tua organizzazione
 
