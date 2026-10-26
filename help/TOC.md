@@ -6,10 +6,10 @@ description: Scopri gli strumenti di intelligenza artificiale in CX Enterprise. 
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 6ccaaf8cd5976c21119d800ada44101b11c65eb6
+source-git-commit: 43080128c8b3eeaa712334c3fff2fa89c157efea
 workflow-type: tm+mt
-source-wordcount: '309'
-ht-degree: 13%
+source-wordcount: '312'
+ht-degree: 14%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -65,6 +65,8 @@ ht-degree: 13%
       - [Competenze degli agenti di gestione degli strumenti sandbox](./chat/use-cases/sandbox-tooling/sandbox-tooling.md)
     - Avvisi {#alerts}
       - [Competenze di avviso cliente](./chat/use-cases/customer-alerts/customer-alerts.md)
+    - Notifiche {#notifications}
+      - [Competenze di notifica](./chat/use-cases/notifications/notification-skills.md)
     - Visibilità del brand {#brand-visibility}
       - [Creare e perfezionare una pagina di destinazione di AEM](./chat/use-cases/brand-visibility/create-and-refine-aem-landing-page.md)
       - [Verifica della conformità del marchio](./chat/use-cases/brand-visibility/brand-compliance.md)
