@@ -4,16 +4,16 @@ description: Configura Adobe CX Enterprise Coworker Chat per analizzare i dati d
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: a9f620ee74eeec0f4a838b7bae7a6189226fecc3
+source-git-commit: d611ce2398cba72cf21c766f3b25225765c1675b
 workflow-type: tm+mt
-source-wordcount: '2184'
+source-wordcount: '2182'
 ht-degree: 4%
 ---
 # Introduzione all’analisi dei dati con Chat per collaboratori
 
 Configura Adobe CX Enterprise Coworker Chat per analizzare le visualizzazioni dati di Customer Journey Analytics o le suite di rapporti di Adobe Analytics, quindi segui un esempio funzionante. Per una panoramica delle operazioni che è possibile eseguire con Chat con Coworker, inclusi casi d&#39;uso, competenze e best practice, consulta [Analizzare i dati con Chat con Coworker](/help/chat/use-cases/data-insights/analytics-overview.md).
 
-Prima di iniziare, scopri l’interfaccia e le opzioni di configurazione di Chat per collaboratori, quindi assicurati che Cooker sia connesso a Customer Journey Analytics o Adobe Analytics e alle relative visualizzazioni dati o suite di rapporti.
+Prima di iniziare, scopri l’interfaccia e le opzioni di personalizzazione di Chat con Collaboratore, quindi assicurati che sia connesso a Customer Journey Analytics o Adobe Analytics e alle relative visualizzazioni dati o suite di rapporti.
 
 ## Prima di iniziare
 
@@ -28,7 +28,7 @@ Prima di utilizzare Chat con collaboratori con i dati di Customer Journey Analyt
 * Input chat
 * Conversazioni
 * Marketplace
-* Server MCP
+* Server di integrazione
 * Memoria
 * Plug-in
 * Competenze
@@ -42,11 +42,15 @@ Chat con collaboratori si connette a Customer Journey Analytics e Adobe Analytic
 
 1. In Coworker, seleziona [!UICONTROL **Personalizzazioni**] nella barra a sinistra.
 
-1. Seleziona la scheda [!UICONTROL **Integrazioni**], quindi assicurati che [!UICONTROL **cja-mcp**] e [!UICONTROL **aa-mcp**] siano disponibili nell&#39;elenco dei server MCP connessi. Utilizza il campo di ricerca per filtrare rapidamente l’elenco delle integrazioni disponibili.
+1. Seleziona la scheda [!UICONTROL **Integrazioni**], quindi assicurati che [!UICONTROL **cja-mcp**] e [!UICONTROL **aa-mcp**] siano disponibili nell&#39;elenco dei server connessi.
+
+   Utilizza il campo di ricerca per filtrare rapidamente l’elenco delle integrazioni disponibili.
 
    ![Scheda Integrazioni nella pagina Personalizzazioni, filtrata per visualizzare aa-mcp](assets/coworker-mcp-aa.png)
 
-1. (Condizionale) Se l&#39;integrazione non è elencata, selezionare [!UICONTROL **Aggiungi server**] per aggiungerla. Per ulteriori informazioni, vedere [Connettere i server MCP](/help/chat/ui-guide.md#connect-mcp-servers) nella guida dell&#39;interfaccia utente di Chat di Collaborator.
+1. (Condizionale) Se l&#39;integrazione non è elencata, selezionare [!UICONTROL **Aggiungi server**] per aggiungerla.
+
+   Per ulteriori informazioni, vedere [Connettere un server](/help/chat/ui-guide.md#server) nella guida introduttiva.
 
 ## Connettersi alla giusta visualizzazione dati o suite di rapporti
 
@@ -331,7 +335,7 @@ Per aprire una visualizzazione in un nuovo progetto Analysis Workspace:
 
 1. (Facoltativo) Condividi il tuo progetto Workspace con chiunque tu voglia.
 
-   Per ulteriori informazioni su Analysis Workspace, consulta [Panoramica di Analysis Workspace](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-workspace/home) nella documentazione di Customer Journey Analytics o [Panoramica di Analysis Workspace](https://experienceleague.adobe.com/it/docs/analytics/analyze/analysis-workspace/home) nella documentazione di Adobe Analytics.
+   Per ulteriori informazioni su Analysis Workspace, consulta [Panoramica di Analysis Workspace](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-workspace/home) nella documentazione di Customer Journey Analytics o [Panoramica di Analysis Workspace](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/home) nella documentazione di Adobe Analytics.
 
 ## Passaggi successivi
 

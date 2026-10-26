@@ -5,9 +5,9 @@ jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: fe2c27fd27bfebe17f31078cea769e6a1e4c71f1
+source-git-commit: d611ce2398cba72cf21c766f3b25225765c1675b
 workflow-type: tm+mt
-source-wordcount: '1903'
+source-wordcount: '1902'
 ht-degree: 2%
 ---
 # Introduzione alla chat con i collaboratori {#ui-guide}
@@ -43,7 +43,7 @@ Per utilizzare l&#39;esperienza coinvolgente, accedi con le tue credenziali Adob
 
 ## Video: nozioni di base dell&#39;interfaccia chat di [!DNL Coworker]
 
->[!VIDEO](https://video.tv.adobe.com/v/3498573?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Scegli la tua organizzazione
 
@@ -82,7 +82,7 @@ Utilizza la barra di navigazione per spostarti tra le parti del prodotto e torna
 | **[!UICONTROL Nuova chat]** | Inizia una conversazione. Chat collaboratore consente di salvare la chat corrente nella cronologia. |
 | **[!UICONTROL Home]** | Tornate al saluto, alla casella di input e ai prompt suggeriti. |
 | **[!UICONTROL Chat]** | Cerca, blocca, archivia o elimina le conversazioni passate. |
-| **[!UICONTROL Configurazioni]** | Gestisci competenze, server MCP, marketplace, plug-in e memoria. |
+| **[!UICONTROL Personalizzazioni]** | Gestisci competenze, integrazioni, marketplace, plug-in e memoria. |
 | **[!UICONTROL Bloccato]** | Conversazioni aperte che hai interpretato. Fai clic su **[!UICONTROL Visualizza tutti]** per visualizzarli nella pagina Chat. |
 | **[!UICONTROL Recenti]** | Apri le ultime conversazioni. Fare clic su **[!UICONTROL Visualizza tutto]** per aprire la pagina Chat. |
 
@@ -229,7 +229,7 @@ Utilizza l’interruttore di visualizzazione per passare da un layout a griglia 
 
    ![Visualizzatore SKILL.md](./assets/ui-guide-14.png)
 
-### Connetti un server
+### Connetti un server {#server}
 
 L’integrazione Server a collega Chat con Coworker a strumenti e servizi esterni, come Adobe Journey Optimizer, Real-Time CDP, Target e Workfront. Nella scheda **[!UICONTROL Personalizzazioni]** > **[!UICONTROL Utente]** > **[!UICONTROL Integrazioni]** sono elencati i server connessi e il numero di connessioni attive. Ogni scheda mostra il nome del server, il relativo endpoint e i tag che descrivono ciò che fornisce.
 
@@ -272,7 +272,7 @@ Un plug-in riunisce competenze e server per consentirti di installarli e gestirl
 
 La memoria consente a Chat collaboratore di ricordare le tue preferenze nelle conversazioni, in modo che le risposte rimangano pertinenti nel tempo. Utilizza la scheda **[!UICONTROL Memoria]** per controllare ciò che contiene.
 
-1. Fare clic su **[!UICONTROL Memoria]** nella pagina Configurazioni.
+1. Fare clic su **[!UICONTROL Memoria]** nella pagina Personalizzazioni.
 1. Attiva **[!UICONTROL Attiva memoria]**. Disattivala per impedire a Chat collaboratore di ricordare tra sessioni diverse.
 1. In **[!UICONTROL Preferenze memorizzate]**, controlla cosa ha salvato la chat di Coworker. È possibile modificare, eliminare o controllare ogni voce e filtrare le voci per categoria.
 1. Utilizza **[!UICONTROL Cronologia memorie salvate]** per visualizzare una sequenza temporale delle modifiche apportate ai tuoi ricordi.
