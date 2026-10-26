@@ -4,7 +4,7 @@ title: Connetti a HubSpot
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: 6d121c60fbf41dc2b27844854078f8f4f48d1944
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -22,7 +22,7 @@ Adobe Coworker for teams ti consente di collegare il tuo account HubSpot per ric
 
 ## Come collegarsi
 
-1. Nella home page di [Collaboratore per team](https://coworker-campaigns.experience.adobe.com/), fare clic su **Personalizza** e selezionare **Connettori**.
+1. Nella home page di [Collaboratore per team](https://coworker-campaigns.experience.adobe.com/), fare clic su **Contesto** e selezionare **Connettori**.
 
    ![Menu Personalizza espanso nella barra laterale con i connettori selezionati](./assets/hubspot-1.png)
 
