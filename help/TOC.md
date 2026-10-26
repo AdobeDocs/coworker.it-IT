@@ -6,9 +6,9 @@ description: Scopri gli strumenti di intelligenza artificiale in CX Enterprise. 
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 43080128c8b3eeaa712334c3fff2fa89c157efea
+source-git-commit: fd69d41fa38c993fce1f32815f5badfd4714a270
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '314'
 ht-degree: 14%
 ---
 
@@ -103,3 +103,4 @@ ht-degree: 14%
   - [Note sulla versione](./coworker-for-teams/release-notes.md)
 - Altre risorse {#more-resources}
   - [Aggiornamenti alla documentazione](./more-resources/documentation-updates.md)
+  - [Note sulla versione](./more-resources/release-notes.md)
