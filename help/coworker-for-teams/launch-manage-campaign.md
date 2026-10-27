@@ -4,10 +4,10 @@ title: Avviare e gestire una campagna
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: f25492704c73fc42d54bf44aa8d59ab73f811f1b
+source-git-commit: a456bf55f7004304df7ad9ea6d6bc3410faffaba
 workflow-type: tm+mt
-source-wordcount: '610'
-ht-degree: 2%
+source-wordcount: '683'
+ht-degree: 1%
 ---
 # Avviare e gestire una campagna {#launch-campaign}
 
@@ -31,11 +31,15 @@ Dopo aver creato la campagna, scopri come avviarla, pianifica quando viene avvia
 
 1. Al termine, fai clic su **Avvia campagna**.
 
->[!NOTE]
->
->- Non è possibile avviare una campagna con un pubblico di esempio (non reale), bozze di e-mail non ancora verificate o impostazioni di invio non configurate.
->
->- Se pianifichi una campagna, puoi comunque modificarla prima del suo lancio. Non è necessario passare alla modalità bozza.
+### Aspetti da considerare - lancio
+
+- Non è possibile avviare una campagna con un pubblico di esempio (non reale), bozze di e-mail non ancora verificate o impostazioni di invio non configurate.
+
+- Se pianifichi una campagna, puoi comunque modificarla prima del suo lancio. Non è necessario passare alla modalità bozza.
+
+- La versione di prova include 5000 invii di e-mail al mese. Il _impatto limite stimato_ viene visualizzato all&#39;avvio per consentirti di tenere traccia di quante e-mail ti rimangono.
+
+- Quando la campagna è attiva, gli approfondimenti diventano disponibili in due ore tramite la scheda _Approfondimenti_ nella parte superiore della bacheca della campagna. Gli approfondimenti includono il numero di invii, aperture, clic, mancati recapiti, annullamenti dell’abbonamento ed errori, nonché le prestazioni giornaliere e il flusso di lavoro.
 
 ## Pianificare l’avvio di una campagna {#schedule-when-a-campaign-launches}
 
@@ -80,7 +84,7 @@ La campagna deve essere pronta per il lancio (configurazione completa).
 | Giorno del mese | Giorno del mese in cui si ripete la campagna | Sì, per frequenza mensile |
 | Fine campagna | Mai, o in una data di fine specifica | Sì, per ricorrente |
 
-### Aspetti da considerare
+### Aspetti da considerare - Pianificazione
 
 - È possibile impostare l’esecuzione di campagne ricorrenti per un periodo di tempo indefinito o fino a una data di fine specifica. Le campagne una tantum e immediate non dispongono di un’opzione di data di fine, in quanto vengono eseguite una volta.
 - La pianificazione non supporta intervalli di ripetizione personalizzati, ad esempio &quot;ogni 2 settimane&quot; o &quot;ogni 3 giorni&quot;. Inoltre, non supporta la ricorrenza mensile relativa, ad esempio &quot;il secondo lunedì del mese&quot;.

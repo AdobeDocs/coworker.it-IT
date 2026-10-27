@@ -4,9 +4,9 @@ title: Creare una campagna e-mail
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: bf3751af83dd8d40021fb2459743aec66c53209c
+source-git-commit: a456bf55f7004304df7ad9ea6d6bc3410faffaba
 workflow-type: tm+mt
-source-wordcount: '935'
+source-wordcount: '933'
 ht-degree: 0%
 ---
 # Creare una campagna e-mail {#create-an-email-campaign}
@@ -68,7 +68,7 @@ Esempio:
 
 ![Digitazione nel prompt personale](./assets/create-an-email-campaign-2.png)
 
-Quando il prompt è pronto, fare clic su **Genera campagna**. Collaboratore per i team:
+Quando il prompt è pronto, fare clic sull&#39;icona freccia su. Collaboratore per i team:
 
 * Generare una strategia di campagna strutturata.
 * Chiedi il pubblico di destinazione, che verrà utilizzato anche per la personalizzazione dei contenuti.
@@ -88,8 +88,6 @@ I tipi di pubblico vengono caricati tramite CSV. Tutti i tipi di pubblico sono s
    >
    >Mentre Collaboratore per team consente di procedere con la creazione della campagna utilizzando un pubblico di esempio, è necessario aggiungere un pubblico reale per avviare la campagna.
 
-1. Importa il file CSV.
-
    >[!IMPORTANT]
    >
    >Escludi eventuali contatti che non desideri inviare tramite e-mail (utenti non abbonati, indirizzi interni, account di test) prima di caricarli. Anche se attiveremo progressivamente la funzionalità per escludere utenti specifici o aggiungere attributi durante il corso della prova, non sarà immediatamente disponibile dalla data di lancio.
@@ -98,7 +96,7 @@ I tipi di pubblico vengono caricati tramite CSV. Tutti i tipi di pubblico sono s
 
 Per apportare modifiche all’e-mail, scorri verso destra. In _Campaign Assets_, fai clic su **Apri editor**.
 
-![](./assets/create-an-email-campaign-4.png)
+![](./assets/create-an-email-campaign-3.png)
 
 Esistono due modi per aggiornare il contenuto.
 
@@ -114,7 +112,7 @@ Esistono due modi per aggiornare il contenuto.
 
 Puoi anche utilizzare i pulsanti AI per perfezionare l’Oggetto o il Preheader.
 
-![](./assets/create-an-email-campaign-5.png)
+![](./assets/create-an-email-campaign-4.png)
 
 >[!TIP]
 >
@@ -128,7 +126,7 @@ Prima del lancio, invia la campagna a te stesso in modo da poterla esaminare in 
 >
 >Al momento, puoi inviare solo un’e-mail di test a te stesso e solo una alla volta.
 
-![](./assets/create-an-email-campaign-6.png)
+![](./assets/create-an-email-campaign-5.png)
 
 ## Passaggio 6: avviare la campagna
 
