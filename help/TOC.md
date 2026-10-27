@@ -6,15 +6,16 @@ description: Scopri gli strumenti di intelligenza artificiale in CX Enterprise. 
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: a0a02aaf4048f13954a1018499204cab05c27023
+source-git-commit: 67936a948c0e985619e3ae72dffa443a016611bb
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 15%
+source-wordcount: '319'
+ht-degree: 14%
 ---
 
 # CX Enterprise Coworker {#content}
 
 - [Guida per i collaboratori](home.md)
+- [Adobe CX Enterprise Coworker per piattaforme AI](/help/ai-platforms.md)
 - Chat collaboratore {#chat}
   - [Informazioni sulla chat per collaboratori](./chat/overview.md)
   - [Introduzione all’utilizzo di Chat con collaboratori](./chat/ui-guide.md)
