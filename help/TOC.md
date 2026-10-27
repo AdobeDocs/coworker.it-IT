@@ -6,10 +6,10 @@ description: Scopri gli strumenti di intelligenza artificiale in CX Enterprise. 
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 6022fafc0e0213cbc887f5b38267cb65fd8d4326
+source-git-commit: a0a02aaf4048f13954a1018499204cab05c27023
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 12%
+source-wordcount: '312'
+ht-degree: 15%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -65,6 +65,8 @@ ht-degree: 12%
       - [Competenze degli agenti di gestione degli strumenti sandbox](./chat/use-cases/sandbox-tooling/sandbox-tooling.md)
     - Avvisi {#alerts}
       - [Competenze di avviso cliente](./chat/use-cases/customer-alerts/customer-alerts.md)
+    - Notifiche {#notifications}
+      - [Competenze di notifica](./chat/use-cases/notifications/notification-skills.md)
     - Visibilità del brand {#brand-visibility}
       - [Creare e perfezionare una pagina di destinazione di AEM](./chat/use-cases/brand-visibility/create-and-refine-aem-landing-page.md)
       - [Verifica della conformità del marchio](./chat/use-cases/brand-visibility/brand-compliance.md)
@@ -88,7 +90,6 @@ ht-degree: 12%
   - Memoria {#memory}
     - [Che cos&#39;è la memoria?](./customizations/memory/what-is-memory.md)
 - Collaboratore per team {#coworker-for-teams}
-  - {hide-from-toc}[Nuova esperienza team](./coworker-for-teams/new-teams-experience.md)
   - [Panoramica](./coworker-for-teams/overview.md)
   - [Creare una campagna e-mail](./coworker-for-teams/create-an-email-campaign.md)
   - [Avviare e gestire una campagna](./coworker-for-teams/launch-manage-campaign.md)
@@ -98,4 +99,8 @@ ht-degree: 12%
   - Connettori {#connectors}
     - [Marketo Engage](./coworker-for-teams/connectors/marketo.md)
     - [Hubspot](./coworker-for-teams/connectors/hubspot.md)
+    - [Salesforce](./coworker-for-teams/connectors/salesforce.md)
   - [Note sulla versione](./coworker-for-teams/release-notes.md)
+- Altre risorse {#more-resources}
+  - [Aggiornamenti alla documentazione](./more-resources/documentation-updates.md)
+  - [Note sulla versione](./more-resources/release-notes.md)
