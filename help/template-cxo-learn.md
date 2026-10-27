@@ -3,7 +3,7 @@
 hide: true
 
 # TITLE AND DESCRIPTION
-# Title: use the pattern "CX Enterprise Coworker in [Product]". Title case, 60 characters or fewer.
+# Title: use the pattern "CX Enterprise Coworker in [Product]". Title case, 60 characters or fewer. Product acronyms are accepted here to reduce length. Remember, the full product name is repeated after the pipe.
 # Description: one or two sentences, about 150-160 characters. Name two or three things the reader can do in the product.
 title: CX Enterprise Coworker in [Product]
 description: Scopri in che modo l’intelligenza artificiale conversazionale di Coworker ti aiuta a [prima cosa], [seconda cosa] e a ottenere di più in [Prodotto].
@@ -42,7 +42,7 @@ level_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: d611ce2398cba72cf21c766f3b25225765c1675b
+source-git-commit: 3973c523ef81e79fee31d9c9a2b36e397d1db153
 workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 22%
@@ -61,13 +61,13 @@ Ti avvicini ora a Coworker? Inizia qui per scoprire come può aiutarti a lavorar
 <!--
 CARDS
 
-* https://experienceleague.adobe.com/it/docs/coworker/content/home
+* https://experienceleague.adobe.com/en/docs/coworker/content/home
   {title = CX Enterprise Coworker guide}
   {description = A full introduction to Coworker, its capabilities, and supported applications.}
   {image = ./assets/coworker/coworker-card.png}
   {cta = Get Started}
 
-* https://experienceleague.adobe.com/it/playlists/coworker-get-started-with-chat
+* https://experienceleague.adobe.com/en/playlists/coworker-get-started-with-chat
   {title = What can Coworker Chat do?}
   {description = Learn how Coworker Chat uses a conversational interface to plan, execute, and complete customer experience work across Adobe and connected systems in minutes.}
   {cta = Watch}
@@ -101,8 +101,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/it/playlists/coworker-get-started-with-chat" title="Cosa può fare la chat di Coworker?" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/it/media_17fc8a012fc3b7ce5ef185f0ea427262b55a3b65f.jpg?width=400&format=pjpg&optimize=medium" alt="Cosa può fare la chat di Coworker?"
+                    <a href="https://experienceleague.adobe.com/en/playlists/coworker-get-started-with-chat" title="Cosa può fare la chat di Coworker?" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/media_17fc8a012fc3b7ce5ef185f0ea427262b55a3b65f.jpg?width=400&format=pjpg&optimize=medium" alt="Cosa può fare la chat di Coworker?"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -110,11 +110,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/it/playlists/coworker-get-started-with-chat" target="_blank" rel="referrer" title="Cosa può fare la chat di Coworker?">Quali sono le funzionalità di Chat con i collaboratori?</a>
+                        <a href="https://experienceleague.adobe.com/en/playlists/coworker-get-started-with-chat" target="_blank" rel="referrer" title="Cosa può fare la chat di Coworker?">Quali sono le funzionalità di Chat con i collaboratori?</a>
                     </p>
                     <p class="is-size-6">Scopri come la chat di Coworker utilizza un’interfaccia conversazionale per pianificare, eseguire e completare in pochi minuti attività di customer experience nei sistemi Adobe e in quelli connessi.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/it/playlists/coworker-get-started-with-chat" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/playlists/coworker-get-started-with-chat" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
