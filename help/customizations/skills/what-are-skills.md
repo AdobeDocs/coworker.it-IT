@@ -1,5 +1,5 @@
 ---
-title: Che cosa sono le abilità?
+title: Quali sono le abilità?
 description: Scopri le competenze di Adobe CX Coworker, playbook riutilizzabili che standardizzano i flussi di lavoro e forniscono risultati coerenti tra conversazioni e utenti.
 role: User
 level: Beginner
@@ -10,7 +10,7 @@ jira: KT-22377
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
+source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 0%
@@ -22,7 +22,7 @@ Le abilità sono playbook riutilizzabili che consentono ad Adobe CX Coworker di 
  
 Questo video illustra come funzionano le abilità, quando utilizzarle e come aiutano i team a scalare le procedure di customer experience ripetibili.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502329/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502322/?learn=on&enablevpops)
 
 Un’abilità fornisce:
 
@@ -45,7 +45,6 @@ Molte organizzazioni eseguono ripetutamente gli stessi tipi di attività, tra cu
 
 Le abilità consentono ai team di acquisire e riutilizzare queste best practice senza dover ripetere ogni volta manualmente il processo.
  
-
 ## Competenze e governance dei dati
 
 Le abilità non memorizzano i dati dei clienti.

@@ -1,5 +1,5 @@
 ---
-title: Creare la prima abilità collaboratore
+title: Crea la tua prima abilità come collaboratore
 description: Scopri come Coworker può trasformare un’attività di analisi una tantum in un’abilità riutilizzabile che fornisce informazioni aziendali coerenti mese dopo mese.
 role: User
 level: Beginner
@@ -10,7 +10,7 @@ jira: KT-22378
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
+source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Invece di creare manualmente rapporti e interpretare metriche, l’analista coll
 
 Il risultato è un flusso di lavoro ripetibile che può essere eseguito su richiesta con un semplice prompt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502338/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502323/?learn=on&enablevpops)
 
 ## Trasforma l’analisi in un’abilità riutilizzabile
 
