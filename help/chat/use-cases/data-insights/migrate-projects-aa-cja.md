@@ -6,8 +6,8 @@ role: Admin
 level: Intermediate
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: decc8d209d4c9c177c6329a30668f0bbb8bd2c00
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '1785'
 ht-degree: 1%
@@ -29,7 +29,7 @@ Collaboratore verifica che le dimensioni e le metriche del progetto siano mappat
 
 >[!IMPORTANT]
 >
->Prima di eseguire la migrazione di qualsiasi progetto, leggere [Preparare la migrazione di componenti e progetti da Adobe Analytics a Customer Journey Analytics](https://experienceleague.adobe.com/it/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration) nella documentazione di Adobe Analytics. Spiega come prepararsi per una migrazione, cosa è incluso, quali elementi causano errori e come le mappature influiscono sull’intera organizzazione. Queste informazioni si applicano alle migrazioni in Collaborator.
+>Prima di eseguire la migrazione di qualsiasi progetto, leggere [Preparare la migrazione di componenti e progetti da Adobe Analytics a Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration) nella documentazione di Adobe Analytics. Spiega come prepararsi per una migrazione, cosa è incluso, quali elementi causano errori e come le mappature influiscono sull’intera organizzazione. Queste informazioni si applicano alle migrazioni in Collaborator.
 
 ## Differenze rispetto alla migrazione nell’interfaccia utente di Adobe Analytics
 
@@ -54,7 +54,7 @@ Per migrare i progetti con Collaboratore, è necessario:
 
 * Diritti di amministratore di Adobe Analytics o l&#39;autorizzazione [!UICONTROL **Migrazione componenti**] in Admin Console. Non è necessario essere un amministratore.
 
-* [prerequisiti](https://experienceleague.adobe.com/it/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration#prerequisites) per la migrazione dei componenti nella documentazione di Adobe Analytics.
+* [prerequisiti](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration#prerequisites) per la migrazione dei componenti nella documentazione di Adobe Analytics.
 
 * Progetto che utilizza suite di rapporti di base. Impossibile migrare le suite di rapporti virtuali.<!-- FLAG: Sourced from Coworker's response in the UI. The Adobe Analytics component migration docs don't mention virtual report suites. Confirm, and consider adding it to those docs. -->
 
@@ -62,7 +62,7 @@ Per migrare i progetti con Collaboratore, è necessario:
 
 <!-- FLAG: Confidence: Medium. The recommendation to review mappings before the first migration from a report suite is inferred from the Adobe Analytics guidance to decide mappings as an organization; Coworker also validates mappings during each migration. Confirm with Scott. -->
 
-È consigliabile rivedere il modo in cui le dimensioni e le metriche di una suite di rapporti vengono mappate prima della prima migrazione da tale suite di rapporti. Le mappature si applicano a ogni progetto migrato dalla tua organizzazione, pertanto la loro impostazione consente di superare la convalida nei progetti successivi. Per informazioni sulla scelta dei mapping, vedere [Decidere come organizzazione la mappatura dei componenti](https://experienceleague.adobe.com/it/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration#decide-as-an-organization-how-you-will-map-components) nella documentazione di Adobe Analytics.
+È consigliabile rivedere il modo in cui le dimensioni e le metriche di una suite di rapporti vengono mappate prima della prima migrazione da tale suite di rapporti. Le mappature si applicano a ogni progetto migrato dalla tua organizzazione, pertanto la loro impostazione consente di superare la convalida nei progetti successivi. Per informazioni sulla scelta dei mapping, vedere [Decidere come organizzazione la mappatura dei componenti](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration#decide-as-an-organization-how-you-will-map-components) nella documentazione di Adobe Analytics.
 
 Per rivedere i mapping, seleziona [!UICONTROL **Rivedi solo i mapping**] nella scheda [!UICONTROL **Ambito**] oppure chiedi direttamente al collaboratore:
 
@@ -157,13 +157,13 @@ Il collaboratore convalida il progetto in base alla visualizzazione dati selezio
 * **Metrica:** Occorrenze diventa Eventi
 * **Dimension:** ora di permanenza
 
-Per i componenti e gli elementi del progetto migrati, vedi [Comprendere cosa è incluso in una migrazione](https://experienceleague.adobe.com/it/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration#understand-what-is-included-in-a-migration) nella documentazione di Adobe Analytics.
+Per i componenti e gli elementi del progetto migrati, vedi [Comprendere cosa è incluso in una migrazione](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration#understand-what-is-included-in-a-migration) nella documentazione di Adobe Analytics.
 
 Se la convalida non viene superata:
 
 * **Dimensioni o metriche che non possono essere mappate automaticamente:** Collaboratore suggerisce una dimensione o una metrica nella visualizzazione dati a cui mappare ciascuna, aggiorna la mappatura, quindi convalida di nuovo il progetto. Puoi anche indicare al collega a quale dimensione o metrica mapparla, ad esempio &quot;Mappa le visualizzazioni di pagina su web.webPageDetails.pageViews.value&quot;.
 
-* **Elementi non supportati:** Rimuovi eventuali elementi non supportati dal progetto in Adobe Analytics. Ad esempio, assicurati che ogni pannello utilizzi una suite di rapporti di base anziché una suite di rapporti virtuale. Quindi chiedi a Collaboratore di controllare di nuovo il progetto. Per un elenco degli elementi non supportati, vedere [Comprendere gli elementi non supportati che causano errori](https://experienceleague.adobe.com/it/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration#understand-unsupported-elements-that-cause-errors) nella documentazione di Adobe Analytics.
+* **Elementi non supportati:** Rimuovi eventuali elementi non supportati dal progetto in Adobe Analytics. Ad esempio, assicurati che ogni pannello utilizzi una suite di rapporti di base anziché una suite di rapporti virtuale. Quindi chiedi a Collaboratore di controllare di nuovo il progetto. Per un elenco degli elementi non supportati, vedere [Comprendere gli elementi non supportati che causano errori](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/component-migration/prepare-component-migration#understand-unsupported-elements-that-cause-errors) nella documentazione di Adobe Analytics.
 
 Per controllare le mappature per un&#39;intera suite di rapporti prima della migrazione, vedi [Rivedere le mappature delle suite di rapporti prima della migrazione](#review-report-suite-mappings-before-you-migrate).
 
@@ -196,11 +196,11 @@ Le migrazioni vengono eseguite in background, pertanto il nuovo progetto potrebb
    | In coda | La migrazione è in attesa di inizio. |
    | Avviato | Migrazione in corso. |
    | Completato | Migrazione completata. In Collaboratore viene fornito un riepilogo di ciò che è stato migrato, inclusi il nome del progetto e la visualizzazione dati. |
-   | Non riuscito | Migrazione non riuscita. Puoi riprovare la migrazione. Consulta [Riprovare una migrazione non riuscita](https://experienceleague.adobe.com/it/docs/analytics/admin/admin-tools/component-migration/component-migration#retry-a-failed-migration) nella documentazione di Adobe Analytics. |
+   | Non riuscito | Migrazione non riuscita. Puoi riprovare la migrazione. Consulta [Riprovare una migrazione non riuscita](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/component-migration/component-migration#retry-a-failed-migration) nella documentazione di Adobe Analytics. |
 
 1. Al termine della migrazione, apri il nuovo progetto dall’elenco dei progetti in Customer Journey Analytics Workspace.
 
-1. (Facoltativo) Trasferisci la proprietà del progetto a qualsiasi utente in Customer Journey Analytics. Per ulteriori informazioni, consulta [Trasferire risorse](https://experienceleague.adobe.com/it/docs/analytics-platform/using/tools/asset-transfer/transfer-assets).
+1. (Facoltativo) Trasferisci la proprietà del progetto a qualsiasi utente in Customer Journey Analytics. Per ulteriori informazioni, consulta [Trasferire risorse](https://experienceleague.adobe.com/en/docs/analytics-platform/using/tools/asset-transfer/transfer-assets).
 
 Al termine di una migrazione, Collaboratore può suggerire un altro progetto di cui eseguire la migrazione successiva.
 
@@ -211,5 +211,5 @@ Al termine di una migrazione, Collaboratore può suggerire un altro progetto di 
 
 ## Passaggi successivi
 
-* Per eseguire la migrazione di progetti nell&#39;interfaccia utente di Adobe Analytics, consulta [Migrazione di componenti e progetti da Adobe Analytics a Customer Journey Analytics](https://experienceleague.adobe.com/it/docs/analytics/admin/admin-tools/component-migration/component-migration) nella documentazione di Adobe Analytics.
+* Per eseguire la migrazione di progetti nell&#39;interfaccia utente di Adobe Analytics, consulta [Migrazione di componenti e progetti da Adobe Analytics a Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/component-migration/component-migration) nella documentazione di Adobe Analytics.
 * Per gli altri casi di utilizzo relativi all&#39;implementazione e all&#39;amministrazione, vedere [Panoramica sull&#39;implementazione e l&#39;amministrazione intelligente](/help/chat/use-cases/data-insights/data-governance-and-validation.md).

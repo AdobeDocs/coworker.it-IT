@@ -3,8 +3,8 @@ description: Esplora Adobe CX Enterprise Coworker for teams. Accedi alla version
 title: Panoramica di Adobe CX Enterprise Coworker for teams
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: bf3751af83dd8d40021fb2459743aec66c53209c
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '1100'
 ht-degree: 0%

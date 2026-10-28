@@ -3,8 +3,8 @@ title: Analizzare le prestazioni di contenuti e Creative con Chat con i collabor
 description: Utilizza Chat con collaboratori per individuare i contenuti vincenti in comune, attribuire i ricavi alle immagini visualizzate dai clienti e confrontare i contenuti creativi tra canali e pubblico.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 8e88ec793bd4ae6fe4692c1d5107fe01fe14bf7f
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '609'
 ht-degree: 1%
@@ -28,7 +28,7 @@ Per utilizzare i casi d’uso in questa pagina, è necessario:
 
 * Chat con collaboratori connessa alle visualizzazioni dati di Customer Journey Analytics o alle suite di rapporti di Adobe Analytics. Vedi [Introduzione all&#39;analisi dei dati con Chat di Coworker](/help/chat/use-cases/data-insights/analytics-chat.md).
 * Accesso alle visualizzazioni dati o alle suite di rapporti che desideri analizzare. La chat per collaboratori eredita le autorizzazioni da Customer Journey Analytics o Adobe Analytics.
-* Una visualizzazione dati configurata per Content Analytics. Vedere [Configurare Content Analytics](https://experienceleague.adobe.com/it/docs/analytics-platform/using/content-analytics/configuration/configuration) nella guida di Customer Journey Analytics.
+* Una visualizzazione dati configurata per Content Analytics. Vedere [Configurare Content Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/configuration) nella guida di Customer Journey Analytics.
 
 ## Casi d’uso
 
