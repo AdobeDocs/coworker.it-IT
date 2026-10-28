@@ -6,10 +6,10 @@ description: Scopri gli strumenti di intelligenza artificiale in CX Enterprise. 
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 3c7f31930e1c742d81ca0c9fee731f6edd6b6952
+source-git-commit: bd7454ee46cb1ee4ca8b7ae6ab07348a23854979
 workflow-type: tm+mt
 source-wordcount: '326'
-ht-degree: 14%
+ht-degree: 15%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -99,11 +99,11 @@ ht-degree: 14%
   - [Best practice per la richiesta di informazioni](./coworker-for-teams/prompting-best-practices.md)
   - [Metadati C2PA](./coworker-for-teams/c2pa-metadata.md)
   - Connettori {#connectors}
-    - {hide-from-toc}[Database](./coworker-for-teams/connectors/databricks.md)
+    - [Databricks](./coworker-for-teams/connectors/databricks.md)
     - [Hubspot](./coworker-for-teams/connectors/hubspot.md)
     - [Marketo Engage](./coworker-for-teams/connectors/marketo.md)
     - [Salesforce](./coworker-for-teams/connectors/salesforce.md)
-    - {hide-from-toc}[Shopify](./coworker-for-teams/connectors/shopify.md)
+    - [Shopify](./coworker-for-teams/connectors/shopify.md)
   - [Note sulla versione](./coworker-for-teams/release-notes.md)
 - Altre risorse {#more-resources}
   - [Aggiornamenti alla documentazione](./more-resources/documentation-updates.md)

@@ -1,17 +1,17 @@
 ---
-description: Adobe Collaborator for teams consente di connettersi ed eseguire query sulle tabelle del catalogo Unity nell’area di lavoro Databricks per creare e attivare i tipi di pubblico della campagna.
+description: Collaboratore per team consente di connettersi ed eseguire query sulle tabelle del catalogo Unity nell’area di lavoro Database per generare e attivare i tipi di pubblico della campagna.
 title: Connetti a database
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 55ee8ef8f43e03720e75c9e68fccf12da8595f9c
+source-git-commit: bd7454ee46cb1ee4ca8b7ae6ab07348a23854979
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '273'
 ht-degree: 0%
 ---
 # Connetti a database {#databricks}
 
-Adobe Collaborator for teams consente di connettersi ed eseguire query sulle tabelle del catalogo Unity nell’area di lavoro Databricks per creare e attivare i tipi di pubblico della campagna.
+Collaboratore per team consente di connettersi ed eseguire query sulle tabelle del catalogo Unity nell’area di lavoro Database per generare e attivare i tipi di pubblico della campagna.
 
 >[!PREREQUISITES]
 >
