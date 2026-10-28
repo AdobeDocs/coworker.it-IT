@@ -1,12 +1,12 @@
 ---
-description: Descrizione
+description: Adobe Coworker for teams ti consente di collegare il tuo account Shopify per richiamare clienti e segmenti.
 title: Connetti a Shopify
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 395e6f64210aedd90fa4f6655860cf4c9bf19f7b
+source-git-commit: 55ee8ef8f43e03720e75c9e68fccf12da8595f9c
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '243'
 ht-degree: 0%
 ---
 # Connetti a Shopify {#shopify}
@@ -19,17 +19,17 @@ Adobe Coworker for teams ti consente di collegare il tuo account Shopify per ric
 >
 >* Un account Shopify attivo
 >* La seguente autorizzazione in Shopify: `read_customers`
->* L&#39;URL del tuo store Shopify e il token di accesso dell&#39;API amministratore [Admin](https://shopify.dev/docs/apps/build/authentication-authorization) sono utili
+>* L&#39;URL del tuo store Shopify e il token di accesso dell&#39;API amministratore [Admin](https://shopify.dev/docs/apps/build/authentication-authorization){target="_blank"} sono utili
 
 ## Come collegarsi
 
-1. Nella home page di [Collaboratore per team](https://coworker-campaigns.experience.adobe.com/), fare clic su **Contesto** e selezionare **Connettori**.
+1. Nella home page di [Collaboratore per team](https://coworker-campaigns.experience.adobe.com/){target="_blank"}, fare clic su **Contesto** e selezionare **Connettori**.
 
-   SCHERMATA
+   ![Collaboratore per team ha lasciato la navigazione con il contesto espanso ed i connettori evidenziati](./assets/shopify-1.png)
 
 1. Fare clic su **Aggiungi integrazione**.
 
-   SCHERMATA
+   ![Pulsante Aggiungi integrazione nella schermata Connettori](./assets/shopify-2.png)
 
    >[!NOTE]
    >
@@ -37,11 +37,19 @@ Adobe Coworker for teams ti consente di collegare il tuo account Shopify per ric
 
 1. Nella riga Shopify, fare clic su **Connetti**.
 
-   SCHERMATA
+   ![Riquadro connettore Shopify con pulsante Connetti](./assets/shopify-3.png)
 
-1. Immetti il tuo **host Workspace**, **percorso warehouse SQL**, **token di accesso personale** e **cataloghi Unity**. Fai clic su **Connetti**.
+1. Rivedi l&#39;autorizzazione richiesta e fai clic su **Continua**.
 
-   SCHERMATA
+   ![Schermata di revisione delle autorizzazioni richiesta Shopify con il pulsante Continua](./assets/shopify-4.png)
+
+1. Immetti il **URL store** e il **token di accesso API amministratore**. Fai clic su **Connetti**.
+
+>[!NOTE]
+>
+>In Shopify, ottieni il token di accesso dell&#39;API amministratore tramite **Impostazioni** › **App** › **Sviluppa app** › **Crea app personalizzata legacy** › **Configurazione API amministratore** › **Aggiungi ambiti richiesti**.
+
+![Connetti la finestra di dialogo Shopify con i campi per l&#39;URL dello store e il token di accesso dell&#39;API amministratore](./assets/shopify-5.png)
 
 Dopo la connessione, Shopify viene visualizzato nell&#39;elenco Connettori.
 
@@ -49,12 +57,6 @@ Dopo la connessione, Shopify viene visualizzato nell&#39;elenco Connettori.
 
 1. Nella schermata Connettori, individua il riquadro Shopify e fai clic su **Gestisci**.
 
-   SCHERMATA
-
-1. Fai clic su **Disconnetti** (al momento non è necessario reimmettere il token di accesso personale).
-
-   SCHERMATA
+1. Fai clic su **Disconnetti** (al momento non è necessario reimmettere il token di accesso dell&#39;API amministratore).
 
 1. Fai di nuovo clic su **Disconnetti** per confermare.
-
-   SCHERMATA
