@@ -4,9 +4,9 @@ description: Vedi gli articoli e i video nuovi e aggiornati nella documentazione
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: e4fbbf54c26a0443f0fab50d05428e793dbb5c88
+source-git-commit: decc8d209d4c9c177c6329a30668f0bbb8bd2c00
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '241'
 ht-degree: 0%
 ---
 # Aggiornamenti alla documentazione {#documentation-updates}
@@ -14,6 +14,12 @@ ht-degree: 0%
 Utilizza questa pagina per trovare contenuti nuovi e sostanzialmente aggiornati nella documentazione di CX Enterprise Coworker. Gli aggiornamenti sono elencati per mese, a partire da quello più recente. Per le modifiche al prodotto in Collaboratore per team, consulta le [note sulla versione di Collaboratore per team](../coworker-for-teams/release-notes.md).
 
 ## Ottobre 2026 {#oct-2026}
+
+<!-- FLAG: Update the date to the publish date of the migration article. Rollout and GA dates are TBD. -->
+
+**28 ottobre 2026**
+
+* Nuovo: [Migra progetti Adobe Analytics a Customer Journey Analytics](../chat/use-cases/data-insights/migrate-projects-aa-cja.md)
 
 **26 ottobre 2026**
 
