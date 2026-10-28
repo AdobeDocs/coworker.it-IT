@@ -22,7 +22,7 @@ Le abilità sono playbook riutilizzabili che consentono ad Adobe CX Coworker di 
  
 Questo video illustra come funzionano le abilità, quando utilizzarle e come aiutano i team a scalare le procedure di customer experience ripetibili.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502322/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502329/?captions=ita&learn=on&enablevpops)
 
 Un’abilità fornisce:
 
