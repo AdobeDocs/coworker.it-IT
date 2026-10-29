@@ -6,10 +6,10 @@ description: Scopri gli strumenti di intelligenza artificiale in CX Enterprise. 
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 67936a948c0e985619e3ae72dffa443a016611bb
+source-git-commit: bd7454ee46cb1ee4ca8b7ae6ab07348a23854979
 workflow-type: tm+mt
-source-wordcount: '319'
-ht-degree: 14%
+source-wordcount: '326'
+ht-degree: 15%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -30,6 +30,7 @@ ht-degree: 14%
         - [Pianificare l’implementazione](./chat/use-cases/data-insights/implementation-guide.md)
         - [Generare un elenco di controllo per l’implementazione](./chat/use-cases/data-insights/intelligent-checklist.md)
         - [Convalidare i dati da AA a CJA durante l’aggiornamento](./chat/use-cases/data-insights/data-validation-aa-cja.md)
+        - [Migrazione di progetti AA a CJA](./chat/use-cases/data-insights/migrate-projects-aa-cja.md)
         - [Convalidare l’implementazione di Streaming Media](./chat/use-cases/data-insights/streaming-media-validation.md)
         - [Convalidare la qualità del set di dati per il reporting di CJA](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
         - [Convalidare i dati di Experience Platform](./chat/use-cases/data-insights/data-validation-aep.md)
@@ -98,9 +99,11 @@ ht-degree: 14%
   - [Best practice per la richiesta di informazioni](./coworker-for-teams/prompting-best-practices.md)
   - [Metadati C2PA](./coworker-for-teams/c2pa-metadata.md)
   - Connettori {#connectors}
-    - [Marketo Engage](./coworker-for-teams/connectors/marketo.md)
+    - [Databricks](./coworker-for-teams/connectors/databricks.md)
     - [Hubspot](./coworker-for-teams/connectors/hubspot.md)
+    - [Marketo Engage](./coworker-for-teams/connectors/marketo.md)
     - [Salesforce](./coworker-for-teams/connectors/salesforce.md)
+    - [Shopify](./coworker-for-teams/connectors/shopify.md)
   - [Note sulla versione](./coworker-for-teams/release-notes.md)
 - Altre risorse {#more-resources}
   - [Aggiornamenti alla documentazione](./more-resources/documentation-updates.md)

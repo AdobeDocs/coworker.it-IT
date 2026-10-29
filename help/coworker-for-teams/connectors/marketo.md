@@ -3,15 +3,15 @@ description: Scopri come collegare il tuo account Marketo Engage a Collaborator 
 title: Connetti a Marketo Engage
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 6d121c60fbf41dc2b27844854078f8f4f48d1944
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '315'
 ht-degree: 0%
 ---
 # Connetti a Marketo Engage {#marketo}
 
-Adobe Coworker for teams ti consente di collegare il tuo account Marketo Engage per richiamare elenchi statici e intelligenti.
+Collaboratore per team consente di collegare il tuo account Marketo Engage per richiamare elenchi statici e intelligenti.
 
 >[!PREREQUISITES]
 >
@@ -19,11 +19,11 @@ Adobe Coworker for teams ti consente di collegare il tuo account Marketo Engage 
 >
 >* Un account Marketo Engage attivo
 >* L&#39;URL dell&#39;**istanza** di Marketo
->* Un [servizio personalizzato](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/custom-services#custom-services-1) creato per Coworker per i team in Marketo, con [ID client e segreto client](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token) disponibili
+>* Un [servizio personalizzato](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/custom-services#custom-services-1){target="_blank"} creato per Coworker per i team in Marketo, con [ID client e segreto client](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token){target="_blank"} disponibili
 
 ## Come collegarsi
 
-1. Nella home page di [Collaboratore per team](https://coworker-campaigns.experience.adobe.com/), fare clic su **Contesto** e selezionare **Connettori**.
+1. Nella home page di [Collaboratore per team](https://coworker-campaigns.experience.adobe.com/){target="_blank"}, fare clic su **Contesto** e selezionare **Connettori**.
 
    ![Collaboratore per team ha lasciato la navigazione con il contesto espanso ed i connettori evidenziati](./assets/marketo-1.png)
 

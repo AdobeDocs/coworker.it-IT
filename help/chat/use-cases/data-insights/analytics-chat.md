@@ -3,8 +3,8 @@ title: Introduzione all’analisi dei dati con Chat per collaboratori
 description: Configura Adobe CX Enterprise Coworker Chat per analizzare i dati di Customer Journey Analytics o Adobe Analytics, quindi segui un esempio che trova l’abbandono dei clienti.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: d611ce2398cba72cf21c766f3b25225765c1675b
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '2182'
 ht-degree: 4%

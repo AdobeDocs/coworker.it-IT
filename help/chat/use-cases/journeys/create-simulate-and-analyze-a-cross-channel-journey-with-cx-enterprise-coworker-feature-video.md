@@ -1,5 +1,5 @@
 ---
-title: Creazione, simulazione e analisi di percorsi cross-channel
+title: Creazione, simulazione e analisi di Percorsi cross-channel
 description: Scopri come CX Enterprise Coworker crea percorsi cross-channel, contenuti e-mail e SMS, simula rami e diagnostica problemi di configurazione del percorso.
 role: User
 level: Beginner
@@ -9,8 +9,8 @@ last-substantial-update: 2026-10-16T00:00:00.000Z
 jira: KT-22912
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+    internal-label: Coworker
+source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%

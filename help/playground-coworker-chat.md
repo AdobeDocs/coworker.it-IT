@@ -1,5 +1,5 @@
 ---
-title: Introduzione Alla Chat Con I Colleghi In Playground
+title: Guida introduttiva alla chat per collaboratori in Playground
 description: Scopri come utilizzare Chat con collaboratori in Playground per scoprire come i prompt in linguaggio naturale possono aiutarti a imparare, indagare e perfezionare il tuo lavoro.
 hide: true
 autotag-review: '2026-09-02T16:21:52.199Z'
@@ -16,7 +16,7 @@ product_v2:
   - id: fdddec33-c9cb-4459-b8b6-2664395a6f10
     internal-label: Real-Time Customer Data Platform
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
+    internal-label: Coworker
 feature_v2:
   - id: 9c3a4e5f-6d7b-4c8a-8e9f-1b2c3d4e5f6a
     internal-label: Datasets
@@ -53,7 +53,7 @@ topic_v2:
     internal-label: Behavioral data
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
     internal-label: Governance
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
 workflow-type: tm+mt
 source-wordcount: '1671'
 ht-degree: 4%
@@ -401,7 +401,7 @@ Il collaboratore esamina la struttura del percorso e segnala problemi quali:
 | Percorsi inattivi | Percorsi che non terminano con un nodo finale |
 | Configurazione dei canali | Azioni senza configurazioni della superficie di canale |
 | Timer di attesa | Timer che potrebbero causare problemi con SLA |
-| Contenuto | Nodi con contenuto mancante |
+| Contenuti | Nodi con contenuto mancante |
 
 ## Parte 7: Monitoraggio e governance
 

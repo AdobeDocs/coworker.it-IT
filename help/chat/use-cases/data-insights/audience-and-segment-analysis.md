@@ -3,8 +3,8 @@ title: Confrontare tipi di pubblico e segmenti di clienti con Chat con i collabo
 description: Utilizza Chat con collaboratori per confrontare i gruppi di clienti, trovare opportunità di crescita trascurate, tracciare le tendenze del pubblico e trasformare le informazioni in tipi di pubblico da creare.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '662'
 ht-degree: 2%
