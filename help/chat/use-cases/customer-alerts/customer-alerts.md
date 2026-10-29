@@ -21,7 +21,7 @@ level_v2:
     internal-label: Experienced
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '1014'
 ht-degree: 4%
@@ -39,7 +39,7 @@ Utilizza le abilità di avviso del cliente in CX Coworker per trasformare l’at
 
 Le abilità di avviso del cliente consentono di passare dai segnali di avviso a informazioni fruibili senza rivedere manualmente le visualizzazioni degli avvisi o correlare le informazioni tra più interfacce. Inizia con una domanda ampia sulle recenti attività di avviso, quindi utilizza le domande di follow-up per identificare pattern di avviso ricorrenti, analizzare gli oggetti interessati e concentrarsi sugli avvisi di tua proprietà.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504722?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504716?learn=on)
 
 Per informazioni sugli avvisi dei clienti, consulta la [Panoramica sugli avvisi dei clienti](https://experienceleague.adobe.com/it/docs/experience-platform/observability/alerts/overview).
 

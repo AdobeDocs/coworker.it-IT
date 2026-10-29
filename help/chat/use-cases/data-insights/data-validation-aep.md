@@ -10,7 +10,7 @@ jira: PLAT-302857
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '1058'
 ht-degree: 0%
@@ -156,5 +156,5 @@ Se le tue esigenze di convalida sono più esaustive o richiedono una logica di b
 
 * [Convalidare i dati da Adobe Analytics a Customer Journey Analytics durante l&#39;aggiornamento](./data-validation-aa-cja.md)
 * [Convalidare i dati Customer Journey Analytics con l’abilità di Convalida dati in Collaboratore](./validate-dataset-quality-for-cja.md)
-* [Convalidare i dati (Assistente AI)](https://experienceleague.adobe.com/it/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-validation)
+* [Convalidare i dati (Assistente AI)](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-validation)
 * [Considera attendibile il tuo reporting Customer Journey Analytics: abilità di convalida dei dati in Adobe CX Enterprise Coworker](https://www.youtube.com/watch?v=gCSm_QYSYhk) (video)

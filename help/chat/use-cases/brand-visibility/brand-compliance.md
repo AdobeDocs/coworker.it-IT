@@ -11,7 +11,7 @@ jira: KT-22501
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
@@ -25,4 +25,4 @@ Ad esempio, puoi rivedere i contenuti generati automaticamente, come una didasca
 
 Collabora non si limita a identificare i problemi, ma offre suggerimenti pratici. Ad esempio, se una didascalia è troppo generica o manca di un call to action, fornisce una versione rivista che soddisfa i tuoi standard di marchio, completa di tag rilevanti. Questo processo semplifica la creazione dei contenuti e garantisce la conformità al brand con il minimo sforzo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502709/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502691/?learn=on&enablevpops)

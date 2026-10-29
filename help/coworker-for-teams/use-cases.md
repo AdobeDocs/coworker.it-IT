@@ -4,7 +4,7 @@ title: Casi di utilizzo di Collaboratore per team
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '512'
 ht-degree: 0%
@@ -159,4 +159,4 @@ Ideale per: qualsiasi tipo di pubblico che non ha risposto.
 
 ## Pronto per la generazione?
 
-Scegli un caso d&#39;uso qui sopra, visita [Crea una campagna e-mail] (./) per l&#39;intera procedura, quindi prova.
+Scegli un caso d&#39;uso qui sopra, visita [Crea una campagna e-mail](./) per l&#39;intera procedura, quindi prova.

@@ -11,7 +11,7 @@ jira: KT-22082
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -23,4 +23,4 @@ Per capire perché le metriche cambiano spesso è necessario consultare più rap
  
 Utilizzando il linguaggio naturale, gli analisti e gli esperti di marketing possono porre domande sui propri dati, ricevere risultati visualizzati, identificare tendenze significative e individuare i fattori che determinano le prestazioni, il tutto in un’unica conversazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496858/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496847/?learn=on&enablevpops)
