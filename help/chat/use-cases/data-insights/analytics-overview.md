@@ -24,7 +24,7 @@ La chat per collaboratori eredita le autorizzazioni da Customer Journey Analytic
 
 Quando crei una visualizzazione nella chat di Coworker, puoi aprirla in Analysis Workspace in qualsiasi momento per un controllo più manuale. Vedi [Aprire una visualizzazione in Analysis Workspace](/help/chat/use-cases/data-insights/analytics-chat.md#open-a-visualization-in-analysis-workspace).
 
-In Customer Journey Analytics, puoi anche utilizzare Coworker in un pannello di chat di Analysis Workspace. In questo caso, Collaboratore utilizza il progetto aperto come contesto e può aggiungere pannelli, tabelle e componenti direttamente al progetto. Per decidere quale utilizzare, vedere [Scegliere tra Coworker in Workspace e l&#39;applicazione Coworker](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/coworker#choose-between-coworker-in-workspace-and-the-coworker-application) nella guida di Customer Journey Analytics.
+In Customer Journey Analytics, puoi anche utilizzare Coworker in un pannello di chat di Analysis Workspace. In questo caso, Collaboratore utilizza il progetto aperto come contesto e può aggiungere pannelli, tabelle e componenti direttamente al progetto. Per decidere quale utilizzare, vedere [Scegliere tra Coworker in Workspace e l&#39;applicazione Coworker](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-workspace/coworker#choose-between-coworker-in-workspace-and-the-coworker-application) nella guida di Customer Journey Analytics.
 
 ## Risposte rapide e un lavoro approfondito
 
