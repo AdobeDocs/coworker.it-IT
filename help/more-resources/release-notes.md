@@ -15,7 +15,7 @@ Trova le note sulla versione di Adobe CX Enterprise Coworker. Scegli le note sul
 
 ## Note sulla versione del collaboratore {#coworker-release-notes}
 
-* [Note sulla versione di CX Enterprise Coworker](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest#cx-enterprise-coworker): miglioramenti e correzioni di funzioni per Chat con i collaboratori, elencati nelle note sulla versione di Experience Platform.
+* [Note sulla versione di CX Enterprise Coworker](https://experienceleague.adobe.com/it/docs/experience-platform/release-notes/latest#cx-enterprise-coworker): miglioramenti e correzioni di funzioni per Chat con i collaboratori, elencati nelle note sulla versione di Experience Platform.
 * [[!UICONTROL Coworker for teams] - Note sulla versione](../coworker-for-teams/release-notes.md): miglioramenti e correzioni delle funzioni di Coworker for teams. Le versioni estese vengono distribuite in modo continuo.
 
 ## CX Enterprise - Note centrali sulle versioni {#cx-enterprise-release-notes}
