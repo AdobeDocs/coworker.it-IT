@@ -5,7 +5,7 @@ jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: 1ab2ef6014d3e64e264b46e5a0c43653fe36bbea
 workflow-type: tm+mt
 source-wordcount: '2088'
 ht-degree: 3%
@@ -24,7 +24,7 @@ La tabella seguente mostra dove è disponibile ogni esperienza.
 |---|---|---|
 | Real-Time CDP | Disponibile ora | Disponibile a breve |
 | Adobe Journey Optimizer | Disponibile ora | Disponibile a breve |
-| Customer Journey Analytics | Disponibile ora | Disponibile a breve |
+| Customer Journey Analytics | Disponibile ora | Disponibile ora |
 | Workfront | Disponibile ora | Disponibile ora |
 | Target | Disponibile ora | Disponibile ora |
 | AEM | Disponibile ora | Disponibile ora |
