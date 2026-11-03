@@ -38,4 +38,4 @@ ht-degree: 0%
 
 Caricare un&#39;immagine del diagramma di flusso, ad esempio una diapositiva di PowerPoint, in CX Enterprise Coworker. In questo video, scopri come rivedere il prompt estratto dall’immagine, specificare l’evento trigger e salvare una bozza di percorso modificabile in Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504865/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504871/?captions=ita&learn=on&enablevpops)

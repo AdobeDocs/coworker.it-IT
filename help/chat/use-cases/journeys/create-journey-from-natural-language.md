@@ -21,7 +21,7 @@ ht-degree: 1%
 
 Descrivi il percorso che desideri creare e Cooker lo crea in Adobe Journey Optimizer. In questo video, scopri come Cooker configura trigger, tempistica, canali e logica decisionale per concentrarti sulla revisione e il perfezionamento del percorso.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496867/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496882/?captions=ita&learn=on&enablevpops)
 
 ## Vedi anche
 
