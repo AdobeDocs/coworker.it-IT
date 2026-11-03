@@ -1,6 +1,6 @@
 ---
 title: Journey Optimizer e Coworker - Genera Percorsi
-description: Scopri come creare percorsi Adobe Journey Optimizer da prompt in linguaggio naturale con Coworker.
+description: Scopri come utilizzare Coworker per creare bozze di percorsi Adobe Journey Optimizer da prompt in linguaggio semplice.
 feature: AI Tools
 role: User
 level: Beginner
@@ -11,21 +11,19 @@ jira: KT-22081
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: d7f1f470a99880d46f518b42f4e766066c6fa52e
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '101'
 ht-degree: 1%
 ---
 
 # Generare percorsi Adobe Journey Optimizer dai prompt del linguaggio naturale
 
-La creazione di percorsi di clienti in genere richiede un’ampia configurazione per attivatori, regole di tempistica, canali, logica decisionale e passaggi di messaggistica. Questo video illustra come Coworker semplifica il processo trasformando una descrizione in linguaggio semplice in un percorso completamente elaborato in Adobe Journey Optimizer.
- 
-Automatizzando il processo di configurazione iniziale, i team possono dedicare meno tempo alla creazione di percorsi da zero e più tempo al perfezionamento delle esperienze dei clienti e dei risultati di business.
+Descrivi il percorso che desideri creare e Cooker lo crea in Adobe Journey Optimizer. In questo video, scopri come Cooker configura trigger, tempistica, canali e logica decisionale per concentrarti sulla revisione e il perfezionamento del percorso.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496882/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496867/?learn=on&enablevpops)
 
 ## Vedi anche
 
-- [Journey Agent](https://experienceleague.adobe.com/it/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), la funzionalità di intelligenza artificiale sottostante che attiva la creazione del percorso in Coworker Chat.
+- [Journey Agent](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), la funzionalità di intelligenza artificiale sottostante che attiva la creazione del percorso in Coworker Chat.
 - [Altri flussi di lavoro di chat per collaboratori](../workflows.md#journeys)

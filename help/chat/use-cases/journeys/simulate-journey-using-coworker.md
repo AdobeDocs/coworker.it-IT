@@ -1,6 +1,6 @@
 ---
 title: Simulare un percorso Adobe Journey Optimizer tramite Collaboratore
-description: Scopri come simulare percorsi Adobe Journey Optimizer utilizzando Coworker per testare i percorsi, ricevere messaggi di bozza e rivedere la copertura dei percorsi prima di pubblicarli.
+description: Scopri come utilizzare Coworker per simulare percorsi Adobe Journey Optimizer e rivedere i risultati prima di pubblicarli.
 role: User
 level: Beginner, Intermediate
 doc-type: Feature Video
@@ -20,16 +20,14 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: f3401377d82e09d194d5130458c7b86866899c11
+source-git-commit: d7f1f470a99880d46f518b42f4e766066c6fa52e
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '70'
 ht-degree: 0%
 ---
 
 # Simulare un percorso Adobe Journey Optimizer tramite Collaboratore
 
-Scopri come utilizzare Coworker per simulare un percorso Adobe Journey Optimizer con profili di test ed eventi generati automaticamente.
-
-In questo video, scopri come verificare i percorsi del percorso, ricevere messaggi di prova e rivedere la copertura dei percorsi e i risultati della simulazione prima di pubblicarli.
+Utilizza Coworker per simulare un percorso Adobe Journey Optimizer con profili di test ed eventi generati automaticamente. In questo video, scopri come verificare i percorsi del percorso, ricevere messaggi di prova e rivedere la copertura dei percorsi e i risultati della simulazione prima di pubblicarli.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3507004?learn=on)
