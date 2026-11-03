@@ -1,6 +1,6 @@
 ---
 title: Creazione, simulazione e analisi di Percorsi cross-channel
-description: Scopri come CX Enterprise Coworker crea percorsi cross-channel, contenuti e-mail e SMS, simula rami e diagnostica problemi di configurazione del percorso.
+description: Scopri come utilizzare CX Enterprise Coworker per creare, simulare e risolvere problemi relativi a percorsi multicanale in Adobe Journey Optimizer.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -10,16 +10,14 @@ jira: KT-22912
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
+source-git-commit: d7f1f470a99880d46f518b42f4e766066c6fa52e
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '70'
 ht-degree: 0%
 ---
 
 # Creazione, simulazione e analisi di percorsi cross-channel
 
-Scopri come CX Enterprise Coworker crea un percorso cross-channel da un prompt in linguaggio naturale e contenuti e-mail e SMS.
-
-In questo video, scopri come simulare i percorsi di diramazione del percorso e analizzare la diagnostica per identificare i problemi di configurazione.
+Utilizza CX Enterprise Coworker per creare un percorso cross-channel da un prompt in linguaggio semplice e generare contenuti e-mail e SMS. In questo video, scopri come simulare percorsi di diramazione e rivedere la diagnostica per identificare i problemi di configurazione.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3504712?captions=ita&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: Creazione di un Percorso da un'immagine
-description: Scopri come CX Enterprise Coworker trasforma un’immagine del diagramma di flusso, ad esempio una diapositiva del team marketing, in un percorso pronto per la modifica in Adobe Journey Optimizer (AJO).
+description: Scopri come utilizzare CX Enterprise Coworker per creare una bozza di percorso Adobe Journey Optimizer da un’immagine di diagramma di flusso.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -28,14 +28,14 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: da31900f-0b2e-4267-a5f8-69290b954752
     internal-label: Customer experience management
-source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
+source-git-commit: d7f1f470a99880d46f518b42f4e766066c6fa52e
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '71'
 ht-degree: 0%
 ---
 
 # Creazione di un percorso da un&#39;immagine
 
-Scopri come CX Enterprise Coworker trasforma un’immagine del diagramma di flusso, ad esempio una diapositiva di PowerPoint del team marketing, in un percorso pronto per la modifica in Adobe Journey Optimizer. In questo modo viene visualizzato il modo in cui viene estratto un prompt dall&#39;immagine, che consente di esaminarlo e regolarlo, di richiedere l&#39;evento trigger e di salvare il risultato come bozza corrispondente alla progettazione originale.
+Caricare un&#39;immagine del diagramma di flusso, ad esempio una diapositiva di PowerPoint, in CX Enterprise Coworker. In questo video, scopri come rivedere il prompt estratto dall’immagine, specificare l’evento trigger e salvare una bozza di percorso modificabile in Adobe Journey Optimizer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3504871/?captions=ita&learn=on&enablevpops)
