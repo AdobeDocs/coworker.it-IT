@@ -25,5 +25,5 @@ Descrivi il percorso che desideri creare e Cooker lo crea in Adobe Journey Optim
 
 ## Vedi anche
 
-- [Journey Agent](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), la funzionalità di intelligenza artificiale sottostante che attiva la creazione del percorso in Coworker Chat.
+- [Journey Agent](https://experienceleague.adobe.com/it/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), la funzionalità di intelligenza artificiale sottostante che attiva la creazione del percorso in Coworker Chat.
 - [Altri flussi di lavoro di chat per collaboratori](../workflows.md#journeys)

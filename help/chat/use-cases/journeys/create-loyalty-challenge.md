@@ -28,6 +28,6 @@ Utilizza le istruzioni in linguaggio semplice per creare, configurare e avviare 
 
 ## Vedi anche
 
-- [Journey Agent](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent), per altre funzionalità di IA per AJO disponibili tramite Chat con coorker, ad esempio creazione di percorsi, analisi e simulazione.
+- [Journey Agent](https://experienceleague.adobe.com/it/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent), per altre funzionalità di IA per AJO disponibili tramite Chat con coorker, ad esempio creazione di percorsi, analisi e simulazione.
 - [Gestione delle richieste di fidelizzazione](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/essentials/ajo-coworker-skills#loyalty-challenge-management){target="_blank"} nella documentazione di Adobe Journey Optimizer.
 - [Altri flussi di lavoro di chat per collaboratori](../workflows.md#journeys)
