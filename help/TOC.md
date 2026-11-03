@@ -3,10 +3,10 @@ audience: user
 user-guide-title: CX Enterprise Coworker
 user-guide-description: Scopri Adobe CX Enterprise Coworker, un compagno di squadra basato sull’intelligenza artificiale che automatizza l’esperienza del cliente e i flussi di lavoro di marketing all’interno dell’organizzazione.
 description: Scopri gli strumenti di intelligenza artificiale in CX Enterprise. Migliora la tua conoscenza del prodotto e acquisisci informazioni operative utilizzando l’intelligenza artificiale in CX Enterprise.
-solution: Experience Cloud
+solution: Coworker
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: bd7454ee46cb1ee4ca8b7ae6ab07348a23854979
+source-git-commit: 34422092afceef569f2797f6f54d7fe133734e97
 workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 15%
