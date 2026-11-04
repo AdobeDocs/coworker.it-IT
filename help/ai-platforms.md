@@ -4,9 +4,9 @@ description: Scopri Adobe CX Enterprise Coworker per piattaforme AI. Esplora le 
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 386b8d2ef4c6f36577300b4bcfbf4c82a40292b3
+source-git-commit: b9c3e1915b1f3f182cc91452e60eea13b05f12fa
 workflow-type: tm+mt
-source-wordcount: '2028'
+source-wordcount: '2104'
 ht-degree: 1%
 ---
 
@@ -349,9 +349,10 @@ Dopo aver configurato Collaboratore in una piattaforma supportata, prova questi 
 
 ## Limitazioni note {#known-limitations}
 
-Coworker nelle piattaforme AI non supporta tutti i modelli di integrazione.
+Coworker nelle piattaforme AI non supporta tutte le funzionalità disponibili nell’interfaccia di Coworker.
 
-* Non è possibile collegare Coworker al proprio cablaggio preassemblato tramite MCP.
+* Non è possibile connettere Coworker a un cablaggio preassemblato agente personalizzato esterno alle piattaforme AI supportate elencate in questo documento. Per richiedere supporto per piattaforme AI o cablaggi preassemblati aggiuntivi tramite MCP, contatta il rappresentante Adobe.
+* L’abilità Generazione immagine di Firefly non è disponibile quando accedi a Coworker tramite Claude. L’abilità rimane disponibile nell’interfaccia di Collaboratore e in altre piattaforme di intelligenza artificiale supportate descritte in questo documento. Per utilizzare l’abilità Generazione immagini di Firefly, accedi a Coworker tramite l’interfaccia di Coworker o un’altra piattaforma di intelligenza artificiale supportata.
 
 ## Risolvere i problemi relativi a Coworker nelle piattaforme AI {#troubleshoot}
 
