@@ -8,9 +8,9 @@ product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
 hide: true
-source-git-commit: 39953e05bb5c7fede783fa344bcc846eaaa9b933
+source-git-commit: 4f03df081c098fb1dc1044cb022663ce4d9b3d86
 workflow-type: tm+mt
-source-wordcount: '1577'
+source-wordcount: '1551'
 ht-degree: 1%
 ---
 
@@ -131,8 +131,6 @@ Dopo che un amministratore ha configurato il connettore, aprirlo dalla vista **[
 1. Trova la scheda **[!UICONTROL Genio database]**. Se la tua organizzazione non ha configurato il connettore, nella scheda vengono visualizzati **[!UICONTROL Non configurato]** e **[!UICONTROL Non ancora disponibile. L&#39;amministratore deve configurarlo.]** Nessun pulsante **[!UICONTROL Configura]** per i membri, pertanto chiedere all&#39;amministratore di [configurare il connettore](#configure-organization).
 
 1. Se la tua organizzazione utilizza un&#39;entità servizio, nella scheda viene visualizzato **[!UICONTROL Disponibile tramite la tua organizzazione]**. Non è necessario effettuare l&#39;accesso. Per verificare la connessione, aprire i dettagli del connettore e selezionare **[!UICONTROL Verifica connessione]**.
-
-   ![Pagina User External Connectors che mostra la scheda Genie dei database con uno stato Disponibile tramite l&#39;organizzazione e un pulsante Test.](./assets/databricks-genie/member-connectors.png){width="700" zoomable="yes"}
 
    Un test riuscito mostra **[!UICONTROL Connessione riuscita]** e il numero di strumenti disponibili.
 
