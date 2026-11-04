@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Utilizza CX Enterprise Coworker per creare un percorso cross-channel da un prompt in linguaggio semplice e generare contenuti e-mail e SMS. In questo video, scopri come simulare percorsi di diramazione e rivedere la diagnostica per identificare i problemi di configurazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504706?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504712?captions=ita&learn=on)
