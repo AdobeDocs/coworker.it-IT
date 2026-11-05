@@ -4,7 +4,7 @@ title: Flussi di lavoro per chat del collaboratore
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 3cfee4503efc246c105156e3b99260912eb74d49
+source-git-commit: 41216c2254d4c98f05c608f02bc6da31da3dd3c6
 workflow-type: tm+mt
 source-wordcount: '8820'
 ht-degree: 6%
@@ -123,7 +123,7 @@ Chat con collaboratori consente di eseguire query, analizzare e agire sui dati d
 | [AA ↔ convalida dati CJA](data-insights/data-validation-aa-cja.md) | Confrontare, controllare e riconciliare i dati tra Adobe Analytics e Customer Journey Analytics, in particolare durante l’aggiornamento da Adobe Analytics a Customer Journey Analytics | `aa-cja-validation`, `cja`, `aa`, `dx-api` | ADOBE ANALYTICS + CJA | &quot;Confronta la suite di rapporti AA con la visualizzazione dati di CJA&quot; <br> &quot;Convalida le visualizzazioni di pagina tra AA e CJA&quot; |
 | [Migrazione di progetti AA a CJA](data-insights/migrate-projects-aa-cja.md) (disponibilità limitata) | Convalidare, mappare ed eseguire la migrazione dei progetti Adobe Analytics e dei relativi componenti a Customer Journey Analytics, quindi controllare lo stato di migrazione <!-- FLAG: No dedicated skill yet; the tools run through the aa-mcp integration. Update the Skills column when a skill is released. --> | Nessuno <br/>(utilizza l&#39;integrazione `aa-mcp`) | ADOBE ANALYTICS + CJA | &quot;Migrazione dei componenti da AA a CJA&quot; <br> &quot;Quali dimensioni e metriche nella suite di rapporti non sono mappate alla visualizzazione dati?&quot; |
 | [Convalida set di dati e qualità dei campi](data-insights/data-validation-aep.md) | Esegui la convalida statistica e semantica su set di dati e campi Experience Platform per rilevare problemi di qualità dei dati dopo l&#39;implementazione o su base continuativa <!--TODO: confirm skill ID(s) with engineering before publishing--> | `data-validation` | Adobe Experience Platform | &quot;Convalidare il set di dati Elettronica campione 1000&quot; <br> &quot;Convalidare il campo e-mail nel set di dati Customers_2024&quot; |
-| Serie temporali operative e analisi causale | Eseguire query e analizzare dati storici di serie temporali per tipi di pubblico, set di dati e percorsi con attribuzione causale | `operational-stats-causal-analysis` | Tutte le candidature ammissibili | &quot;Mostra tendenze dimensioni pubblico negli ultimi 90 giorni&quot; <br> &quot;Perché la riga del set di dati ha conteggiato un picco il 3 marzo?&quot; |
+| [Serie temporali operative e analisi causale](audiences/why-your-audience-size-changed.md) | Eseguire query e analizzare dati storici di serie temporali per tipi di pubblico, set di dati e percorsi con attribuzione causale | `operational-stats-causal-analysis` | Tutte le candidature ammissibili | &quot;Mostra tendenze dimensioni pubblico negli ultimi 90 giorni&quot; <br> &quot;Perché la riga del set di dati ha conteggiato un picco il 3 marzo?&quot; |
 | Creare abilità CJA personalizzate | Trasforma i modelli analitici in competenze riutilizzabili e ripetibili che persistono nelle sessioni | `cja-skill-creator` | Customer Journey Analytics (CJA) | &quot;Trasforma questa analisi settimanale dei ricavi in un&#39;abilità riutilizzabile&quot; <br> &quot;Salva come abilità per il reporting mensile di funnel&quot; |
 
 ## Tipi di pubblico
