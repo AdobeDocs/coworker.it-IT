@@ -4,9 +4,9 @@ description: Utilizza Chat con collaboratori per individuare i contenuti vincent
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: 3cfee4503efc246c105156e3b99260912eb74d49
 workflow-type: tm+mt
-source-wordcount: '609'
+source-wordcount: '608'
 ht-degree: 1%
 ---
 
@@ -47,7 +47,7 @@ Per i casi d’uso descritti in questo articolo, il collaboratore utilizza le se
 
 | Competenza | Utilizzato per |
 | --- | --- |
-| `cja`,`analyze-content` <br/> (disponibilità limitata) | Scopri quali contenuti vincenti hanno in comune<br>Attribuisci ricavi ai contenuti che i clienti vedono<br>Confronta i contenuti creativi su web e dispositivi mobili<br>Scopri quali elementi visivi spostano ogni pubblico<p>Per ulteriori informazioni, vedere [Poni domande sul contenuto](/help/chat/use-cases/data-insights/ask-content-questions.md).</p> |
+| `cja`,`analyze-content` | Scopri quali contenuti vincenti hanno in comune<br>Attribuisci ricavi ai contenuti che i clienti vedono<br>Confronta i contenuti creativi su web e dispositivi mobili<br>Scopri quali elementi visivi spostano ogni pubblico<p>Per ulteriori informazioni, vedere [Poni domande sul contenuto](/help/chat/use-cases/data-insights/ask-content-questions.md).</p> |
 
 ## Suggerimenti per ottenere risultati migliori
 
@@ -60,6 +60,6 @@ Per i casi d’uso descritti in questo articolo, il collaboratore utilizza le se
 
 ## Passaggi successivi
 
-* Per scoprire come Coworker risponde alle domande sul contenuto, consulta [Poni domande sul contenuto](/help/chat/use-cases/data-insights/ask-content-questions.md) (disponibilità limitata).
+* Per scoprire come Coworker risponde alle domande sul contenuto, consulta [Poni domande sul contenuto](/help/chat/use-cases/data-insights/ask-content-questions.md).
 * Per una panoramica dell&#39;analisi dei dati con Chat di Coworker, inclusi gli altri domini di analisi e le best practice, consulta [Analizzare i dati con Chat di Coworker](/help/chat/use-cases/data-insights/analytics-overview.md).
 * Per impostare la chat di Coworker e seguire un esempio di lavoro, vedere [Introduzione all&#39;analisi dei dati con la chat di Coworker](/help/chat/use-cases/data-insights/analytics-chat.md).
