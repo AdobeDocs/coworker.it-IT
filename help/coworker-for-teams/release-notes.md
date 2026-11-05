@@ -6,16 +6,86 @@ product_v2:
     internal-label: Coworker
   - id: a17f56ef-32e3-5ef7-b044-4479a09ffbc1
     internal-label: Coworker for teams
-source-git-commit: d786b58a4a88126d0875c504e1a8e5d6b39150e6
+source-git-commit: 0246505e521b780295f17b3964ec2f0a57fc41fd
 workflow-type: tm+mt
-source-wordcount: '4474'
+source-wordcount: '4892'
 ht-degree: 0%
 ---
 # Note sulla versione di Adobe CX Enterprise Coworker for teams {#release-notes}
 
 I rilasci di Coworker for teams funzionano secondo un modello di distribuzione continua che consente un approccio più scalabile e graduale alla distribuzione delle funzioni.
 
+## Novembre 2026 {#nov-2026}
+
+**Data di rilascio: 3 novembre 2026**
+
+* Crea campagne senza uscire dalla conversazione per visitare la bacheca
+* Rivedi gli output delle campagne man mano che diventano disponibili
+* Ricerca di contenuti nuovi e aggiornati senza perdere il posto
+* Mantieni i messaggi e gli allegati non inviati quando accedi alla bacheca della campagna
+* Le anteprime delle campagne precedenti mantengono il contenuto rivisto originariamente
+* Anteprima delle e-mail nei layout desktop e mobile prima dell’invio
+* Cambia le varianti dell’e-mail con schede più chiare e anteprime delle immagini
+* La modifica delle varianti dell’e-mail mantiene il tuo posto nella pagina
+* Modificare le e-mail di grandi dimensioni senza perdere l’accesso ai controlli di formattazione
+* I profili di modifica delle e-mail e le maniglie di ridimensionamento rimangono allineati
+* I campi e-mail non modificati non attivano più salvataggi non necessari
+* Le bozze e-mail mantengono le modifiche più recenti quando precedenti salvataggi terminano
+* Rimuovi le e-mail della campagna non utilizzate senza eliminare il contenuto salvato
+* Scopri quali bozze e-mail non sono presenti nel flusso di lavoro
+* I documenti della campagna scaricati mantengono le anteprime e-mail e funzionano con i collegamenti alle campagne
+* Scegli le date direttamente quando la conversazione le richiede
+* Le risposte alla conversazione rimangono collegate alla richiesta in sospeso corretta
+* Le richieste di file accettano solo i tipi di allegati necessari
+* Gestisci singolarmente i contatti eliminati o importali dal file CSV
+* Scaricare l’elenco di soppressione completo indipendentemente dai filtri attivi
+* Trovare i tipi di pubblico delle campagne salvati tramite i loro elenchi di contatti collegati
+* Sfogliare le idee delle campagne più comodamente sugli schermi più piccoli
+* I risultati di ricerca vuoti rimangono distinti dalle raccolte di campagne vuote
+* Riprovare a caricare i modelli senza perdere i controlli di ricerca
+* Gli indirizzi del sito Web del marchio non validi vengono spiegati accanto al campo
+* Le illustrazioni del caricamento CSV rimangono visibili insieme alle altre
+* Le pianificazioni di lancio espanse lasciano più spazio per i controlli nelle vicinanze
+* Apri gli articoli della guida nella lingua preferita, se supportato
+* L’avanzamento e i risultati della connessione sono più chiari quando si collegano gli account
+* Torna in modo sicuro alla tua campagna dopo aver connesso un account
+* Gli account personali non mostrano più controlli di gestione dei team non disponibili
+* Cambiare le aree di lavoro senza errori di accesso
+* Creazione di Workspace: spiega quando è necessario l’accesso come amministratore organizzazione
+* Se disponibile, rivedi e modifica il profilo aziendale salvato
+* Il profilo di business salva e rileva le modifiche in conflitto prima di sostituirle
+* La navigazione del profilo di business segue la sezione scelta senza sfarfallio
+* Se disponibile, connetti LinkedIn e scegli l’identità di pubblicazione
+* Anteprima bozze post social in conversazioni e bacheche campagne
+* Le varianti di post social si adattano più comodamente ai pannelli di conversazione stretti
+* Leggi i nomi degli account social in modo coerente nelle anteprime delle campagne
+* Modifica le immagini social con Adobe Express se supportato
+* I controlli di Launch corrispondono ai canali e-mail e social network utilizzati
+* Scopri quando gli account social devono riconnettersi prima del lancio
+* Visualizza i risultati social separatamente dai rapporti delle campagne e-mail
+
 ## Ottobre 2026 {#oct-2026}
+
+**Data di rilascio: 26 ottobre 2026**
+
+* Collegare Facebook e Instagram attraverso i loro flussi di accesso al browser
+* Aggiunta e sostituzione dei logo durante la configurazione del brand
+* Le anteprime dei logo dei marchi vengono visualizzate in modo affidabile durante la configurazione
+* Rivedi le query del pubblico di magazzino direttamente dalle schede del pubblico
+* Riprendi l’onboarding automaticamente dopo l’attivazione dell’account
+* Le conversazioni rinominate mantengono sincronizzati i titoli e i collegamenti
+* Comprimi la navigazione delle conversazioni senza perdere le etichette di azione utili
+* Consente di scorrere il contenuto delle e-mail senza estendere l’area di lavoro circostante
+* I modelli duplicati ricevono nomi chiari e numerati nella tua lingua
+* I controlli di pianificazione e le date della campagna seguono le tue preferenze di lingua
+* I documenti della campagna scaricati utilizzano intestazioni ed etichette localizzate
+* Le percentuali di compatibilità delle e-mail seguono il formato numerico locale
+* Le date di creazione del marchio seguono la lingua e l’area geografica preferite
+* I controlli dell’editor e-mail e le etichette dei modelli utilizzano testo localizzato
+* I campi di connessione richiesti spiegano gli errori di convalida nella lingua
+* Badge predefiniti e controlli per la modifica del logo sempre leggibili
+* I collegamenti precedenti per Campagne ed Essentials portano a Collaboratore per i team
+* L&#39;azione di disconnessione è più chiara durante la configurazione della versione di prova
 
 **Data di rilascio: 21 ottobre 2026**
 
@@ -313,8 +383,6 @@ I rilasci di Coworker for teams funzionano secondo un modello di distribuzione c
 * Domains &amp; Senders dispone di una procedura guidata di configurazione per verificare i domini e aggiungere i mittenti
 * Le campagne in bozza ora richiedono di completare la configurazione dell’e-mail e del canale prima dell’invio
 * La convalida del dominio e del mittente rileva ulteriori problemi, inclusi casi edge di record DNS
-* Il menu del profilo è stato spostato nella barra laterale per un accesso più rapido
-* I documenti di Source PDF ora vengono visualizzati come una pillola sui dettagli del kit del brand
 * Vari miglioramenti a livello di prestazioni e affidabilità in tutto il
 
 **Data di rilascio: 26 giugno 2026**
@@ -324,7 +392,6 @@ I rilasci di Coworker for teams funzionano secondo un modello di distribuzione c
 * Nella bacheca delle campagne vengono visualizzati suggerimenti contestuali per guidarti nei passaggi successivi
 * L’onboarding per i nuovi utenti utilizza i dati reali del brand per personalizzare l’esperienza di configurazione
 * Il selettore del colore del marchio gestisce codici esadecimali abbreviati e si apre in una finestra a comparsa ordinata
-* I parametri UTM e il limite per i messaggi sono ora configurabili da Impostazioni app
 * I collegamenti della Guida consentono ora di aprire il contenuto più recente direttamente su Experience League
 * Vari miglioramenti a livello di prestazioni e affidabilità in tutto il
 
@@ -355,8 +422,6 @@ I rilasci di Coworker for teams funzionano secondo un modello di distribuzione c
 * Sfoglia e ripristina le versioni precedenti dell’e-mail con un nuovo pannello per la cronologia delle versioni
 * Modifica i colori del brand con un selettore esadecimale e modifica in linea nella pagina del brand
 * La libreria dei marchi carica automaticamente più marchi durante lo scorrimento
-* Il menu del profilo è stato spostato nella barra laterale per un accesso più rapido
-* I documenti di Source PDF ora vengono visualizzati come una pillola sui dettagli del kit del brand
 * Vari miglioramenti a livello di prestazioni e affidabilità in tutto il
 
 **Data di rilascio: 12 giugno 2026**
@@ -370,9 +435,6 @@ I rilasci di Coworker for teams funzionano secondo un modello di distribuzione c
 * Le risposte alle chat fuori ambito suggeriscono cosa chiedere dopo con le richieste di un clic
 * Le esportazioni di Campaign PDF mostrano icone, branding del prodotto e un’etichetta del marchio in modo affidabile
 * Contatta un esperto e i flussi di aggiornamento caricano i dettagli della versione di prova in modo più affidabile
-* I tag di stile per la scrittura si espandono per mostrare il testo completo e il collegamento alla pagina del brand
-* Avvia un brand dallo stato della libreria vuota con categorie utili
-* Effettua di nuovo l&#39;accesso senza problemi alla scadenza della sessione
 * L’app ora risiede in coworker-campaigns.adobe.com con la stessa esperienza
 * La registrazione di prova ti indirizza al passaggio successivo dopo aver creato il tuo account
 * Vari miglioramenti a livello di prestazioni e affidabilità in tutto il
@@ -385,8 +447,6 @@ I rilasci di Coworker for teams funzionano secondo un modello di distribuzione c
 * Le importazioni del pubblico CSV non mostrano più un elenco duplicato nella scheda del pubblico
 * L’elemento Chat nella barra laterale viene evidenziato quando si avvia una nuova chat
 * L’intestazione dell’app ora mostra solo l’oggetto dell’e-mail (o &quot;Bozza&quot;) durante la modifica di un’e-mail, rimuovendo il prefisso numero &quot;E-mail N:&quot; per il titolo di un livello
-* Il menu del profilo è stato spostato nella barra laterale per un accesso più rapido
-* I documenti di Source PDF ora vengono visualizzati come una pillola sui dettagli del kit del brand
 * Vari miglioramenti a livello di prestazioni e affidabilità in tutto il
 
 **Data di rilascio: 10 giugno 2026**
@@ -400,7 +460,6 @@ I rilasci di Coworker for teams funzionano secondo un modello di distribuzione c
 * Riprova a salvare quando l’editor e-mail riscontra un errore temporaneo
 * Sostituire le immagini delle e-mail con dimensioni e dimensioni corrette per Adobe Express
 * Carica elenchi di pubblico da CSV utilizzando una finestra di dialogo di importazione più chiara in chat
-* I tag di stile per la scrittura si espandono per mostrare il testo completo e il collegamento alla pagina del brand
 * Avvia un brand dallo stato della libreria vuota con categorie utili
 * Effettua di nuovo l&#39;accesso senza problemi alla scadenza della sessione
 * Vari miglioramenti a livello di prestazioni e affidabilità in tutto il
@@ -511,7 +570,6 @@ I rilasci di Coworker for teams funzionano secondo un modello di distribuzione c
 * L’intestazione dell’app ora mostra solo l’oggetto dell’e-mail (o &quot;Bozza&quot;) durante la modifica di un’e-mail, rimuovendo il prefisso numero &quot;E-mail N:&quot; per il titolo di un livello
 * Il menu del profilo è stato spostato nella barra laterale per un accesso più rapido
 * I documenti di Source PDF ora vengono visualizzati come una pillola sui dettagli del kit del brand
-* Il menu del profilo è stato spostato nella barra laterale per un accesso più rapido
 * Vari miglioramenti a livello di prestazioni e affidabilità in tutto il
 
 **Data di rilascio: 18 aprile 2026**
