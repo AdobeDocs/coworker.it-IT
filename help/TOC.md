@@ -6,9 +6,9 @@ description: Scopri gli strumenti di intelligenza artificiale in CX Enterprise. 
 solution: Coworker
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 41216c2254d4c98f05c608f02bc6da31da3dd3c6
+source-git-commit: b7d069b0ebd8fb68e3ffae62cc57d4b91dd248f5
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '359'
 ht-degree: 13%
 ---
 
@@ -59,6 +59,7 @@ ht-degree: 13%
       - [Creazione di un percorso utilizzando il linguaggio naturale](./chat/use-cases/journeys/create-journey-from-natural-language.md)
       - [Creazione di un percorso da un&#39;immagine](./chat/use-cases/journeys/create-journey-from-image.md)
       - [Simulare un percorso utilizzando Collaboratore](./chat/use-cases/journeys/simulate-journey-using-coworker.md)
+      - [Accelerare il coinvolgimento dei clienti](./chat/use-cases/journeys/accelerate-personalized-customer-engagement.md)
       - [Confronta versioni di percorso tramite Collaboratore](./chat/use-cases/journeys/journey-version-comparison.md)
       - [Creazione, simulazione e analisi di percorsi cross-channel](./chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker.md)
     - Fedeltà {#loyalty}
