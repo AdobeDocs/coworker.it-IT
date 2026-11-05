@@ -6,10 +6,10 @@ description: Scopri gli strumenti di intelligenza artificiale in CX Enterprise. 
 solution: Coworker
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: bdee1fbac171345d41a0bcdfdaaadb025f860a55
+source-git-commit: 41216c2254d4c98f05c608f02bc6da31da3dd3c6
 workflow-type: tm+mt
-source-wordcount: '350'
-ht-degree: 14%
+source-wordcount: '356'
+ht-degree: 13%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -54,6 +54,7 @@ ht-degree: 14%
       - [Gestire la conservazione del data lake](./chat/use-cases/data-management/manage-data-lake-retention.md)
     - Tipi di pubblico {#audiences}
       - [Valutare lo stato della piattaforma e creare tipi di pubblico](./chat/use-cases/audiences/create-audience-from-natural-language.md)
+      - [Perché il mio pubblico è salito o sceso?](./chat/use-cases/audiences/why-your-audience-size-changed.md)
     - Percorsi {#journeys}
       - [Creazione di un percorso utilizzando il linguaggio naturale](./chat/use-cases/journeys/create-journey-from-natural-language.md)
       - [Creazione di un percorso da un&#39;immagine](./chat/use-cases/journeys/create-journey-from-image.md)
