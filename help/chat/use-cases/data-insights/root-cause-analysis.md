@@ -25,7 +25,7 @@ Utilizza Adobe CX Enterprise Coworker Chat per scoprire perché una metrica è c
 
 Il video seguente illustra come Coworker combina l’intelligenza artificiale conversazionale con Customer Journey Analytics. Scopri come porre domande in linguaggio naturale, visualizzare i risultati, identificare tendenze significative e individuare fattori che determinano le prestazioni senza creare query manuali.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496847/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496858/?captions=ita&learn=on&enablevpops)
 
 ### Prerequisiti
 
