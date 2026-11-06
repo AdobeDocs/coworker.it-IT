@@ -4,9 +4,9 @@ title: Flussi di lavoro per chat del collaboratore
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 41216c2254d4c98f05c608f02bc6da31da3dd3c6
+source-git-commit: 0d2b1c7e146114fac57a894ce1b61727456d263f
 workflow-type: tm+mt
-source-wordcount: '8820'
+source-wordcount: '9190'
 ht-degree: 6%
 ---
 # Flussi di lavoro di Chat del collaboratore {#use-cases}
@@ -258,6 +258,20 @@ Utilizza Chat con collaboratori per pianificare, generare, valutare e perfeziona
 **Informazioni correlate**
 
 * [Collaboratore per la gestione dei contenuti](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/content-management/content-management-coworker-skills){target="_blank"} fornisce dettagli sugli strumenti di gestione dei contenuti e sulle competenze disponibili in Adobe Journey Optimizer.
+
+## Campagne orchestrate
+
+Utilizza Chat con collaboratori per trovare e ispezionare le campagne orchestrate e per eseguire il rendering dei grafici dei flussi di lavoro in Adobe Journey Optimizer. Queste abilità sono di sola lettura: la creazione o la modifica di campagne orchestrate non è supportata dal set di strumenti corrente e le funzioni di analisi orchestrata delle campagne e reporting delle prestazioni non sono supportate.
+
+| Flusso di lavoro | Descrizione | Competenze | Applicazione | Prompt di esempio |
+| --- | --- | --- | --- | --- |
+| [Trova e sfoglia campagne orchestrate](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrated/orchestrated-campaigns-coworker-skills#orchestrated-campaign-list){target="_blank"} | Elenca, sfoglia, filtra, cerca, conta o ottieni una panoramica delle campagne orchestrate, riprodotte come una dashboard con schede metriche, grafici e una tabella delle campagne | Elenco delle campagne orchestrate | Adobe Journey Optimizer (AJO) | &quot;Elenca tutte le mie campagne orchestrate.&quot; <br> &quot;Visualizza le campagne orchestrate LIVE.&quot; <br> &quot;Quante campagne orchestrate utilizzano la posta elettronica?&quot; <br> &quot;Mostra campagne orchestrate create da Xavier.&quot; <br> &quot;Sfogliare le campagne orchestrate nella sandbox di produzione.&quot; <br> &quot;Filtrare le campagne orchestrate per stato BOZZA&quot; |
+| [Controllare una campagna orchestrata](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrated/orchestrated-campaigns-coworker-skills#orchestrated-campaign-get){target="_blank"} | Ottieni tutto su una singola campagna orchestrata denominata o identificata: dettagli, stato, metadati, cronologia del ciclo di vita ed esecuzione, quindi visualizzane il grafico delle attività | Ricezione campagna orchestrata | Adobe Journey Optimizer (AJO) | &quot;Mostra i dettagli della campagna orchestrata per il ricoinvolgimento estivo.&quot; <br> &quot;Chi ha pubblicato il certificato di benvenuto?&quot; <br> &quot;Mostra la cronologia del ciclo di vita della mia campagna Q3.&quot; <br> &quot;Quante volte è stata eseguita la campagna orchestrata di Holiday Promo?&quot; <br> &quot;Disegnare/visualizzare il grafico per l&#39;onboarding OC.&quot; <br> &quot;La campagna orchestrata per l’abbandono del carrello ha avuto esito negativo?&quot; |
+| [Eseguire il rendering di un grafico del flusso di lavoro](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrated/orchestrated-campaigns-coworker-skills#orchestrated-campaign-workflow-renderer){target="_blank"} | Esegui il rendering di un flusso di lavoro o di un grafico di orchestrazione, fornito come payload JSON con nodi e bordi, come diagramma visivo. <br> Utilizzala solo quando il payload del grafico è già presente nella conversazione. <br> Per disegnare il grafico di una campagna per nome o ID, utilizza il metodo Orchestrated Campaign Get. | Rendering flusso di lavoro campagna orchestrato | Adobe Journey Optimizer (AJO) | &quot;Eseguire il rendering di questo grafico del flusso di lavoro come diagramma.&quot; <br> &quot;Visualizza questo grafico di orchestrazione.&quot; |
+
+**Informazioni correlate**
+
+* [Collaboratore per campagne orchestrate](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrated/orchestrated-campaigns-coworker-skills){target="_blank"} fornisce indicazioni dettagliate, casi d&#39;uso e prompt di esempio per le competenze Renderer flusso di lavoro per campagne orchestrate in Adobe Journey Optimizer, ovvero Elenco campagne orchestrato, Recupero campagna orchestrato e Rendering flusso di lavoro per campagne orchestrate.
 
 ## Campaign v8
 
