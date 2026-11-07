@@ -30,7 +30,7 @@ Scopri in che modo [!DNL CX Enterprise Coworker] può contribuire a indagare mod
 
 Questo video illustra come utilizzare i prompt in linguaggio semplice in Coworker per indagare su un aumento inaspettato del pubblico di Adobe Experience Platform prima del lancio di una campagna. La procedura dettagliata mostra come l’analisi causale possa collegare le modifiche delle dimensioni del pubblico con i dati operativi, escludere le modifiche di configurazione e fornire spiegazioni plausibili senza attendere un’indagine ingegneristica.
 
->[!VIDEO](https://video.tv.adobe.com/v/3507342/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3507349/?captions=ita&learn=on&enablevpops)
 
 Scopri come:
 
