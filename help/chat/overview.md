@@ -4,10 +4,10 @@ title: Panoramica di Adobe CX Enterprise Coworker Chat
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: 4d1a45924304a21da9f23287c307e7616bb86219
 workflow-type: tm+mt
-source-wordcount: '721'
-ht-degree: 6%
+source-wordcount: '546'
+ht-degree: 8%
 ---
 # Informazioni sulla chat per collaboratori {#overview}
 
@@ -27,7 +27,7 @@ Per iniziare, consulta [Introduzione a Chat con coworking](ui-guide.md).
 
 ## Un’evoluzione da AI Assistant
 
-La chat con i collaboratori è il passaggio successivo dopo [Assistente AI](https://experienceleague.adobe.com/it/docs/cx-enterprise-ai/experience-cloud-ai/ai-assistant/ai-assistant-ui) e Adobe Experience Platform Agent Orchestrator. Tutto ciò che puoi fare oggi in AI Assistant, comprese le conoscenze sul prodotto e le informazioni operative e sui dati, rimane disponibile. Chat collaboratore aggiunge [blocchi predefiniti](#building-blocks) che consentono a una conversazione di completare il lavoro, non solo di rispondere alle domande.
+La chat con i collaboratori è il passaggio successivo dopo [Assistente AI](https://experienceleague.adobe.com/it/docs/cx-enterprise-ai/experience-cloud-ai/ai-assistant/ai-assistant-ui) e Adobe Experience Platform Agent Orchestrator. Tutto ciò che puoi fare oggi in AI Assistant, comprese le conoscenze sul prodotto e le informazioni operative e sui dati, rimane disponibile. La chat di Coworker utilizza gli [blocchi predefiniti di Coworker](/help/home.md#building-blocks) condivisi per completare la conversazione e non solo per rispondere alle domande.
 
 ## Esperienza di chat
 
@@ -54,16 +54,6 @@ Le seguenti applicazioni CX Enterprise sono compatibili con Chat di lavoro:
 * _Adobe Journey Optimizer B2B Edition (disponibile a breve)_
 * _Customer Journey Analytics B2B edition (disponibile a breve)_
 
-## Blocchi predefiniti
-
-La chat di Coworker è alimentata dai blocchi predefiniti di Coworker. I seguenti elementi di base sono attualmente disponibili.
-
-* **Cablaggio preassemblato Enterprise:** il motore che trasforma l&#39;obiettivo in lavoro completato. Esegue un ciclo continuo di auto-correzione (motivo, selezione di un’abilità, esecuzione, convalida, ripetizione), recuperando dagli errori e lavorando in parallelo fino al completamento del lavoro, non solo ai tentativi.
-* **Abilità:** playbook riutilizzabili, in normale Markdown, per eseguire correttamente ogni attività. Chat con i collaboratori viene fornito con competenze per le attività più comuni di customer experience oggi e l’obiettivo è quello di coprire il lavoro su tutte le applicazioni Adobe CX Enterprise nel tempo.
-* **Connettori MCP:** hanno regolamentato l&#39;accesso per agire tra sistemi Adobe e di terze parti, con connettori predefiniti e l&#39;opzione di portare il tuo.
-* **Governance:** gate di approvazione, autorizzazioni ereditate dall&#39;organizzazione Adobe, controlli eseguiti prima dell&#39;esecuzione di un&#39;azione e un audit trail completo.
-* **Memoria:** Chat collaboratore apprende le tue preferenze, le tue decisioni e le tue correzioni in più sessioni, dall&#39;ambito delle regole a livello di organizzazione fino alle tue preferenze personali, in modo che diventi più nitido più lavori con esso.
-
 ## Panoramica video
 
->[!VIDEO](https://video.tv.adobe.com/v/3495973?captions=ita&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3495967?learn=on){transcript=true}
