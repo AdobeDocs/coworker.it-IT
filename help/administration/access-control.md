@@ -8,9 +8,9 @@ jira: KT-22980
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 96c54754b978ac1be0fc5bb0741e9ed073017953
+source-git-commit: 11db1488d950f39ccb8c8019f644e54e1f3b8fa6
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '522'
 ht-degree: 0%
 ---
 # Controllo degli accessi per il collaboratore {#access-control}
@@ -19,7 +19,7 @@ Utilizza il controllo degli accessi di Adobe CX Enterprise Coworker per gestire 
 
 >[!NOTE]
 >
->Per utilizzare questa funzione, la tua organizzazione deve essere abilitata. Per ulteriori informazioni, vedere [Panoramica di Chat con i collaboratori](https://experienceleague.adobe.com/it/docs/coworker/content/chat/overview).
+>Per utilizzare questa funzione, la tua organizzazione deve essere abilitata. Per ulteriori informazioni, vedere [Panoramica di Chat con i collaboratori](https://experienceleague.adobe.com/en/docs/coworker/content/chat/overview).
 
 ## Come viene determinato l’accesso {#how-access-is-determined}
 
@@ -34,11 +34,11 @@ L’accesso del collaboratore è controllato da un’impostazione a livello di o
 
 ## Aggiungere amministratori di Collaborator {#add-coworker-admins}
 
-Un amministratore di Coworker è un utente a cui è stato assegnato il ruolo **[!UICONTROL Amministratore prodotto]** per [!DNL Adobe Experience Platform] in [!DNL Adobe Admin Console].
+Un amministratore di Coworker è un utente assegnato a **[!UICONTROL Amministratore prodotto]** o **[!UICONTROL Amministratore sistema]** per [!DNL Adobe Experience Platform] in [!DNL Adobe Admin Console].
 
 Usa questo video per scoprire come aggiungere gli amministratori di Collaborator.
 
->[!VIDEO](https://video.tv.adobe.com/v/3507047?captions=ita&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507041?learn=on){transcript=true}
 
 ## Gestire l’accesso degli utenti {#manage-user-access}
 
@@ -55,7 +55,7 @@ Usa questo video per scoprire come aggiungere gli amministratori di Collaborator
 
    Usa questo video per scoprire come gestire gli utenti di Collaborator.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3507157?captions=ita&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3507151?learn=on){transcript=true}
 
 4. In Coworker, utilizza **[!UICONTROL Utenti]** per gestire l&#39;accesso di singoli utenti o **[!UICONTROL Gruppi di utenti]** per gestire l&#39;accesso di Coworker per gruppi di utenti. Un&#39;impostazione del gruppo di utenti si applica ai relativi membri.
 
