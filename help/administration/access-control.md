@@ -8,9 +8,9 @@ jira: KT-22980
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 96c54754b978ac1be0fc5bb0741e9ed073017953
+source-git-commit: 11db1488d950f39ccb8c8019f644e54e1f3b8fa6
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '522'
 ht-degree: 0%
 ---
 # Controllo degli accessi per il collaboratore {#access-control}
@@ -34,7 +34,7 @@ L’accesso del collaboratore è controllato da un’impostazione a livello di o
 
 ## Aggiungere amministratori di Collaborator {#add-coworker-admins}
 
-Un amministratore di Coworker è un utente a cui è stato assegnato il ruolo **[!UICONTROL Amministratore prodotto]** per [!DNL Adobe Experience Platform] in [!DNL Adobe Admin Console].
+Un amministratore di Coworker è un utente assegnato a **[!UICONTROL Amministratore prodotto]** o **[!UICONTROL Amministratore sistema]** per [!DNL Adobe Experience Platform] in [!DNL Adobe Admin Console].
 
 Usa questo video per scoprire come aggiungere gli amministratori di Collaborator.
 

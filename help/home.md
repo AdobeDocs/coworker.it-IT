@@ -4,16 +4,27 @@ description: Scopri Adobe CX Enterprise Coworker, un compagno di squadra basato 
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 81e7de5e1b3b322fc74fa7bab8cb16841d627349
+source-git-commit: 4d1a45924304a21da9f23287c307e7616bb86219
 workflow-type: tm+mt
-source-wordcount: '1233'
-ht-degree: 15%
+source-wordcount: '1367'
+ht-degree: 14%
 ---
 # Panoramica di CX Enterprise Coworker {#overview}
 
 [!DNL Coworker] è un compagno di squadra basato sull&#39;intelligenza artificiale che ridefinisce la natura del lavoro per organizzazioni, team e singoli utenti. Automatizza la customer experience e i flussi di lavoro di marketing, consentendo alle organizzazioni di concentrarsi sul raggiungimento degli obiettivi aziendali e sul miglioramento dei risultati piuttosto che sul coordinamento delle attività. In qualità di motore agentico, Coworker adotta un approccio innovativo all’automazione dei processi aziendali. Migliora le prestazioni e l’accuratezza del modello di intelligenza artificiale unendo contesto aziendale, dati, intelligence, collaborazione e l’esecuzione di competenze agentiche, con governance e supervisione umana integrate.
 
 Il collaboratore è progettato per le organizzazioni che eseguono flussi di lavoro complessi e interfunzionali per l’esperienza del cliente. Riunisce Chat con collaboratori e Progetti del Collaboratore, consentendo ai professionisti di passare da un’unica attività a un flusso di lavoro completo con più team all’interno dell’esperienza del Collaboratore. Governance, approvazioni e supervisione umana sono integrati fin dall&#39;inizio. Ulteriori informazioni su [Adobe for Business](https://business.adobe.com/it/products/cx-enterprise-coworker.html).
+
+## Blocchi predefiniti {#building-blocks}
+
+I progetti Chat con collaboratori e Collaboratore condividono i seguenti blocchi predefiniti, tranne dove indicato. I progetti di collaborazione saranno presto disponibili.
+
+* **Cablaggio preassemblato Enterprise:** Trasforma il tuo obiettivo in lavoro completato attraverso un ciclo continuo di ragionamento, selezione delle abilità, esecuzione e convalida, con recupero degli errori ed esecuzione parallela.
+* **Abilità:** utilizza playbook riutilizzabili in normale Markdown per attività comuni con la customer experience.
+* **Connettori MCP:** Agisci su Adobe e su sistemi esterni tramite l&#39;accesso regolamentato, utilizzando connettori incorporati o il tuo.
+* **Governance:** mantieni il controllo attraverso i gate di approvazione, le autorizzazioni ereditate dalla tua organizzazione Adobe, i controlli prima dell&#39;esecuzione delle azioni e un audit trail.
+* **Memoria:** Applica preferenze, decisioni e correzioni in più sessioni, dalle regole dell&#39;organizzazione alle preferenze personali.
+* **Collaboration (solo progetti collaboratori):** Mantieni tutte le parti interessate in un unico thread di progetto, collegando le recensioni, le approvazioni e gli output degli agenti al lavoro, dal breve al lancio.
 
 ## Scegli un’esperienza
 

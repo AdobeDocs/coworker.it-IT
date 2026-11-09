@@ -5,8 +5,8 @@ user-guide-description: Scopri Adobe CX Enterprise Coworker, un compagno di squa
 description: Scopri gli strumenti di intelligenza artificiale in CX Enterprise. Migliora la tua conoscenza del prodotto e acquisisci informazioni operative utilizzando l’intelligenza artificiale in CX Enterprise.
 solution: Coworker
 role: Admin,User,Developer,Leader
-nudge: true
-source-git-commit: 8d80e55f4a2bdda11c5e9f3a97b6fe99c03b9b64
+auto-video-transcripts: true
+source-git-commit: 3c5387c838bedf96b9f3a3c826b39b6f3414c229
 workflow-type: tm+mt
 source-wordcount: '364'
 ht-degree: 13%
