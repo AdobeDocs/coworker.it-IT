@@ -5,9 +5,9 @@ jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: a91f0d04b8f4c79ad9c019d03f479542fc1db3ec
+source-git-commit: 52a5bd4f877300cb0ee6b7acbb7d0d0e4fddd3db
 workflow-type: tm+mt
-source-wordcount: '2094'
+source-wordcount: '2116'
 ht-degree: 3%
 ---
 # Introduzione alla chat con i collaboratori {#ui-guide}
@@ -25,6 +25,9 @@ La tabella seguente mostra dove è disponibile ogni esperienza.
 | Real-Time CDP | Disponibile ora | Disponibile a breve |
 | Adobe Journey Optimizer | Disponibile ora | Disponibile a breve |
 | Customer Journey Analytics | Disponibile ora | Disponibile ora |
+| Customer Journey Analytics B2B edition | Disponibile ora | Disponibile ora |
+| Content Analytics | Disponibile ora | Disponibile ora |
+| Marketing Campaign Analytics | Disponibile ora | Disponibile ora |
 | Adobe Analytics | Disponibile ora | Disponibile a breve |
 | Workfront | Disponibile ora | Disponibile ora |
 | Target | Disponibile ora | Disponibile ora |

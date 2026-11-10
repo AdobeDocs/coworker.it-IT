@@ -4,16 +4,20 @@ description: Vedi gli articoli e i video nuovi e aggiornati nella documentazione
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: bdee1fbac171345d41a0bcdfdaaadb025f860a55
+source-git-commit: 52a5bd4f877300cb0ee6b7acbb7d0d0e4fddd3db
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 1%
+source-wordcount: '402'
+ht-degree: 0%
 ---
 # Aggiornamenti alla documentazione {#documentation-updates}
 
 Utilizza questa pagina per trovare contenuti nuovi e sostanzialmente aggiornati nella documentazione di CX Enterprise Coworker. Gli aggiornamenti sono elencati per mese, a partire da quello più recente. Per le modifiche al prodotto in Collaboratore per team, consulta le [note sulla versione di Collaboratore per team](../coworker-for-teams/release-notes.md).
 
 ## Novembre 2026 {#nov-2026}
+
+**10 novembre 2026**
+
+* Aggiornato: [Guida introduttiva a Chat con coworking](../chat/ui-guide.md). Nella tabella Disponibilità sono ora elencati Customer Journey Analytics B2B edition, Content Analytics e Marketing Campaign Analytics. Chat con i collaboratori è disponibile nelle esperienze immersive e all’interno del prodotto per tutte e tre.
 
 **4 novembre 2026**
 
