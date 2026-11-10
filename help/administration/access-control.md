@@ -51,7 +51,7 @@ Un amministratore di Coworker è un utente assegnato come **[!UICONTROL Amminist
 
    Usa questo video per scoprire come gestire gli utenti di Collaborator.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3507151?learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3507157?captions=ita&learn=on){transcript=true}
 
 4. In Coworker, utilizza **[!UICONTROL Utenti]** per gestire l&#39;accesso di singoli utenti o **[!UICONTROL Gruppi di utenti]** per gestire l&#39;accesso di Coworker per gruppi di utenti. Un&#39;impostazione del gruppo di utenti si applica ai relativi membri.
 
