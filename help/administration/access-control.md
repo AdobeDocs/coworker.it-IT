@@ -8,18 +8,20 @@ jira: KT-22980
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 756748b585685de6cd0544a46014bc44a4cddc63
+source-git-commit: d9dae093a2a6366154366a9da320f07a891114f2
 workflow-type: tm+mt
-source-wordcount: '520'
+source-wordcount: '535'
 ht-degree: 0%
 ---
 # Controllo degli accessi per il collaboratore {#access-control}
 
 Utilizza il controllo degli accessi di Adobe CX Enterprise Coworker per gestire chi può utilizzare Coworker e quali funzionalità può utilizzare.
 
+Il controllo degli accessi si applica al collega sia nella barra a destra che nell’esperienza a schermo intero.
+
 >[!NOTE]
 >
->Il controllo degli accessi viene implementato progressivamente per tutti i clienti con accesso Coworker. È possibile che [!UICONTROL Il controllo di accesso] non sia ancora presente nell&#39;organizzazione. Per ulteriori informazioni, vedere [Panoramica di Chat con i collaboratori](/help/chat/overview.md).
+>Il controllo degli accessi viene implementato progressivamente per tutti i clienti con accesso Coworker. È possibile che [!UICONTROL Il controllo di accesso] non sia ancora presente nell&#39;organizzazione. Per ulteriori informazioni, vedere [Informazioni sull&#39;accesso](#get-help-with-access).
 
 ## Come viene determinato l’accesso {#how-access-is-determined}
 
@@ -51,7 +53,7 @@ Un amministratore di Coworker è un utente assegnato come **[!UICONTROL Amminist
 
    Usa questo video per scoprire come gestire gli utenti di Collaborator.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3507157?captions=ita&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3507151?learn=on){transcript=true}
 
 4. In Coworker, utilizza **[!UICONTROL Utenti]** per gestire l&#39;accesso di singoli utenti o **[!UICONTROL Gruppi di utenti]** per gestire l&#39;accesso di Coworker per gruppi di utenti. Un&#39;impostazione del gruppo di utenti si applica ai relativi membri.
 
