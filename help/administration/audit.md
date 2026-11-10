@@ -8,7 +8,7 @@ jira: KT-23097
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 9a02e6d68364af452b69da12bbbe0028eaeeb4cf
+source-git-commit: 1ef0292caf8def8dcd19512eef1b7950f308d2f5
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Scopri come controllare gli eventi in Adobe CX Enterprise Coworker. Il controllo
 
 >[!NOTE]
 >
->Per utilizzare questa funzione, la tua organizzazione deve essere abilitata. Il controllo di audit diventerà disponibile progressivamente e potrebbe non essere abilitato per tutte le organizzazioni di Coworker al momento del lancio. Per ulteriori informazioni, vedere [Panoramica di Chat con i collaboratori](https://experienceleague.adobe.com/it/docs/coworker/content/chat/overview).
+>Per utilizzare questa funzione, la tua organizzazione deve essere abilitata. Il controllo di audit diventerà disponibile progressivamente e potrebbe non essere abilitato per tutte le organizzazioni di Coworker al momento del lancio. Per ulteriori informazioni, vedere [Panoramica di Chat con i collaboratori](https://experienceleague.adobe.com/en/docs/coworker/content/chat/overview).
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3507047?captions=ita&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3508073?learn=on){transcript=true}
