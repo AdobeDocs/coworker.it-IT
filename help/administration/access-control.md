@@ -19,7 +19,7 @@ Utilizza il controllo degli accessi di Adobe CX Enterprise Coworker per gestire 
 
 >[!NOTE]
 >
->Per utilizzare questa funzione, la tua organizzazione deve essere abilitata. Il controllo degli accessi diventerà disponibile progressivamente e potrebbe non essere abilitato per tutte le organizzazioni di collaboratori al momento del lancio.Per ulteriori informazioni, vedere [Panoramica di Chat con i collaboratori](https://experienceleague.adobe.com/en/docs/coworker/content/chat/overview).
+>Per utilizzare questa funzione, la tua organizzazione deve essere abilitata. Il controllo degli accessi diventerà disponibile progressivamente e potrebbe non essere abilitato per tutte le organizzazioni di collaboratori al momento del lancio.Per ulteriori informazioni, vedere [Panoramica di Chat con i collaboratori](https://experienceleague.adobe.com/it/docs/coworker/content/chat/overview).
 
 ## Come viene determinato l’accesso {#how-access-is-determined}
 
