@@ -22,4 +22,4 @@ Scopri come controllare gli eventi in Adobe CX Enterprise Coworker. Il controllo
 >Per utilizzare questa funzione, la tua organizzazione deve essere abilitata. Il controllo di audit diventerà disponibile progressivamente e potrebbe non essere abilitato per tutte le organizzazioni di Coworker al momento del lancio. Per ulteriori informazioni, vedere [Panoramica di Chat con i collaboratori](https://experienceleague.adobe.com/it/docs/coworker/content/chat/overview).
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3508073?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3508098?captions=ita&learn=on){transcript=true}
