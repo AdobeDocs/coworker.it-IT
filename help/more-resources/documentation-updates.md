@@ -4,9 +4,9 @@ description: Vedi gli articoli e i video nuovi e aggiornati nella documentazione
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 52a5bd4f877300cb0ee6b7acbb7d0d0e4fddd3db
+source-git-commit: b2a8aa48302c80efa48416dede5f5d66005b8e7c
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '419'
 ht-degree: 0%
 ---
 # Aggiornamenti alla documentazione {#documentation-updates}
@@ -17,7 +17,7 @@ Utilizza questa pagina per trovare contenuti nuovi e sostanzialmente aggiornati 
 
 **10 novembre 2026**
 
-* Aggiornato: [Guida introduttiva a Chat con coworking](../chat/ui-guide.md). Nella tabella Disponibilità sono ora elencati Customer Journey Analytics B2B edition, Content Analytics e Marketing Campaign Analytics. Chat con i collaboratori è disponibile nelle esperienze immersive e all’interno del prodotto per tutte e tre.
+* Aggiornato: [Guida introduttiva a Chat con coworking](../chat/ui-guide.md). Nella tabella Disponibilità sono ora elencati Customer Journey Analytics B2B edition, Content Analytics e Marketing Campaign Analytics. L’esperienza coinvolgente è disponibile per tutti e tre. L’esperienza interna al prodotto è disponibile in Customer Journey Analytics B2B edition e Content Analytics e sarà presto disponibile in Marketing Campaign Analytics.
 
 **4 novembre 2026**
 

@@ -5,7 +5,7 @@ jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 52a5bd4f877300cb0ee6b7acbb7d0d0e4fddd3db
+source-git-commit: b2a8aa48302c80efa48416dede5f5d66005b8e7c
 workflow-type: tm+mt
 source-wordcount: '2116'
 ht-degree: 3%
@@ -27,7 +27,7 @@ La tabella seguente mostra dove è disponibile ogni esperienza.
 | Customer Journey Analytics | Disponibile ora | Disponibile ora |
 | Customer Journey Analytics B2B edition | Disponibile ora | Disponibile ora |
 | Content Analytics | Disponibile ora | Disponibile ora |
-| Marketing Campaign Analytics | Disponibile ora | Disponibile ora |
+| Marketing Campaign Analytics | Disponibile ora | Disponibile a breve |
 | Adobe Analytics | Disponibile ora | Disponibile a breve |
 | Workfront | Disponibile ora | Disponibile ora |
 | Target | Disponibile ora | Disponibile ora |
