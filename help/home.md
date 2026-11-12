@@ -4,7 +4,7 @@ description: Scopri Adobe CX Enterprise Coworker, un compagno di squadra basato 
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 4d1a45924304a21da9f23287c307e7616bb86219
+source-git-commit: abb341180786a0d250db4313ad1719a1947151ca
 workflow-type: tm+mt
 source-wordcount: '1367'
 ht-degree: 14%
@@ -14,6 +14,8 @@ ht-degree: 14%
 [!DNL Coworker] è un compagno di squadra basato sull&#39;intelligenza artificiale che ridefinisce la natura del lavoro per organizzazioni, team e singoli utenti. Automatizza la customer experience e i flussi di lavoro di marketing, consentendo alle organizzazioni di concentrarsi sul raggiungimento degli obiettivi aziendali e sul miglioramento dei risultati piuttosto che sul coordinamento delle attività. In qualità di motore agentico, Coworker adotta un approccio innovativo all’automazione dei processi aziendali. Migliora le prestazioni e l’accuratezza del modello di intelligenza artificiale unendo contesto aziendale, dati, intelligence, collaborazione e l’esecuzione di competenze agentiche, con governance e supervisione umana integrate.
 
 Il collaboratore è progettato per le organizzazioni che eseguono flussi di lavoro complessi e interfunzionali per l’esperienza del cliente. Riunisce Chat con collaboratori e Progetti del Collaboratore, consentendo ai professionisti di passare da un’unica attività a un flusso di lavoro completo con più team all’interno dell’esperienza del Collaboratore. Governance, approvazioni e supervisione umana sono integrati fin dall&#39;inizio. Ulteriori informazioni su [Adobe for Business](https://business.adobe.com/it/products/cx-enterprise-coworker.html).
+
+<div id="recs-overview-body-1"></div>
 
 ## Blocchi predefiniti {#building-blocks}
 
@@ -162,6 +164,13 @@ CARDS
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
 
 ### Partecipa ad Experience League LIVE
 

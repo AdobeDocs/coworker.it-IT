@@ -8,9 +8,9 @@ jira: KT-22980
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: d9dae093a2a6366154366a9da320f07a891114f2
+source-git-commit: ef8141ff251a2900b9f10b77942e1c9097cba59f
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '562'
 ht-degree: 0%
 ---
 # Controllo degli accessi per il collaboratore {#access-control}
@@ -40,14 +40,20 @@ Un amministratore di Coworker è un utente assegnato come **[!UICONTROL Amminist
 
 ## Gestire l’accesso degli utenti {#manage-user-access}
 
+Utilizza [!UICONTROL Controllo dell&#39;accesso] in Coworker per gestire l&#39;accesso di singoli utenti o gruppi di utenti.
+
+>[!NOTE]
+>
+>Seleziona fino a 100 utenti o gruppi di utenti per azione in blocco. Quando esportate gli utenti, l&#39;esportazione include solo gli utenti caricati.
+
 1. Apri l’esperienza Collaboratore. Per istruzioni, consulta [Accedi a Coworker](/help/chat/ui-guide.md#sign-in).
-2. Apri il menu del profilo e seleziona **[!UICONTROL Impostazioni amministratore]**.
+1. Apri il menu del profilo e seleziona **[!UICONTROL Impostazioni amministratore]**.
 
    ![Pagina principale del collaboratore con il controllo del menu del profilo evidenziato.](./assets/access-control/coworker-home.png)
 
    ![Menu del profilo Collaboratore con le impostazioni Amministratore evidenziate.](./assets/access-control/admin-settings.png)
 
-3. Selezionare **[!UICONTROL Controllo dell&#39;accesso]**.
+1. Selezionare **[!UICONTROL Controllo dell&#39;accesso]**.
 
    ![Impostazioni amministratore con la scheda Controllo di accesso evidenziata.](./assets/access-control/access-control.png)
 
@@ -55,7 +61,7 @@ Un amministratore di Coworker è un utente assegnato come **[!UICONTROL Amminist
 
    >[!VIDEO](https://video.tv.adobe.com/v/3507157?captions=ita&learn=on){transcript=true}
 
-4. In Coworker, utilizza **[!UICONTROL Utenti]** per gestire l&#39;accesso di singoli utenti o **[!UICONTROL Gruppi di utenti]** per gestire l&#39;accesso di Coworker per gruppi di utenti. Un&#39;impostazione del gruppo di utenti si applica ai relativi membri.
+1. Seleziona **[!UICONTROL Utenti]** per gestire l&#39;accesso individuale o **[!UICONTROL Gruppi di utenti]** per gestire l&#39;accesso al gruppo. Un&#39;impostazione del gruppo di utenti si applica ai relativi membri.
 
    I gruppi di utenti del collaboratore sono distinti da [!DNL Adobe Admin Console] gruppi. La sincronizzazione dei gruppi di utenti da [!DNL Adobe Admin Console] a Collaborator sarà presto disponibile.
 
