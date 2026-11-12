@@ -59,7 +59,7 @@ Utilizza [!UICONTROL Controllo dell&#39;accesso] in Coworker per gestire l&#39;a
 
    Usa questo video per scoprire come gestire gli utenti di Collaborator.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3507151?learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3507157?captions=ita&learn=on){transcript=true}
 
 1. Seleziona **[!UICONTROL Utenti]** per gestire l&#39;accesso individuale o **[!UICONTROL Gruppi di utenti]** per gestire l&#39;accesso al gruppo. Un&#39;impostazione del gruppo di utenti si applica ai relativi membri.
 
