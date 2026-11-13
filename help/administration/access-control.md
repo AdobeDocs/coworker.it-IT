@@ -8,9 +8,9 @@ jira: KT-22980
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: ef8141ff251a2900b9f10b77942e1c9097cba59f
+source-git-commit: d3438a28430c6c845cea881e28ab8e22a636edbb
 workflow-type: tm+mt
-source-wordcount: '562'
+source-wordcount: '571'
 ht-degree: 0%
 ---
 # Controllo degli accessi per il collaboratore {#access-control}
@@ -25,7 +25,7 @@ Il controllo degli accessi si applica al collega sia nella barra a destra che ne
 
 ## Come viene determinato l’accesso {#how-access-is-determined}
 
-L’accesso del collaboratore è controllato da un’impostazione a livello di organizzazione e da sostituzioni facoltative di utenti o gruppi. L’impostazione a livello di organizzazione abilita o disabilita l’accesso di Collaboratore per gli utenti dell’organizzazione. Per impostazione predefinita, l’accesso è abilitato per tutti.
+L’accesso del collaboratore è controllato da un’impostazione a livello di organizzazione e da sostituzioni facoltative di utenti o gruppi. L’impostazione a livello di organizzazione abilita o disabilita l’accesso di Collaboratore per gli utenti dell’organizzazione. Per impostazione predefinita, l’accesso all’organizzazione potrebbe essere abilitato o disabilitato.
 
 | Impostazione | Effetti sull’accesso |
 | --- | --- |
@@ -65,7 +65,7 @@ Utilizza [!UICONTROL Controllo dell&#39;accesso] in Coworker per gestire l&#39;a
 
    I gruppi di utenti del collaboratore sono distinti da [!DNL Adobe Admin Console] gruppi. La sincronizzazione dei gruppi di utenti da [!DNL Adobe Admin Console] a Collaborator sarà presto disponibile.
 
-   L’elenco Utenti include gli utenti dell’organizzazione. Per impostazione predefinita, l’accesso al collaboratore è abilitato per questi utenti.
+   L’elenco Utenti include gli utenti dell’organizzazione. Il loro accesso dipende dall’impostazione predefinita della tua organizzazione e da eventuali sostituzioni di utenti o gruppi.
 
    * **Abilitato:** l&#39;utente o il gruppo di utenti è attivo.
    * **Disabilitato:** l&#39;utente o il gruppo di utenti è inattivo.
