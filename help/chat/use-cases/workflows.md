@@ -4,9 +4,9 @@ title: Flussi di lavoro per chat del collaboratore
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 0d2b1c7e146114fac57a894ce1b61727456d263f
+source-git-commit: e8010a31192b717a762510d189f3a8a344b3e2fe
 workflow-type: tm+mt
-source-wordcount: '9190'
+source-wordcount: '9318'
 ht-degree: 6%
 ---
 # Flussi di lavoro di Chat del collaboratore {#use-cases}
@@ -212,6 +212,18 @@ Chat con collaboratori consente di eseguire query, analizzare e agire sui dati d
 **Informazioni correlate**
 
 * [Collaboratore per Decisioning](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills){target="_blank"} fornisce indicazioni dettagliate, casi d&#39;uso e best practice per le abilità Decisioning in Adobe Journey Optimizer.
+
+## Gestione dei processi
+
+>[!AVAILABILITY]
+>
+>Gestione processi è in **beta**. Per ulteriori informazioni su Gestione processi, leggere la [Panoramica di Gestione processi](https://experienceleague.adobe.com/it/docs/experience-platform/process-manager/home).
+
+| Flusso di lavoro | Descrizione | Competenze | Applicazione | Prompt di esempio |
+| --- | --- | --- | --- | --- |
+| Generatore di Gestione processi | Progettare, creare, aggiornare, rinominare ed eliminare processi in Process Manager. Elencare i tipi di task disponibili per Gestione processi. | `process-manager-builder` | Gestione dei processi | &quot;Elencare tutti i processi disponibili per l&#39;utilizzo in Process Manager.&quot; |
+| Operatore di esecuzione di Gestione processi | Avvia un’esecuzione, controlla lo stato e la cronologia delle esecuzioni, scopri il motivo per cui un’esecuzione non è riuscita, riesegui un’esecuzione esistente, annulla un’esecuzione in corso. | `process-manager-run-operator` | Gestione dei processi | &quot;Controllare la cronologia delle esecuzioni nel processo di esempio.&quot; |
+| Utilità di pianificazione di Gestione processi | Creare, modificare, mettere in pausa, riprendere, elencare e rimuovere pianificazioni di Gestione processi | `process-manager-scheduler` | Gestione dei processi | &quot;Elencare le pianificazioni per il processo di esempio.&quot; |
 
 ## Canali
 
