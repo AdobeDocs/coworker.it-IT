@@ -6,9 +6,9 @@ description: Scopri gli strumenti di intelligenza artificiale in CX Enterprise. 
 solution: Coworker
 role: Admin,User,Developer,Leader
 auto-video-transcripts: true
-source-git-commit: bafd318fee6017f992d4feab453058b5332005ce
+source-git-commit: 3a1fbd2a3ed69c47fd4450c0c1e07bb7398f2dbe
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '380'
 ht-degree: 13%
 ---
 
@@ -82,6 +82,7 @@ ht-degree: 13%
       - [Verifica della conformità del marchio](./chat/use-cases/brand-visibility/brand-compliance.md)
       - [Creare pagine AEM Sites](./chat/use-cases/brand-visibility/author-web-pages.md)
       - [AEM Assets integrato](./chat/use-cases/brand-visibility/onboard-aem-assets.md)
+      - [Creare un portale Asset Sourcing con Collaboratore](./chat/use-cases/brand-visibility/set-up-asset-sourcing-portal.md)
       - [Generare risorse di marketing](./chat/use-cases/brand-visibility/generate-assets.md)
     - Flusso di lavoro e pianificazione {#workflow-and-planning}
       - [Pianificare il lancio di una campagna digitale](./chat/use-cases/workflow-and-planning/plan-digital-campaign-launch.md)
