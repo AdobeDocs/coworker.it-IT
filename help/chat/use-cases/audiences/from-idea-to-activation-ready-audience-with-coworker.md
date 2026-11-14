@@ -25,4 +25,4 @@ ht-degree: 0%
 
 Scopri come utilizzare Collaborator per trasformare una richiesta in linguaggio semplice in un pubblico di marketing mirato. Rispondi alle domande chiarificatrici per perfezionare il pubblico, quindi chiedi a Customer Workfront di crearlo direttamente nella piattaforma, pronto per l’attivazione tra le destinazioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508216/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3508222/?captions=ita&learn=on&enablevpops)
