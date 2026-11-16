@@ -6,10 +6,10 @@ description: Scopri gli strumenti di intelligenza artificiale in CX Enterprise. 
 solution: Coworker
 role: Admin,User,Developer,Leader
 auto-video-transcripts: true
-source-git-commit: 3a1fbd2a3ed69c47fd4450c0c1e07bb7398f2dbe
+source-git-commit: 69468cabd86925ee6a7f3f86022ffefb26ffa66c
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 13%
+source-wordcount: '385'
+ht-degree: 12%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -86,6 +86,8 @@ ht-degree: 13%
       - [Generare risorse di marketing](./chat/use-cases/brand-visibility/generate-assets.md)
     - Flusso di lavoro e pianificazione {#workflow-and-planning}
       - [Pianificare il lancio di una campagna digitale](./chat/use-cases/workflow-and-planning/plan-digital-campaign-launch.md)
+- Progetti collaboratori {#projects}
+  - [Informazioni sui progetti di collaborazione](./projects/overview.md)
 - Personalizzazioni {#customizations}
   - [Panoramica delle personalizzazioni](./customizations/overview.md)
   - Competenze {#skills}
