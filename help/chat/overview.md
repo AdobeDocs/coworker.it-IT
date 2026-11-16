@@ -56,4 +56,4 @@ Le seguenti applicazioni CX Enterprise sono compatibili con Chat di lavoro:
 
 ## Panoramica video
 
->[!VIDEO](https://video.tv.adobe.com/v/3495967?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3495973?captions=ita&learn=on){transcript=true}

@@ -82,6 +82,6 @@ Utilizza Progetti di collaborazione per coordinare i flussi di lavoro in base ag
 
 Scopri i progetti di collaborazione in questo video.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508234?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3508241?captions=ita&learn=on){transcript=true}
 
 
