@@ -4,10 +4,10 @@ title: Panoramica di Adobe CX Enterprise Coworker Chat
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 69468cabd86925ee6a7f3f86022ffefb26ffa66c
+source-git-commit: f2c2de80ebe4026b736463626ee8122ac88bd5c5
 workflow-type: tm+mt
-source-wordcount: '514'
-ht-degree: 8%
+source-wordcount: '515'
+ht-degree: 9%
 ---
 # Informazioni sulla chat per collaboratori {#overview}
 
@@ -44,7 +44,10 @@ Le seguenti applicazioni CX Enterprise sono compatibili con Chat di lavoro:
 
 * Real-Time CDP B2C Edition
 * Adobe Journey Optimizer B2C Edition
-* Customer Journey Analytics B2C Edition
+* Customer Journey Analytics
+* Customer Journey Analytics B2B edition
+* Content Analytics
+* Marketing Campaign Analytics
 * Adobe Analytics
 * Adobe Target
 * AEM
@@ -52,7 +55,6 @@ Le seguenti applicazioni CX Enterprise sono compatibili con Chat di lavoro:
 * Marketo Engage
 * _Real-Time CDP B2B edition (disponibile a breve)_
 * _Adobe Journey Optimizer B2B Edition (disponibile a breve)_
-* _Customer Journey Analytics B2B edition (disponibile a breve)_
 
 ## Panoramica video
 
