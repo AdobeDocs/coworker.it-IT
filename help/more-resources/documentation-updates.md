@@ -4,10 +4,10 @@ description: Vedi gli articoli e i video nuovi e aggiornati nella documentazione
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: b2a8aa48302c80efa48416dede5f5d66005b8e7c
+source-git-commit: c29ae8ac2b69dd3d5e52529875a9224cb697ebee
 workflow-type: tm+mt
-source-wordcount: '419'
-ht-degree: 0%
+source-wordcount: '539'
+ht-degree: 1%
 ---
 # Aggiornamenti alla documentazione {#documentation-updates}
 
@@ -15,8 +15,27 @@ Utilizza questa pagina per trovare contenuti nuovi e sostanzialmente aggiornati 
 
 ## Novembre 2026 {#nov-2026}
 
+**16 novembre 2026**
+
+* Nuovo: [Informazioni Sui Progetti Collaboratore](../projects/overview.md). La disponibilità di Progetti del collaboratore è limitata.
+* Aggiornato: [Informazioni su Chat con collaboratori](../chat/overview.md). L&#39;elenco delle applicazioni compatibili ora include Customer Journey Analytics B2B edition, Content Analytics e Marketing Campaign Analytics. L’articolo contiene anche collegamenti a Progetti di collaborazione.
+
+**13 novembre 2026**
+
+* Nuovo: [Crea un portale Asset Sourcing con Collaboratore](../chat/use-cases/brand-visibility/set-up-asset-sourcing-portal.md)
+* Aggiornato: [Controllo dell&#39;accesso per Coworker](../administration/access-control.md). L’articolo ora stabilisce il limite per le azioni in blocco (fino a 100 utenti o gruppi di utenti) e chiarisce le impostazioni di accesso predefinite di Collaboratore.
+
+**12 novembre 2026**
+
+* Aggiornato: [Flussi di lavoro Chat con collaboratori](../chat/use-cases/workflows.md). L&#39;articolo ora elenca le competenze di Process Manager per la creazione, l&#39;esecuzione e la pianificazione dei processi. Process Manager è in versione beta.
+
+**11 novembre 2026**
+
+* Nuovo: [Da idea a pubblico pronto per l&#39;attivazione](../chat/use-cases/audiences/from-idea-to-activation-ready-audience-with-coworker.md)
+
 **10 novembre 2026**
 
+* Nuovo: [Controlla eventi collaboratori](../administration/audit.md)
 * Aggiornato: [Guida introduttiva a Chat con coworking](../chat/ui-guide.md). Nella tabella Disponibilità sono ora elencati Customer Journey Analytics B2B edition, Content Analytics e Marketing Campaign Analytics. L’esperienza coinvolgente è disponibile per tutti e tre. L’esperienza interna al prodotto è disponibile in Customer Journey Analytics B2B edition e Content Analytics e sarà presto disponibile in Marketing Campaign Analytics.
 
 **4 novembre 2026**
