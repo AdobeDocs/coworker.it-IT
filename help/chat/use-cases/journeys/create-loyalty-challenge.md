@@ -12,9 +12,9 @@ product_v2:
     internal-label: Coworker
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
     internal-label: Journey Optimizer
-source-git-commit: b5b8b4188aaa1c81c63a2b089c5dd12b408dbcda
+source-git-commit: 195ec9f05a901294bbd3631ef91435e58f016cd0
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '162'
 ht-degree: 1%
 ---
 
@@ -26,10 +26,10 @@ ht-degree: 1%
 
 Utilizza le istruzioni in linguaggio semplice per creare, configurare e avviare sfide di fidelizzazione con CX Enterprise Coworker. In questo video, scopri come impostare tipi di pubblico, premi e pianificazioni, automatizzare la configurazione del percorso e rivedere le informazioni sulla sfida.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496544/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496528/?learn=on&enablevpops)
 
 ## Vedi anche
 
-- [Journey Agent](https://experienceleague.adobe.com/it/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent), per altre funzionalità di IA per AJO disponibili tramite Chat con coorker, ad esempio creazione di percorsi, analisi e simulazione.
-- [Gestione delle richieste di fidelizzazione](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/essentials/ajo-coworker-skills#loyalty-challenge-management){target="_blank"} nella documentazione di Adobe Journey Optimizer.
+- [Journey Agent](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent), per altre funzionalità di IA per AJO disponibili tramite Chat con coorker, ad esempio creazione di percorsi, analisi e simulazione.
+- [Gestione delle richieste di fidelizzazione](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-challenge-management){target="_blank"} nella documentazione di Adobe Journey Optimizer.
 - [Altri flussi di lavoro di chat per collaboratori](../workflows.md#journeys)
