@@ -4,9 +4,9 @@ title: Flussi di lavoro per chat del collaboratore
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 195ec9f05a901294bbd3631ef91435e58f016cd0
+source-git-commit: 0089deb08fffb7ff7318d3b8ad0d89d465999793
 workflow-type: tm+mt
-source-wordcount: '9326'
+source-wordcount: '9483'
 ht-degree: 6%
 ---
 # Flussi di lavoro di Chat del collaboratore {#use-cases}
@@ -205,13 +205,16 @@ Chat con collaboratori consente di eseguire query, analizzare e agire sui dati d
 
 ## Funzione Decisioni
 
+Utilizza Chat con collaboratori per gestire gli oggetti Decisioning in Adobe Journey Optimizer: crea e gestisci regole di idoneità, formule di classificazione, espressioni per limiti di frequenza ed elementi decisionali da prompt in linguaggio naturale.
+
 | Flusso di lavoro | Descrizione | Competenze | Applicazione | Prompt di esempio |
 | --- | --- | --- | --- | --- |
-| [Generare, spiegare, simulare e ottimizzare le regole di decisione](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills#rules-ranking){target="_blank"} | Utilizza il linguaggio naturale per creare regole di idoneità e formule di classificazione e ottenere una spiegazione in inglese semplice. <br> Puoi testarli su un massimo di tre profili. <br> Riscrivili per rispettare i limiti di dimensione di PQL, senza dover scrivere manualmente la sintassi PQL. | Flusso di lavoro per regole di decisione | Adobe Journey Optimizer (AJO) | &quot;Creare una regola di idoneità destinata ai membri fedeltà nel livello 2 o superiore.&quot;<br><br>&quot;Spiegami questa regola nel linguaggio naturale.&quot;<br><br>&quot;Simulare questa regola con i profili di test.&quot;<br><br>&quot;Ottimizzare questa regola PQL per me.&quot; |
+| [Creare, gestire, simulare e ottimizzare le regole di decisioning](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills#rules-ranking){target="_blank"} | Utilizza il linguaggio naturale per creare, trovare, correggere ed eliminare regole di idoneità, formule di classificazione ed espressioni di quota limite per elementi dell’offerta, in modo da ottenere una spiegazione in inglese semplice. <br> Convalida e verifica fino a tre profili. <br> Riscrivili per rispettare i limiti di dimensione di PQL, senza dover scrivere manualmente la sintassi PQL. | Flusso di lavoro per regole di decisione | Adobe Journey Optimizer (AJO) | &quot;Creare una regola di idoneità destinata ai membri fedeltà nel livello 2 o superiore.&quot;<br><br>&quot;Spiegami questa regola in linguaggio naturale.&quot;<br><br>&quot;Simulare questa regola con i profili di test.&quot;<br><br>&quot;Ottimizzare questa regola di PQL.&quot;<br><br>&quot;Elencare le formule di classificazione.&quot;<br><br>&quot;Creare una regola di limitazione che conteggi gli eventi di clic.&quot; |
+| [Creare e gestire elementi decisionali](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills#decisioning-offer-item-workflow){target="_blank"} | Crea elementi decisionali (offerte) descrivendoli in chat, tra cui etichette o tag, idoneità, pianificazioni, quota limite, frammenti di contenuto e attributi personalizzati. <br> Aggiornare, approvare, annullare l&#39;approvazione, archiviare o eliminare definitivamente gli elementi. <br> Crea o aggiorna più elementi contemporaneamente da un file CSV o da un elenco. | Flusso di lavoro per elemento offerta decisioning | Adobe Journey Optimizer (AJO) | &quot;Crea un&#39;offerta limitata a un posizionamento denominato come drc.&quot;<br><br>&quot;Crea elementi decisionali da questo file CSV.&quot;<br><br>&quot;Approva l&#39;elemento Vendita estiva.&quot;<br><br>&quot;Archivia questa offerta.&quot; |
 
 **Informazioni correlate**
 
-* [Collaboratore per Decisioning](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills){target="_blank"} fornisce indicazioni dettagliate, casi d&#39;uso e best practice per le abilità Decisioning in Adobe Journey Optimizer.
+* [Collaboratore per Decisioning](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills){target="_blank"} fornisce indicazioni dettagliate, casi d&#39;uso e best practice per il flusso di lavoro delle regole di decisioning e per il flusso di lavoro degli elementi di offerta Decisioning in Adobe Journey Optimizer.
 
 ## Gestione dei processi
 
