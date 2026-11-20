@@ -6,9 +6,9 @@ description: Scopri gli strumenti di intelligenza artificiale in CX Enterprise. 
 solution: Coworker
 role: Admin,User,Developer,Leader
 auto-video-transcripts: true
-source-git-commit: e80cad8019c00fdf6bf101f113e9bbef780d5923
+source-git-commit: 98439066e28b43d6f97f1ac769dfb9d45e698ea9
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '403'
 ht-degree: 20%
 ---
 
@@ -102,10 +102,17 @@ ht-degree: 20%
     - [Cosa sono i plug-in?](./customizations/plugins/what-are-plugins.md)
     - [Gestire i plug-in per l’organizzazione](./customizations/plugins/manage-plugins-for-your-org.md)
   - Connettori esterni {#external-connectors}
+    - {hide-from-toc}[Amazon Ads](./customizations/external-connectors/amazon-ads.md)
     - {hide-from-toc}[Genio database](./customizations/external-connectors/databricks-genie.md)
     - {hide-from-toc}[Google Ads](./customizations/external-connectors/google-ads.md)
+    - {hide-from-toc}[Google BigQuery](./customizations/external-connectors/google-bigquery.md)
+    - {hide-from-toc}[Google Cloud Storage](./customizations/external-connectors/google-cloud-storage.md)
+    - {hide-from-toc}[Osservazione Infobip](./customizations/external-connectors/infobip-observe.md)
+    - {hide-from-toc}[Jira / Rovo atlassiano](./customizations/external-connectors/jira-atlassian-rovo.md)
     - {hide-from-toc}[Meta Ads](./customizations/external-connectors/meta-ads.md)
     - {hide-from-toc}[Microsoft Work IQ](./customizations/external-connectors/microsoft-work-iq.md)
+    - {hide-from-toc}[FuocoPioggia](./customizations/external-connectors/rainfocus.md)
+    - {hide-from-toc}[Slack](./customizations/external-connectors/slack.md)
     - {hide-from-toc}[IA corteccia Snowflake](./customizations/external-connectors/snowflake.md)
   - Memoria {#memory}
     - [Che cos&#39;è la memoria?](./customizations/memory/what-is-memory.md)
