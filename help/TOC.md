@@ -6,9 +6,9 @@ description: Scopri gli strumenti di intelligenza artificiale in CX Enterprise. 
 solution: Coworker
 role: Admin,User,Developer,Leader
 auto-video-transcripts: true
-source-git-commit: 98439066e28b43d6f97f1ac769dfb9d45e698ea9
+source-git-commit: 4c82db341547bf3009009a3fea4a88e294ce6c24
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '408'
 ht-degree: 20%
 ---
 
@@ -34,6 +34,7 @@ ht-degree: 20%
         - [Generare un elenco di controllo per l’implementazione](./chat/use-cases/data-insights/intelligent-checklist.md)
         - [Convalidare i dati da AA a CJA durante l’aggiornamento](./chat/use-cases/data-insights/data-validation-aa-cja.md)
         - [Migrazione di progetti AA a CJA](./chat/use-cases/data-insights/migrate-projects-aa-cja.md)
+        - [Creare un piano Content Analytics](./chat/use-cases/data-insights/content-analytics-implementation-plan.md)
         - [Convalidare l’implementazione di Streaming Media](./chat/use-cases/data-insights/streaming-media-validation.md)
         - [Convalidare la qualità del set di dati per il reporting di CJA](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
         - [Convalidare i dati di Experience Platform](./chat/use-cases/data-insights/data-validation-aep.md)
