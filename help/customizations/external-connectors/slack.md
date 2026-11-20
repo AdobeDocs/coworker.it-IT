@@ -120,7 +120,7 @@ Gli amministratori rendono il connettore [!DNL Slack] disponibile a tutti gli ut
 
 1. Rivedi **[!UICONTROL Accesso e autorizzazioni]**, quindi seleziona **[!UICONTROL Salva connessione]**. La scheda **[!UICONTROL Slack]** mostra **[!UICONTROL Configurazione salvata]**.
 
-   La finestra di dialogo mostra anche il metodo **[!UICONTROL Authentication]**, il tipo **[!UICONTROL Connection]** e il timeout dello strumento **[!UICONTROL 5}.]** Il collaboratore non salva la configurazione quando un campo delle credenziali o l’elenco degli ambiti è vuoto.
+   La finestra di dialogo mostra anche il metodo **[!UICONTROL Authentication]**, il tipo **[!UICONTROL Connection]** e il timeout dello strumento **[!UICONTROL 5&rbrace;.]** Il collaboratore non salva la configurazione quando un campo delle credenziali o l’elenco degli ambiti è vuoto.
 
    Ricarica la pagina, seleziona **[!UICONTROL Visualizza configurazione]** e verifica che la configurazione e la selezione dello strumento siano state salvate prima dell&#39;accesso dei membri.
 
