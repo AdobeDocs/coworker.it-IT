@@ -4,9 +4,9 @@ description: Scopri Adobe CX Enterprise Coworker per piattaforme AI. Esplora le 
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 9210150fc17e1d10484e5aff3997dc0cfbc429de
+source-git-commit: 86f96b905c83d202ba5adbc0781582e96f61883e
 workflow-type: tm+mt
-source-wordcount: '2161'
+source-wordcount: '2157'
 ht-degree: 1%
 ---
 
@@ -25,14 +25,14 @@ Non ci sono costi aggiuntivi per utilizzare Coworker nelle piattaforme AI. È in
 Prima di poter utilizzare Coworker in una piattaforma di intelligenza artificiale, verifica di disporre dei seguenti elementi.
 
 * È stato eseguito il provisioning di Adobe CX Enterprise Coworker per la tua organizzazione e il tuo accesso in Adobe.
-* Una delle [applicazioni Adobe CX Enterprise](https://business.adobe.com/it/solutions/customer-experience-orchestration.html).
+* Una delle [applicazioni Adobe CX Enterprise](https://business.adobe.com/solutions/customer-experience-orchestration.html).
 * Accesso a una piattaforma di intelligenza artificiale elencata in [Configura Coworker](#set-up-coworker).
 
 ## Accesso ai dati e autorizzazioni {#data-access-and-permissions}
 
 Il collaboratore nelle piattaforme AI riflette gli stessi dati e il medesimo livello di accesso associati alla tua identità Adobe. Ciò a cui puoi fare query e vedere corrisponde a ciò a cui hai già diritto in Experience Platform e nelle relative soluzioni. Coworker eredita tali autorizzazioni, pertanto non è necessaria alcuna configurazione di autorizzazioni separata per l’integrazione della piattaforma di intelligenza artificiale. Coworker restituisce informazioni di sola lettura e non modifica i dati dei clienti. Rivedi eventuali riepiloghi e analisi generati prima di utilizzarli per prendere decisioni commerciali.
 
-<!-- Confirmed by PM (Siddhartha Srivastava) on 2026-09-02 for Microsoft 365 Copilot, Claude, and ChatGPT. Validate this permissions model for each additional platform before adding its setup section. -->
+<!-- Confirmed by PM (Siddhartha Srivastava) on 2026-09-02 for Microsoft Copilot, Claude, and ChatGPT. Validate this permissions model for each additional platform before adding its setup section. -->
 
 ## Casi d’uso principali {#key-use-cases}
 
@@ -46,13 +46,13 @@ Utilizza Coworker nelle piattaforme AI per velocizzare i flussi di lavoro di mar
 | Ottimizzare flussi di lavoro e contenuti | Ottimizza i flussi di lavoro e identifica le esigenze di risorse e contenuti per le campagne CX. Genera report visivi sulle prestazioni della campagna senza creare manualmente query o dashboard. |
 | Collaborazione e decisioni più rapide | Utilizza i prompt suggeriti per esplorare tipi di pubblico, campagne e traffico web. Condividi informazioni con il tuo team durante le riunioni di pianificazione e rispondi a domande specifiche in tempo reale durante la revisione di piani o deck. |
 
-<!-- Use cases approved by PM Siddhartha Srivastava on 2026-08-31 and confirmed for Microsoft 365 Copilot, Claude, and ChatGPT on 2026-09-02. Validate applicability for each additional platform before adding its setup section. -->
+<!-- Use cases approved by PM Siddhartha Srivastava on 2026-08-31 and confirmed for Microsoft Copilot, Claude, and ChatGPT on 2026-09-02. Validate applicability for each additional platform before adding its setup section. -->
 
 ## Configurare il collaboratore {#set-up-coworker}
 
 Selezionare una piattaforma disponibile per le istruzioni di configurazione. Dopo l&#39;installazione, provare le [richieste di esempio](#example-prompts).
 
-* [Copilota Microsoft 365](#microsoft-365-copilot)
+* [Copilota Microsoft](#microsoft-365-copilot)
 * [ChatGPT](#chatgpt)
 * [Claude](#claude)
 * [Gemini Enterprise](#gemini-enterprise)
@@ -60,15 +60,15 @@ Selezionare una piattaforma disponibile per le istruzioni di configurazione. Dop
 * [IBM watsonx Orchestrate](#ibm-watsonx-orchestrate)
 * [Databricks](#databricks)
 
-### [!DNL Microsoft 365 Copilot] {#microsoft-365-copilot}
+### [!DNL Microsoft Copilot] {#microsoft-365-copilot}
 
-Utilizza [!DNL Adobe CX Enterprise Coworker for Copilot] per ottenere informazioni di marketing in [!DNL Microsoft 365 Copilot].
+Utilizza [!DNL Adobe CX Enterprise Coworker for Copilot] per ottenere informazioni di marketing in [!DNL Microsoft Copilot].
 
-Prima di iniziare, verificare di avere accesso a [!DNL Microsoft 365 Copilot].
+Prima di iniziare, verificare di avere accesso a [!DNL Microsoft Copilot].
 
 #### Impostare l’accesso all’organizzazione {#copilot-organization-setup}
 
-Un amministratore deve completare questi passaggi prima che gli utenti finali possano accedere a Collaborator in [!DNL Microsoft 365 Copilot].
+Un amministratore deve completare questi passaggi prima che gli utenti finali possano accedere a Collaborator in [!DNL Microsoft Copilot].
 
 1. In [!DNL Microsoft 365 admin center], confermare che le impostazioni del tenant consentono le app e gli agenti generati da editori esterni.
 1. Approva **[!UICONTROL Adobe CX Enterprise Coworker]** sia in [!DNL Microsoft 365 admin center] che in [!DNL Teams admin center]. In genere è possibile trovare l&#39;agente tramite [!DNL Microsoft Commercial Marketplace] o l&#39;elenco delle **[!UICONTROL app integrate]** dell&#39;organizzazione.
@@ -80,19 +80,19 @@ Un amministratore deve completare questi passaggi prima che gli utenti finali po
 
 #### Accedi a Collaboratore {#copilot-access}
 
-Una volta che l&#39;amministratore abilita Coworker, potrai accedervi tra [!DNL Microsoft 365 Copilot] superfici, tra cui [!DNL Teams], [!DNL Word], [!DNL Excel], [!DNL PowerPoint] e chat Web.
+Una volta che l&#39;amministratore abilita Coworker, potrai accedervi tra [!DNL Microsoft Copilot] superfici, tra cui [!DNL Teams], [!DNL Word], [!DNL Excel], [!DNL PowerPoint] e chat Web.
 
-In [!DNL Microsoft 365 Copilot], selezionare **[!UICONTROL Agenti]**, quindi **[!UICONTROL Altri agenti]**.
+In [!DNL Microsoft Copilot], selezionare **[!UICONTROL Agenti]**, quindi **[!UICONTROL Altri agenti]**.
 
-![Copilota Microsoft 365 con il menu Agenti aperto e Altri agenti evidenziati.](./assets/ai-platforms/copilot/copilot-agents.png)
+![Copilota Microsoft con il menu Agenti aperto e Altri agenti evidenziati.](./assets/ai-platforms/copilot/copilot-agents.png)
 
 Selezionare **[!UICONTROL Adobe CX Enterprise Coworker]** nel catalogo agenti.
 
-![Catalogo agenti Microsoft 365 Copilot con l&#39;elenco di Adobe CX Enterprise Coworker evidenziato.](./assets/ai-platforms/copilot/copilot-select-agent.png)
+![Catalogo agenti Microsoft Copilot con l&#39;elenco di Adobe CX Enterprise Coworker evidenziato.](./assets/ai-platforms/copilot/copilot-select-agent.png)
 
 Infine, seleziona **[!UICONTROL Aggiungi]** per aggiungere Coworker ai tuoi agenti.
 
-![Dettagli di Adobe CX Enterprise Coworker in Microsoft 365 Copilot con il pulsante Aggiungi evidenziato.](./assets/ai-platforms/copilot/copilot-add-coworker.png)
+![Dettagli Adobe CX Enterprise Coworker in Microsoft Copilot con il pulsante Aggiungi evidenziato.](./assets/ai-platforms/copilot/copilot-add-coworker.png)
 
 ### [!DNL ChatGPT] {#chatgpt}
 
@@ -334,7 +334,7 @@ Verificare che il connettore sia disponibile prima di porre domande in [!DNL Gen
 
 Per idee, esplora i [casi d&#39;uso chiave](#key-use-cases) e [prompt di esempio](#example-prompts).
 
-<!-- Setup steps for Microsoft 365 Copilot, ChatGPT, and Claude reflect the real customer-facing flow confirmed by PM (Siddhartha Srivastava) on 2026-09-02: an org admin approves the connector or plugin, then end users find and add it in their platform's catalog and sign in. The previous version of this file described a manual MCP-connector setup for ChatGPT (Settings > Connectors > paste server URL) -- PM clarified that flow is for internal testing only, not the customer path, so it was removed here. -->
+<!-- Setup steps for Microsoft Copilot, ChatGPT, and Claude reflect the real customer-facing flow confirmed by PM (Siddhartha Srivastava) on 2026-09-02: an org admin approves the connector or plugin, then end users find and add it in their platform's catalog and sign in. The previous version of this file described a manual MCP-connector setup for ChatGPT (Settings > Connectors > paste server URL) -- PM clarified that flow is for internal testing only, not the customer path, so it was removed here. -->
 
 <!-- AWS Quick setup follows PM guidance from the October 28, 2026 email, "Coworker in AI Platforms screenshots - Gemini / Amazon Quick." End users connect through MCP and sign in with Adobe credentials. -->
 
