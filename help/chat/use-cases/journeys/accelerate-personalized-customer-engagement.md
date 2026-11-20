@@ -22,7 +22,7 @@ Scopri come Adobe CX Enterprise Coworker aiuta a trasformare un obiettivo di mar
 
 ## Vedi anche
 
-- [Collaboratore per percorsi: creazione di Percorsi](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-create){target="_blank"}, con casi d&#39;uso chiave, procedure consigliate e competenze al di fuori dell&#39;ambito per la creazione di percorsi in Adobe Journey Optimizer.
-- [Collaboratore per percorsi: creazione di contenuti per il canale](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#channel-content-create){target="_blank"}, per la generazione di contenuti di messaggi specifici per il canale in Adobe Journey Optimizer.
-- [Abilità dei collaboratori per Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, panoramica delle competenze dei collaboratori in Journey Optimizer.
+- [Collaboratore per percorsi: creazione di Percorsi](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-create){target="_blank"}, con casi d&#39;uso chiave, procedure consigliate e competenze al di fuori dell&#39;ambito per la creazione di percorsi in Adobe Journey Optimizer.
+- [Collaboratore per percorsi: creazione di contenuti per il canale](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#channel-content-create){target="_blank"}, per la generazione di contenuti di messaggi specifici per il canale in Adobe Journey Optimizer.
+- [Abilità dei collaboratori per Journey Optimizer](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, panoramica delle competenze dei collaboratori in Journey Optimizer.
 - [Altri flussi di lavoro di chat per collaboratori](../workflows.md#journeys)

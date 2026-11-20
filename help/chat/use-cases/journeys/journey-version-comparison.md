@@ -21,6 +21,6 @@ Scopri come utilizzare Coworker per confrontare le versioni di un percorso Adobe
 
 ## Vedi anche
 
-- [Collaboratore per percorsi: strumenti di Percorso](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-tools){target="_blank"}, per il caso d&#39;uso relativo al confronto delle versioni e prompt di esempio.
-- [Abilità dei collaboratori per Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, panoramica delle competenze dei collaboratori in Journey Optimizer.
+- [Collaboratore per percorsi: strumenti di Percorso](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-tools){target="_blank"}, per il caso d&#39;uso relativo al confronto delle versioni e prompt di esempio.
+- [Abilità dei collaboratori per Journey Optimizer](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, panoramica delle competenze dei collaboratori in Journey Optimizer.
 - [Altri flussi di lavoro di chat per collaboratori](../workflows.md#journeys)
