@@ -30,7 +30,7 @@ ht-degree: 1%
 
 Utilizza Coworker per simulare un percorso Adobe Journey Optimizer con profili di test ed eventi generati automaticamente. In questo video, scopri come verificare i percorsi del percorso, ricevere messaggi di prova e rivedere la copertura dei percorsi e i risultati della simulazione prima di pubblicarli.
 
->[!VIDEO](https://video.tv.adobe.com/v/3507004?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507037?captions=ita&learn=on)
 
 ## Vedi anche
 
