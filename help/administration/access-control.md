@@ -8,9 +8,9 @@ jira: KT-22980
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: d3438a28430c6c845cea881e28ab8e22a636edbb
+source-git-commit: 386a24a7a52efce2e36f8391b55fd044e4f44a71
 workflow-type: tm+mt
-source-wordcount: '571'
+source-wordcount: '622'
 ht-degree: 0%
 ---
 # Controllo degli accessi per il collaboratore {#access-control}
@@ -25,7 +25,7 @@ Il controllo degli accessi si applica al collega sia nella barra a destra che ne
 
 ## Come viene determinato l’accesso {#how-access-is-determined}
 
-L’accesso del collaboratore è controllato da un’impostazione a livello di organizzazione e da sostituzioni facoltative di utenti o gruppi. L’impostazione a livello di organizzazione abilita o disabilita l’accesso di Collaboratore per gli utenti dell’organizzazione. Per impostazione predefinita, l’accesso all’organizzazione potrebbe essere abilitato o disabilitato.
+In qualità di amministratore di Coworker, utilizza [!UICONTROL Imposta accesso predefinito] per attivare o disattivare l&#39;accesso di Coworker per l&#39;intera organizzazione. Puoi anche configurare le sostituzioni di accesso per utenti o gruppi di utenti specifici. Per impostazione predefinita, l’accesso all’organizzazione potrebbe essere abilitato o disabilitato.
 
 | Impostazione | Effetti sull’accesso |
 | --- | --- |
@@ -61,6 +61,13 @@ Utilizza [!UICONTROL Controllo dell&#39;accesso] in Coworker per gestire l&#39;a
 
    >[!VIDEO](https://video.tv.adobe.com/v/3507157?captions=ita&learn=on){transcript=true}
 
+1. In **[!UICONTROL Imposta accesso predefinito]**, attiva o disattiva l&#39;accesso per la tua organizzazione:
+
+   * **Attivato:** abilita l&#39;accesso a Collaboratore per tutti gli utenti dell&#39;organizzazione, in base alle sostituzioni di utenti o gruppi.
+   * **Disattivato:** disabilita l&#39;accesso a Collaboratore per tutti gli utenti dell&#39;organizzazione, a meno che non consenti sostituzioni di utenti o gruppi.
+
+   Per concedere l&#39;accesso a utenti o gruppi specifici mentre l&#39;accesso all&#39;organizzazione è disattivato, attivare **[!UICONTROL Consenti sostituzioni]**. Seleziona **[!UICONTROL Aggiungi sostituzione]** per aggiungere gli utenti o i gruppi che devono avere accesso.
+
 1. Seleziona **[!UICONTROL Utenti]** per gestire l&#39;accesso individuale o **[!UICONTROL Gruppi di utenti]** per gestire l&#39;accesso al gruppo. Un&#39;impostazione del gruppo di utenti si applica ai relativi membri.
 
    I gruppi di utenti del collaboratore sono distinti da [!DNL Adobe Admin Console] gruppi. La sincronizzazione dei gruppi di utenti da [!DNL Adobe Admin Console] a Collaborator sarà presto disponibile.
@@ -69,8 +76,6 @@ Utilizza [!UICONTROL Controllo dell&#39;accesso] in Coworker per gestire l&#39;a
 
    * **Abilitato:** l&#39;utente o il gruppo di utenti è attivo.
    * **Disabilitato:** l&#39;utente o il gruppo di utenti è inattivo.
-
-   Quando l&#39;accesso per tutti è disabilitato, attivare **[!UICONTROL Consenti sostituzioni]** e selezionare **[!UICONTROL Aggiungi sostituzione]** per aggiungere utenti o gruppi che devono ancora avere accesso.
 
 ## Autorizzazioni nelle applicazioni CX Enterprise compatibili con Coworker {#permissions-in-compatible-applications}
 
