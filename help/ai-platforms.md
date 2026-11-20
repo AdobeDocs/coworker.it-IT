@@ -25,7 +25,7 @@ Non ci sono costi aggiuntivi per utilizzare Coworker nelle piattaforme AI. È in
 Prima di poter utilizzare Coworker in una piattaforma di intelligenza artificiale, verifica di disporre dei seguenti elementi.
 
 * È stato eseguito il provisioning di Adobe CX Enterprise Coworker per la tua organizzazione e il tuo accesso in Adobe.
-* Una delle [applicazioni Adobe CX Enterprise](https://business.adobe.com/solutions/customer-experience-orchestration.html).
+* Una delle [applicazioni Adobe CX Enterprise](https://business.adobe.com/it/solutions/customer-experience-orchestration.html).
 * Accesso a una piattaforma di intelligenza artificiale elencata in [Configura Coworker](#set-up-coworker).
 
 ## Accesso ai dati e autorizzazioni {#data-access-and-permissions}
