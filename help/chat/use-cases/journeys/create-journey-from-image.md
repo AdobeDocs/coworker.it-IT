@@ -23,14 +23,20 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: da31900f-0b2e-4267-a5f8-69290b954752
     internal-label: Customer experience management
-source-git-commit: b5b8b4188aaa1c81c63a2b089c5dd12b408dbcda
+source-git-commit: cf3c531cc5daacec7b917cad472fe95b08f31b9a
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 0%
+source-wordcount: '142'
+ht-degree: 5%
 ---
 
-# Creazione di un percorso da un&#39;immagine
+# Creare un percorso a partire da un’immagine
 
 Caricare un&#39;immagine del diagramma di flusso, ad esempio una diapositiva di PowerPoint, in CX Enterprise Coworker. In questo video, scopri come rivedere il prompt estratto dall’immagine, specificare l’evento trigger e salvare una bozza di percorso modificabile in Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504871/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504865/?learn=on&enablevpops)
+
+## Vedi anche
+
+- [Collaboratore per percorsi: creazione di Percorsi](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-create){target="_blank"}, con casi d&#39;uso chiave, procedure consigliate e competenze al di fuori dell&#39;ambito per la creazione di percorsi in Adobe Journey Optimizer.
+- [Abilità dei collaboratori per Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, panoramica delle competenze dei collaboratori in Journey Optimizer.
+- [Altri flussi di lavoro di chat per collaboratori](../workflows.md#journeys)

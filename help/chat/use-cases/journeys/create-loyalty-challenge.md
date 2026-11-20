@@ -12,10 +12,10 @@ product_v2:
     internal-label: Coworker
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
     internal-label: Journey Optimizer
-source-git-commit: 195ec9f05a901294bbd3631ef91435e58f016cd0
+source-git-commit: 44d80cde607adc9f8c688f85489dba2b932f0fbe
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 1%
+source-wordcount: '220'
+ht-degree: 0%
 ---
 
 # Adobe Journey Optimizer &amp; Coworker: una sfida di fidelizzazione e approfondimenti superficiali
@@ -26,10 +26,12 @@ ht-degree: 1%
 
 Utilizza le istruzioni in linguaggio semplice per creare, configurare e avviare sfide di fidelizzazione con CX Enterprise Coworker. In questo video, scopri come impostare tipi di pubblico, premi e pianificazioni, automatizzare la configurazione del percorso e rivedere le informazioni sulla sfida.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496544/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496528/?learn=on&enablevpops)
 
 ## Vedi anche
 
-- [Journey Agent](https://experienceleague.adobe.com/it/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent), per altre funzionalità di IA per AJO disponibili tramite Chat con coorker, ad esempio creazione di percorsi, analisi e simulazione.
-- [Gestione delle richieste di fidelizzazione](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-challenge-management){target="_blank"} nella documentazione di Adobe Journey Optimizer.
-- [Altri flussi di lavoro di chat per collaboratori](../workflows.md#journeys)
+- [Journey Agent](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent), per altre funzionalità di IA per AJO disponibili tramite Chat con coorker, ad esempio creazione di percorsi, analisi e simulazione.
+- [Gestione delle richieste di fidelizzazione](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-challenge-management){target="_blank"} nella documentazione di Adobe Journey Optimizer.
+- [Informazioni sulla fedeltà](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-data-insight){target="_blank"} nella documentazione di Adobe Journey Optimizer, per l&#39;esecuzione di query su punti fedeltà, livelli e metriche di ricavi.
+- [Abilità dei collaboratori per Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, panoramica delle competenze dei collaboratori in Journey Optimizer.
+- [Altri flussi di lavoro di chat per collaboratori](../workflows.md#loyalty)
